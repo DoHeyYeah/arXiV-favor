@@ -1,0 +1,29 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "hongyuduan"
+repo_name: "arXiV-favor"
+show_authors: True
+show_links: True
+show_badge: False
+max_results: 20
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+keywords:
+    # --------- My Keywords ---------
+    "Manipulation":
+        filters: ["3D reconstruction", "NeRF", "MANO", "4D reconstruction", "flow matching", "diffusion", "3D vision"]
+    "Dexterous":
+        filters: ["Human to Robot", "Human2Robot", "In-context Learning", "ICL", "benchmark"]
