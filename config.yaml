@@ -21,9 +21,11 @@ md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
 # keywords to search
+# 注意：每个 topic 内所有 filter 是 OR 关系，任何一个宽泛词都会放进大量噪声，
+# 所以尽量用多词短语，不要用单词缩写（如 ICL）或泛词（如 benchmark、diffusion）
 keywords:
     # --------- My Keywords ---------
     "Manipulation":
-        filters: ["3D reconstruction", "NeRF", "MANO", "4D reconstruction", "flow matching", "diffusion", "3D vision"]
+        filters: ["3D reconstruction", "NeRF", "MANO", "4D reconstruction", "flow matching", "dexterous manipulation", "robotic manipulation"]
     "Dexterous":
-        filters: ["Human to Robot", "Human2Robot", "In-context Learning", "ICL", "benchmark"]
+        filters: ["dexterous hand", "in-hand manipulation", "Human to Robot", "Human2Robot", "vision-based grasping"]
