@@ -1,4 +1,3 @@
-# TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "DoHeyYeah"
 repo_name: "arXiV-favor"
@@ -29,3 +28,9 @@ keywords:
         filters: ["3D reconstruction", "NeRF", "MANO", "4D reconstruction", "flow matching", "dexterous manipulation", "robotic manipulation"]
     "Dexterous":
         filters: ["dexterous hand", "in-hand manipulation", "Human to Robot", "Human2Robot", "vision-based grasping"]
+
+# 手动收藏的论文：按 topic 填 arXiv id（带不带版本号都行），每天和关键词结果一起更新
+# 也可以填一个 config 里没有的关键词作为新 topic，例如 "Favorites"
+manual_papers:
+    "Manipulation": []
+    "Dexterous": []

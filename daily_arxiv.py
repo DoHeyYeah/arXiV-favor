@@ -121,14 +121,50 @@ def extract_repo_url(comments):
             return u
     return None
 
+def _format_result(result):
+    '''format one arxiv result into (paper_key, markdown_row, web_line)'''
+    paper_id            = result.get_short_id()
+    paper_title         = result.title
+    paper_url           = result.entry_id
+    paper_last_author   = get_authors(result.authors,last_author = True)
+    update_time         = result.updated.date()
+    comments            = result.comment
+
+    logging.info(f"Time = {update_time} title = {paper_title} author = {get_authors(result.authors,first_author = True)}")
+
+    # eg: 2108.09112v1 -> 2108.09112
+    ver_pos = paper_id.find('v')
+    if ver_pos == -1:
+        paper_key = paper_id
+    else:
+        paper_key = paper_id[0:ver_pos]
+    paper_url = arxiv_url + 'abs/' + paper_key
+
+    # 从 comments 中提取代码托管链接（如果有的话）
+    repo_url = extract_repo_url(comments)
+
+    # 根据是否有代码链接来生成 content
+    if repo_url is not None:
+        md_row = "|**{}**|**{}**|{} Team|[{}]({})|**[link]({})**|\n".format(
+               update_time,paper_title,paper_last_author,paper_key,paper_url,repo_url)
+        web_line = "- {}, **{}**, {} Team, Paper: [{}]({}), Code: **[{}]({})**".format(
+               update_time,paper_title,paper_last_author,paper_url,paper_url,repo_url,repo_url)
+    else:
+        md_row = "|**{}**|**{}**|{} Team|[{}]({})|null|\n".format(
+               update_time,paper_title,paper_last_author,paper_key,paper_url)
+        web_line = "- {}, **{}**, {} Team, Paper: [{}]({})".format(
+               update_time,paper_title,paper_last_author,paper_url,paper_url)
+
+    return paper_key, md_row, web_line + "\n"
+
 def get_daily_papers(topic,query="slam", max_results=2):
     """
     @param topic: str
     @param query: str
     @return paper_with_code: dict
     """
-    # output 
-    content = dict() 
+    # output
+    content = dict()
     content_to_web = dict()
     search_engine = arxiv.Search(
         query = query,
@@ -137,45 +173,36 @@ def get_daily_papers(topic,query="slam", max_results=2):
     )
 
     for result in arxiv_client.results(search_engine):
-
-        paper_id            = result.get_short_id()
-        paper_title         = result.title
-        paper_url           = result.entry_id
-        paper_first_author  = get_authors(result.authors,first_author = True)
-        paper_last_author   = get_authors(result.authors,last_author = True)
-        update_time         = result.updated.date()
-        comments            = result.comment
-
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
-
-        # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]    
-        paper_url = arxiv_url + 'abs/' + paper_key
-        
-        # 从 comments 中提取代码托管链接（如果有的话）
-        repo_url = extract_repo_url(comments)
-        
-        # 根据是否有代码链接来生成 content
-        if repo_url is not None:
-            content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|**[link]({})**|\n".format(
-                   update_time,paper_title,paper_last_author,paper_key,paper_url,repo_url)
-            content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({}), Code: **[{}]({})**".format(
-                   update_time,paper_title,paper_last_author,paper_url,paper_url,repo_url,repo_url)
-        else:
-            content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|null|\n".format(
-                   update_time,paper_title,paper_last_author,paper_key,paper_url)
-            content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({})".format(
-                   update_time,paper_title,paper_last_author,paper_url,paper_url)
-
-        content_to_web[paper_key] += "\n"
+        paper_key, md_row, web_line = _format_result(result)
+        content[paper_key] = md_row
+        content_to_web[paper_key] = web_line
 
     data = {topic:content}
     data_web = {topic:content_to_web}
-    return data,data_web 
+    return data,data_web
+
+def get_papers_by_id(topic, paper_ids):
+    '''
+    fetch manually collected papers by arxiv id, e.g. ["2303.04137"]
+    @param topic: str
+    @param paper_ids: list of arxiv ids (version suffix optional)
+    @return same shape as get_daily_papers
+    '''
+    content = dict()
+    content_to_web = dict()
+    paper_ids = [str(p) for p in (paper_ids or []) if str(p).strip()]
+    if not paper_ids:
+        return {topic:content}, {topic:content_to_web}
+
+    search_engine = arxiv.Search(id_list = paper_ids)
+    for result in arxiv_client.results(search_engine):
+        paper_key, md_row, web_line = _format_result(result)
+        content[paper_key] = md_row
+        content_to_web[paper_key] = web_line
+
+    data = {topic:content}
+    data_web = {topic:content_to_web}
+    return data,data_web
 
 def update_paper_links(filename):
     '''
@@ -389,6 +416,19 @@ def demo(**config):
                 logging.error(f"Failed to fetch papers for '{topic}': {e}")
             print("\n")
         logging.info(f"GET daily papers end")
+
+        # manually collected papers (arxiv ids) from config['manual_papers']
+        manual = config.get('manual_papers') or {}
+        for topic, paper_ids in manual.items():
+            if not paper_ids:
+                continue
+            logging.info(f"Manual papers: {topic} -> {paper_ids}")
+            try:
+                data, data_web = get_papers_by_id(topic, paper_ids)
+                data_collector.append(data)
+                data_collector_web.append(data_web)
+            except Exception as e:
+                logging.error(f"Failed to fetch manual papers for '{topic}': {e}")
 
     # 1. update README.md file
     if publish_readme:

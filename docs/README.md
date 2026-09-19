@@ -17,6 +17,10 @@ All search topics, filters and output paths live in `config.yaml`:
 
 - `keywords`: each topic has a list of `filters`, which are combined with
   `OR` into a single arXiv query.
+- `manual_papers`: manually collected papers as arXiv ids, grouped by topic.
+  They are merged into the daily output together with the keyword results.
+  A topic here that is not in `keywords` (e.g. `Favorites`) gets its own
+  section.
 - `max_results`: how many papers to fetch per topic per run.
 - `publish_readme` / `publish_gitpage` / `publish_wechat`: which outputs to
   generate.
