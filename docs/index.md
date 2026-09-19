@@ -1,18 +1,14 @@
+---
+layout: default
+---
+
 ## Updated on 2026.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#manipulation>Manipulation</a></li>
-    <li><a href=#dexterous>Dexterous</a></li>
-  </ol>
-</details>
-
 ## Manipulation
 
-|Publish Date|Title|Authors|arXiv|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | arXiv | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Emilio Ferrara Team|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
 |**2026-09-17**|**Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision**|Max Simchowitz Team|[2609.20820](http://arxiv.org/abs/2609.20820)|null|
 |**2026-09-17**|**Can 4D Foundation Models Remember?**|Wei-Chiu Ma Team|[2609.20819](http://arxiv.org/abs/2609.20819)|null|
@@ -34,12 +30,10 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
-
 ## Dexterous
 
-|Publish Date|Title|Authors|arXiv|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | arXiv | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-17**|**FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents**|Kai O. Arras Team|[2609.20673](http://arxiv.org/abs/2609.20673)|null|
 |**2026-09-17**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Renjing Xu Team|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
@@ -60,6 +54,4 @@
 |**2026-09-14**|**SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection**|Tao Yu Team|[2609.15910](http://arxiv.org/abs/2609.15910)|null|
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
-
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
 
