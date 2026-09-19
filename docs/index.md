@@ -1,18 +1,14 @@
+---
+layout: default
+---
+
 ## Updated on 2026.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#manipulation>Manipulation</a></li>
-    <li><a href=#dexterous>Dexterous</a></li>
-  </ol>
-</details>
-
 ## Manipulation
 
-|Publish Date|Title|Authors|arXiv|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | arXiv | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-17**|**Can 4D Foundation Models Remember?**|Wei-Chiu Ma Team|[2609.20819](http://arxiv.org/abs/2609.20819)|null|
 |**2026-09-17**|**GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies**|Yi Bin Team|[2609.20776](http://arxiv.org/abs/2609.20776)|null|
 |**2026-09-17**|**FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants**|Emma Alexander Team|[2609.20769](http://arxiv.org/abs/2609.20769)|null|
@@ -34,12 +30,10 @@
 |**2026-09-17**|**Radial Symmetry and Strict Radial Decrease for Master Equations with Decreasing Radial Potentials**|Yahui Niu Team|[2609.20476](http://arxiv.org/abs/2609.20476)|null|
 |**2026-09-17**|**Collective Charge-\(2e\) Bosonic Excitations in Charge-Ordered Systems**|Ping Tang Team|[2609.20472](http://arxiv.org/abs/2609.20472)|null|
 
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
-
 ## Dexterous
 
-|Publish Date|Title|Authors|arXiv|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | arXiv | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-17**|**Can 4D Foundation Models Remember?**|Wei-Chiu Ma Team|[2609.20819](http://arxiv.org/abs/2609.20819)|null|
 |**2026-09-17**|**SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos**|Daniel Barath Team|[2609.20818](http://arxiv.org/abs/2609.20818)|null|
 |**2026-09-17**|**Paint-Anything: Unified Any-Color Control for Image Generation and Editing**|Xun Wang Team|[2609.20816](http://arxiv.org/abs/2609.20816)|null|
@@ -60,6 +54,4 @@
 |**2026-09-17**|**CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding**|Kailun Yang Team|[2609.20586](http://arxiv.org/abs/2609.20586)|**[link](https://github.com/ruojiruoli17/CoRef-GS.git)**|
 |**2026-09-17**|**SAFARI: An Industrial Benchmark for LLM-Assisted Hazard Analysis and Risk Assessment**|Zhijie Xu Team|[2609.20584](http://arxiv.org/abs/2609.20584)|null|
 |**2026-09-17**|**DocAttriBench: Benchmarking Answer Grounding in Document Visual Question Answering**|Rita Cucchiara Team|[2609.20574](http://arxiv.org/abs/2609.20574)|null|
-
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
 
