@@ -15,10 +15,10 @@
 |---|---|---|---|---|
 |**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Emilio Ferrara Team|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
 |**2026-09-17**|**Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision**|Max Simchowitz Team|[2609.20820](http://arxiv.org/abs/2609.20820)|null|
-|**2026-09-17**|**Can 4D Foundation Models Remember?**|Wei-Chiu Ma Team|[2609.20819](http://arxiv.org/abs/2609.20819)|null|
+|**2026-09-17**|**Can 4D Foundation Models Remember?**|Wei-Chiu Ma Team|[2609.20819](http://arxiv.org/abs/2609.20819)|**[link](https://github.com/persistbenchneurips26/PersistBench)|
 |**2026-09-17**|**GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies**|Yi Bin Team|[2609.20776](http://arxiv.org/abs/2609.20776)|null|
 |**2026-09-17**|**FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants**|Emma Alexander Team|[2609.20769](http://arxiv.org/abs/2609.20769)|null|
-|**2026-09-17**|**Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control**|Junshan Zhang Team|[2609.20761](http://arxiv.org/abs/2609.20761)|null|
+|**2026-09-17**|**Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control**|Junshan Zhang Team|[2609.20761](http://arxiv.org/abs/2609.20761)|**[link](https://github.com/HanchuZhou/TARO_project_page)|
 |**2026-09-17**|**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**|Hao Dong Team|[2609.20659](http://arxiv.org/abs/2609.20659)|null|
 |**2026-09-17**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Renjing Xu Team|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
 |**2026-09-17**|**SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation**|Zachary Kingston Team|[2609.20648](http://arxiv.org/abs/2609.20648)|null|
