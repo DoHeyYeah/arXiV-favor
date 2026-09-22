@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation**|Aviral Kumar Team|[2609.22085](http://arxiv.org/abs/2609.22085)|null|
+|**2026-09-18**|**Gripper-Aware Automatic Dense Packing of Irregular Objects**|Jing Xiao Team|[2609.22062](http://arxiv.org/abs/2609.22062)|null|
+|**2026-09-18**|**Benchmarking World Models for Continual Learning on Compositional Tasks**|Ingmar Posner Team|[2609.22055](http://arxiv.org/abs/2609.22055)|null|
+|**2026-09-18**|**$λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource**|Ramit Pahwa Team|[2609.22041](http://arxiv.org/abs/2609.22041)|null|
+|**2026-09-18**|**Time series generation with spectrally aligned latent flow matching**|Felipe Tobar Team|[2609.21989](http://arxiv.org/abs/2609.21989)|null|
+|**2026-09-18**|**CARF: Contrastive Attraction-Repulsion of Failure-Guided Flow Matching**|Masayoshi Tomizuka Team|[2609.21982](http://arxiv.org/abs/2609.21982)|null|
+|**2026-09-18**|**Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction**|Junmo Kim Team|[2609.21938](http://arxiv.org/abs/2609.21938)|null|
+|**2026-09-18**|**CommitFlow: Semantic Commitment Verification and Local Correction for Long-Horizon Robot Manipulation VLA Execution**|Jianjun Ma Team|[2609.21908](http://arxiv.org/abs/2609.21908)|null|
+|**2026-09-18**|**Contact-Rich Motion Planning via GPU-Parallel Mode Evaluation**|Georgia Chalvatzaki Team|[2609.21803](http://arxiv.org/abs/2609.21803)|null|
+|**2026-09-18**|**Scaling Vision-Language Reward Learning for Robot Manipulation in Parallel Simulation**|Nikolaos Tsiogkas Team|[2609.21767](http://arxiv.org/abs/2609.21767)|null|
+|**2026-09-18**|**CRISP: Contact-Rich Robotic Simulation Platform with Extensive Geometries and Contact Solvers**|Dongjun Lee Team|[2609.21761](http://arxiv.org/abs/2609.21761)|null|
+|**2026-09-18**|**ForceTwin: Physics-informed Digital Twins for Robotic Manipulation from Instrumented Human Interaction**|Zuria Bauer Team|[2609.21751](http://arxiv.org/abs/2609.21751)|null|
+|**2026-09-18**|**Potential-Field Action Representation for Reinforcement Learning in Contact-Rich Manipulation**|Arash Ajoudani Team|[2609.21609](http://arxiv.org/abs/2609.21609)|null|
+|**2026-09-18**|**GestureFAR: Streaming Co-Speech Gesture Generation with Flow Autoregression**|Luchuan Song Team|[2609.21576](http://arxiv.org/abs/2609.21576)|null|
+|**2026-09-18**|**Skel-WAM: A Hand-Skeleton-Conditioned World Action Model for Human-to-Robot Manipulation Transfer**|Dahua Lin Team|[2609.21514](http://arxiv.org/abs/2609.21514)|null|
+|**2026-09-18**|**FORTE: Task-Adaptive Force Capability Optimization for Mobile Manipulators**|Arash Ajoudani Team|[2609.21497](http://arxiv.org/abs/2609.21497)|null|
+|**2026-09-18**|**ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling**|Yu Liu Team|[2609.21449](http://arxiv.org/abs/2609.21449)|null|
+|**2026-09-18**|**Robotic Multiphase Interaction: Manipulating Coupled Liquid and Solid Dynamics with a World Model**|Peng Wang Team|[2609.21448](http://arxiv.org/abs/2609.21448)|null|
+|**2026-09-18**|**Think Locally, Refine Globally for Memory-Efficient 3D Reconstruction**|Xianliang Huang Team|[2609.21437](http://arxiv.org/abs/2609.21437)|null|
+|**2026-09-18**|**WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field**|Yinfeng Yu Team|[2609.21391](http://arxiv.org/abs/2609.21391)|null|
 |**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Emilio Ferrara Team|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
 |**2026-09-17**|**Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision**|Max Simchowitz Team|[2609.20820](http://arxiv.org/abs/2609.20820)|null|
 |**2026-09-17**|**Can 4D Foundation Models Remember?**|Wei-Chiu Ma Team|[2609.20819](http://arxiv.org/abs/2609.20819)|null|
@@ -34,8 +54,12 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**Visual Proactivity: Enhancing Human-Robot Collaboration Through Intent Communication**|Alberto Sanfeliu Team|[2609.21729](http://arxiv.org/abs/2609.21729)|null|
+|**2026-09-18**|**Skel-WAM: A Hand-Skeleton-Conditioned World Action Model for Human-to-Robot Manipulation Transfer**|Dahua Lin Team|[2609.21514](http://arxiv.org/abs/2609.21514)|null|
+|**2026-09-18**|**AtomEgo: Exploring Ego-Robot Integration for Embodied Foundation Model Pretraining**|Jiayu Chen Team|[2609.21461](http://arxiv.org/abs/2609.21461)|null|
+|**2026-09-18**|**ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling**|Yu Liu Team|[2609.21449](http://arxiv.org/abs/2609.21449)|null|
 |**2026-09-17**|**FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents**|Kai O. Arras Team|[2609.20673](http://arxiv.org/abs/2609.20673)|null|
-|**2026-09-17**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Renjing Xu Team|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
+|**2026-09-18**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Renjing Xu Team|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 |**2026-09-17**|**Tele-Traversability: Rethinking Traversability for Teleoperated Ground Robots in Terrain Navigation**|Junqiang Xi Team|[2609.19577](http://arxiv.org/abs/2609.19577)|null|
 |**2026-09-16**|**OHRID-Retail: An Open Multimodal Dataset of Human Activity in Retail Environments**|Boyi Hu Team|[2609.19302](http://arxiv.org/abs/2609.19302)|null|
