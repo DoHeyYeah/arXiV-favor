@@ -1,4 +1,4 @@
-## Updated on 2026.09.25
+## Updated on 2026.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Rolling-WAM: World Action Models with Rolling Imagination**|Yue Wang Team|[2609.30247](http://arxiv.org/abs/2609.30247)|null|
+|**2026-09-24**|**Faster Visuomotor Policy Learning on Action Manifolds via Riemannian MeanFlow**|Aniket Bera Team|[2609.30127](http://arxiv.org/abs/2609.30127)|null|
+|**2026-09-24**|**Self-Adaptive VLA for Robust Robot Deployment**|Chuang Gan Team|[2609.30092](http://arxiv.org/abs/2609.30092)|null|
+|**2026-09-24**|**M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis**|Giuseppe Loianno Team|[2609.30056](http://arxiv.org/abs/2609.30056)|null|
+|**2026-09-24**|**Res-HIL: Human-Guided Residual Reinforcement Learning for Sample-Efficient Dexterous Manipulation**|Majid Khadiv Team|[2609.30023](http://arxiv.org/abs/2609.30023)|null|
+|**2026-09-24**|**OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning**|Nantheera Anantrasirichai Team|[2609.29985](http://arxiv.org/abs/2609.29985)|null|
+|**2026-09-24**|**World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal**|Zexi Li Team|[2609.29964](http://arxiv.org/abs/2609.29964)|null|
+|**2026-09-24**|**Structured Pose-Conditioned Flow Matching for Generative 5G CSI Augmentation**|Haijun Zhang Team|[2609.29912](http://arxiv.org/abs/2609.29912)|null|
+|**2026-09-24**|**MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots**|Stefan Wermter Team|[2609.29908](http://arxiv.org/abs/2609.29908)|null|
+|**2026-09-24**|**Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI**|Lei Li Team|[2609.29825](http://arxiv.org/abs/2609.29825)|null|
+|**2026-09-24**|**Depth through recurrence: Looped transformers for flow-matching TTS**|Zhengjun Yue Team|[2609.29768](http://arxiv.org/abs/2609.29768)|null|
+|**2026-09-24**|**Relative Mismatch: Local-Reference Calibration of Feature-Space Flows for Anomalous Sound Detection**|Jia Liu Team|[2609.29746](http://arxiv.org/abs/2609.29746)|null|
+|**2026-09-24**|**Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures**|Carlos Pérez-del-Pulgar Team|[2609.29644](http://arxiv.org/abs/2609.29644)|null|
+|**2026-09-24**|**Neural Transport Nested Sampling**|Will Handley Team|[2609.29413](http://arxiv.org/abs/2609.29413)|null|
+|**2026-09-24**|**Robo-Harness K1: Harnessing Robot-Use Agents via Perception Augmentation**|Yinchuan Li Team|[2609.29389](http://arxiv.org/abs/2609.29389)|null|
+|**2026-09-24**|**Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs**|Alessandro Suglia Team|[2609.29382](http://arxiv.org/abs/2609.29382)|null|
+|**2026-09-24**|**Off-manifold robustness in synthesizer inversion with joint distribution flow matching**|Ben Hayes Team|[2609.29320](http://arxiv.org/abs/2609.29320)|null|
+|**2026-09-24**|**EgoSpeedUp: Transferring Human Manipulation Tempo to Robot Policies**|Takuma Yagi Team|[2609.29310](http://arxiv.org/abs/2609.29310)|null|
+|**2026-09-24**|**X-Rec Technical Report**|Kun Xǔ Team|[2609.29180](http://arxiv.org/abs/2609.29180)|null|
+|**2026-09-24**|**Representation World Model: Learning States, Transition and Executable Plans in Representation**|Hang Zhao Team|[2609.29171](http://arxiv.org/abs/2609.29171)|null|
 |**2026-09-23**|**On the Diffusibility of High-Dimensional Latents**|Yijun Li Team|[2609.28473](http://arxiv.org/abs/2609.28473)|null|
 |**2026-09-23**|**LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion**|Shanghang Zhang Team|[2609.28431](http://arxiv.org/abs/2609.28431)|null|
 |**2026-09-23**|**PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation**|Changhyun Choi Team|[2609.28393](http://arxiv.org/abs/2609.28393)|null|
@@ -114,12 +134,13 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Design and Evaluation of LLM Chaining-Based Task Planning for General Purpose Service Robots**|Yoshinobu Hagiwara Team|[2609.29043](http://arxiv.org/abs/2609.29043)|null|
 |**2026-09-22**|**MSK-Bench: Benchmarking Full-Body Musculoskeletal Motor Control Across Tasks, Control Paradigms, and Physiological Metrics**|Hao Zhao Team|[2609.26872](http://arxiv.org/abs/2609.26872)|null|
 |**2026-09-22**|**VisForce: Visual Grounding of Current and Desired Forces for Goal-Conditioned Dexterous Manipulation**|Soo-Chul Lim Team|[2609.25785](http://arxiv.org/abs/2609.25785)|null|
 |**2026-09-22**|**The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers**|Boyuan Chen Team|[2609.25696](http://arxiv.org/abs/2609.25696)|null|
@@ -154,5 +175,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
