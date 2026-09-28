@@ -86,8 +86,8 @@ layout: default
 |**2026-09-21**|**AnalogDepth: Multi-view Geometry from FPV drones under Analog Video Transmission**|Pedro F. Proença Team|[2609.24312](http://arxiv.org/abs/2609.24312)|null|
 |**2026-09-21**|**Classifier-Free Guidance in Flow Matching: Non-Autonomous Potentials, Overshoot, and Posterior-Mean Control**|Zheng Ma Team|[2609.24287](http://arxiv.org/abs/2609.24287)|null|
 |**2026-09-21**|**An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond**|Tianxing Chen Team|[2609.24170](http://arxiv.org/abs/2609.24170)|null|
-|**2026-09-21**|**Object-Centric Conditioning for Visuomotor Flow Matching**|Xiangyu Zhu Team|[2609.24155](http://arxiv.org/abs/2609.24155)|null|
-|**2026-09-21**|**P2Flow: Phoneme-aware Progressive Flow Matching for Extreme Speech Super-Resolution**|Andrew C. Singer Team|[2609.24138](http://arxiv.org/abs/2609.24138)|null|
+|**2026-09-21**|**Object-Centric Conditioning for Visuomotor Flow Matching**|Xiangyu Zhu Team|[2609.24155](http://arxiv.org/abs/2609.24155)|**[link](https://github.com/Li-Jijie/Object-Centric-Visuomotor-Flow)|
+|**2026-09-21**|**P2Flow: Phoneme-aware Progressive Flow Matching for Extreme Speech Super-Resolution**|Andrew C. Singer Team|[2609.24138](http://arxiv.org/abs/2609.24138)|**[link](https://github.com/ningyuan33/P2Flow)|
 |**2026-09-21**|**ActiveArena: Benchmarking and Understanding Active Perception in Robotic Manipulation**|Lu Sheng Team|[2609.24124](http://arxiv.org/abs/2609.24124)|null|
 |**2026-09-18**|**SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation**|Aviral Kumar Team|[2609.22085](http://arxiv.org/abs/2609.22085)|null|
 |**2026-09-18**|**Gripper-Aware Automatic Dense Packing of Irregular Objects**|Jing Xiao Team|[2609.22062](http://arxiv.org/abs/2609.22062)|null|
