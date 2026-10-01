@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Adversarial Training for Pixel Diffusion**|Truong Nguyen Team|[2609.38170](http://arxiv.org/abs/2609.38170)|null|
+|**2026-09-29**|**Rho: A Foundation for Efficiently Adaptable VLA Models**|Reuben Tan Team|[2609.38164](http://arxiv.org/abs/2609.38164)|null|
+|**2026-09-29**|**Multi-Agent Flow Matching with Decoupled Generative Guidance**|Fabio Pasqualetti Team|[2609.38133](http://arxiv.org/abs/2609.38133)|null|
+|**2026-09-29**|**FORM: Robot Manipulation through Direct Material Law Identification**|Krishna Kumar Team|[2609.38105](http://arxiv.org/abs/2609.38105)|**[link](https://github.com/form-robots/FORM)**|
+|**2026-09-29**|**MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation**|Huan Zhang Team|[2609.38078](http://arxiv.org/abs/2609.38078)|null|
+|**2026-09-29**|**WorldLine: Action-Driven Visual Simulation for Robotic Manipulation**|Jiaya Jia Team|[2609.38059](http://arxiv.org/abs/2609.38059)|null|
+|**2026-09-29**|**Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors**|Sajad Saeedi Team|[2609.38054](http://arxiv.org/abs/2609.38054)|null|
+|**2026-09-29**|**Improving Function Space Flow Matching with Kernel Optimal Transport**|Yizhou Sun Team|[2609.38049](http://arxiv.org/abs/2609.38049)|null|
+|**2026-09-29**|**ORMA: Optimization-based Monocular 4D Reconstruction of Articulated Animals**|Silvia Zuffi Team|[2609.37986](http://arxiv.org/abs/2609.37986)|null|
+|**2026-09-29**|**PhysWAM: Physically Consistent World Action Model for Autonomous Driving**|Yue Wang Team|[2609.37970](http://arxiv.org/abs/2609.37970)|null|
+|**2026-09-29**|**GRFBrain: Graph-Structured Rectified Flows for EEG Dynamic Modeling**|Takashi Matsubara Team|[2609.37934](http://arxiv.org/abs/2609.37934)|null|
+|**2026-09-29**|**MVG-WAM: Multiple View Geometry-Aware World-Action Modeling for Robotic Manipulation**|Haoang Li Team|[2609.37793](http://arxiv.org/abs/2609.37793)|null|
+|**2026-09-29**|**Urgent Actions Go First: Urgency-Aware Denoising for Real-Time VLA Control**|Fangming Liu Team|[2609.37772](http://arxiv.org/abs/2609.37772)|null|
+|**2026-09-29**|**RoboHarn-Evo: Evolving Hierarchical Physical Knowledge for Self-Improving Robotic Manipulation**|Jing Zhang Team|[2609.37583](http://arxiv.org/abs/2609.37583)|null|
+|**2026-09-29**|**Wrench-ACT: Enhancing Robot Policies for Contact Rich Behavior Using Direct Wrench Control**|Wolfram Burgard Team|[2609.37552](http://arxiv.org/abs/2609.37552)|null|
+|**2026-09-29**|**RawVLA: Embodied Neural Image Signal Processor For Robotic Manipulation**|Ziteng Cui Team|[2609.37530](http://arxiv.org/abs/2609.37530)|null|
+|**2026-09-29**|**Looped Actor: Depth-Recurrent Reasoning Models for Reinforcement Learning**|Daniela Rus Team|[2609.37432](http://arxiv.org/abs/2609.37432)|null|
+|**2026-09-29**|**Direct Experience World-Model Optimization: Learning the World Beyond Action Imitation**|Shuo Yang Team|[2609.37398](http://arxiv.org/abs/2609.37398)|null|
+|**2026-09-29**|**DROM: A Language-Guided Diffusion Framework for Multi-Skill Robotic Manipulation**|Anna Valente Team|[2609.37348](http://arxiv.org/abs/2609.37348)|null|
+|**2026-09-29**|**Remember What You Did: Action-History Memory with Dual-Expert Denoising for Long-Horizon Vision-Language-Action Policies**|Zhongliang Jiang Team|[2609.37307](http://arxiv.org/abs/2609.37307)|null|
 |**2026-09-28**|**DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations**|Sirui Han Team|[2609.35761](http://arxiv.org/abs/2609.35761)|null|
 |**2026-09-28**|**InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video**|Junting Dong Team|[2609.35743](http://arxiv.org/abs/2609.35743)|null|
 |**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Wei Zhan Team|[2609.35715](http://arxiv.org/abs/2609.35715)|null|
@@ -171,12 +191,19 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video**|Nan Wu Team|[2609.37776](http://arxiv.org/abs/2609.37776)|null|
+|**2026-09-29**|**Encore: Few-Shot Agentic Discovery of Manipulation Strategies**|Bangya Liu Team|[2609.37359](http://arxiv.org/abs/2609.37359)|null|
+|**2026-09-29**|**Real2Gym: Building Gyms from Videos, Bringing Skills to Robots**|Tao Lu Team|[2609.37089](http://arxiv.org/abs/2609.37089)|null|
+|**2026-09-29**|**VidAct: Learning Manipulation from In-the-Wild Videos with Object-Centric 3D Awareness**|Alois Knoll Team|[2609.36870](http://arxiv.org/abs/2609.36870)|null|
+|**2026-09-29**|**Scale-Invariant Manipulability Shape Tracking Across Heterogeneous Manipulators**|Wansoo Kim Team|[2609.36784](http://arxiv.org/abs/2609.36784)|null|
+|**2026-09-29**|**Kinematic Nonlinear Spatio-Temporal Trajectory Warping for Contact-Rich Dexterous Manipulation Demonstrations**|Nancy S. Pollard Team|[2609.36676](http://arxiv.org/abs/2609.36676)|null|
+|**2026-09-28**|**Action Chunking Proximal Policy Optimization with Feedback Correction**|Jonghyun Choi Team|[2609.36250](http://arxiv.org/abs/2609.36250)|null|
 |**2026-09-28**|**DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations**|Sirui Han Team|[2609.35761](http://arxiv.org/abs/2609.35761)|null|
 |**2026-09-28**|**DexWeave: Learning Dexterous Humanoid Loco-Manipulation from Human Demonstrations**|Peidong Liu Team|[2609.34724](http://arxiv.org/abs/2609.34724)|null|
 |**2026-09-28**|**From World Models to World Action Models: Rethinking Next-State Prediction**|Jinqiao Wang Team|[2609.34414](http://arxiv.org/abs/2609.34414)|null|
 |**2026-09-28**|**WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation**|Hang Zhao Team|[2609.34199](http://arxiv.org/abs/2609.34199)|null|
-|**2026-09-28**|**Unified Visual-Tactile-Action Modeling from Human Demonstrations for Dexterous Manipulation**|Siyuan Huang Team|[2609.34182](http://arxiv.org/abs/2609.34182)|null|
-|**2026-09-27**|**FINGR: Learning Dexterous Hand Control for Real-World Rubik's Cube Solving**|Xiaolong Wang Team|[2609.33973](http://arxiv.org/abs/2609.33973)|null|
+|**2026-09-29**|**Unified Visual-Tactile-Action Modeling from Human Demonstrations for Dexterous Manipulation**|Siyuan Huang Team|[2609.34182](http://arxiv.org/abs/2609.34182)|null|
+|**2026-09-29**|**FINGR: Learning Dexterous Hand Control for Real-World Rubik's Cube Solving**|Xiaolong Wang Team|[2609.33973](http://arxiv.org/abs/2609.33973)|null|
 |**2026-09-27**|**DexTaG: Tactile-as-Guidance in Reinforcement Learning for Dexterous Manipulation**|Chuang Gan Team|[2609.33882](http://arxiv.org/abs/2609.33882)|null|
 |**2026-09-26**|**Communication-Aware Heterogeneous Graph Learning for Decentralized Multi-Human Multi-Robot Task Allocation**|Byung-Cheol Min Team|[2609.32935](http://arxiv.org/abs/2609.32935)|null|
 |**2026-09-26**|**Proactive Motion Planning for Human-Robot Cooperation**|Luigi Palopoli Team|[2609.32354](http://arxiv.org/abs/2609.32354)|null|
