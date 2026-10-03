@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.02
+## Updated on 2026.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**SkeleWAM: Skeleton World-Action Modeling for Efficient Robotic Manipulation**|Mengyuan Liu Team|[2610.02120](http://arxiv.org/abs/2610.02120)|null|
+|**2026-10-01**|**UniWAM: Unified World-Action Model**|Haoang Li Team|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
+|**2026-10-01**|**Relative Transitions, Not Absolute Destinations: A Transfer-and-Ground Framework for Target-Trajectory-Free Human Mobility Generation**|Pengyang Wang Team|[2610.02033](http://arxiv.org/abs/2610.02033)|null|
+|**2026-10-01**|**CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction**|Daniel Barath Team|[2610.01927](http://arxiv.org/abs/2610.01927)|null|
+|**2026-10-01**|**Robot Learning on Discrete Surfaces: Theory and Applications**|Matteo Saveriano Team|[2610.01910](http://arxiv.org/abs/2610.01910)|null|
+|**2026-10-01**|**Unsupervised Domain Adaptation for Enhanced Radiometer Image Precipitation Estimation using Conditional Flow Matching**|Cécile Mallet Team|[2610.01890](http://arxiv.org/abs/2610.01890)|null|
+|**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Shangzhe Wu Team|[2610.01863](http://arxiv.org/abs/2610.01863)|**[link](https://github.com/LiteReality/LiteReality-Agent/)**|
+|**2026-10-01**|**FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting**|Hojoon Lee Team|[2610.01849](http://arxiv.org/abs/2610.01849)|null|
+|**2026-10-01**|**GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking**|Na Zhao Team|[2610.01758](http://arxiv.org/abs/2610.01758)|null|
+|**2026-10-01**|**3DROID: A Renderable 3D Gaussian Dataset with Measured Per-Scene Reliability**|Nojun Kwak Team|[2610.01744](http://arxiv.org/abs/2610.01744)|null|
+|**2026-10-01**|**World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories**|Angjoo Kanazawa Team|[2610.01742](http://arxiv.org/abs/2610.01742)|null|
+|**2026-10-01**|**ATI-VLA: Action-Centric Predictive Vision-Language-Action Models via Actionable Alignment Then Adaptive Injection**|Zitong Yu Team|[2610.01741](http://arxiv.org/abs/2610.01741)|null|
+|**2026-10-01**|**Learning a Resolution-Consistent Jacobian Field for Bio-Inspired Rigid-Soft Finger**|Zirong Luo Team|[2610.01668](http://arxiv.org/abs/2610.01668)|null|
+|**2026-10-01**|**pCoMole: Pareto-Constrained Molecule Editing with Discrete Flows**|Pranam Chatterjee Team|[2610.01663](http://arxiv.org/abs/2610.01663)|null|
+|**2026-10-01**|**Zero Flux: Flow-Based Comparison of High-Dimensional Discrete Distributions**|Taiji Suzuki Team|[2610.01472](http://arxiv.org/abs/2610.01472)|null|
+|**2026-10-01**|**Smoother Flow Matching via Contrastive Trajectory Repulsion**|Long Chen Team|[2610.01408](http://arxiv.org/abs/2610.01408)|null|
+|**2026-10-01**|**Is Success All You Need? Investigating the Impact of Input Perturbations on VLA Behaviour in Tabletop Manipulation Tasks**|Alessandro Suglia Team|[2610.01351](http://arxiv.org/abs/2610.01351)|null|
+|**2026-10-01**|**ProtoFlow: Prototype-Guided Flow Matching for Multivariate Time Series Forecasting**|Chunyan Miao Team|[2610.01320](http://arxiv.org/abs/2610.01320)|null|
+|**2026-10-01**|**EP-Flow: Disordered Crystal Structure Prediction without Site-Level Annotations**|Shifeng Jin Team|[2610.01315](http://arxiv.org/abs/2610.01315)|null|
+|**2026-10-01**|**ARROW: Arbitrary Reconstruction and Tracking of 4D Observations in the Wild**|Bastian Leibe Team|[2610.01314](http://arxiv.org/abs/2610.01314)|null|
 |**2026-09-30**|**Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces**|Kai Yu Team|[2609.40362](http://arxiv.org/abs/2609.40362)|**[link](https://github.com/hustvl/Multimodal-Flow)**|
 |**2026-09-30**|**GLARE: Generating Listening Heads with Appropriate Reactions**|Zhaozheng Yin Team|[2609.40317](http://arxiv.org/abs/2609.40317)|**[link](https://github.com/lzk901372/glare)**|
 |**2026-09-30**|**Centralized Multi-UAV Exploration and 3D Reconstruction Using Single-UAV Planners**|Rodrigo Ventura Team|[2609.40208](http://arxiv.org/abs/2609.40208)|null|
@@ -211,6 +231,12 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**UniWAM: Unified World-Action Model**|Haoang Li Team|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
+|**2026-10-01**|**Experience-Based Feasibility-Aware Generative Adversarial Imitation from Observation under Embodiment Mismatch**|Takamitsu Matsubara Team|[2610.01171](http://arxiv.org/abs/2610.01171)|null|
+|**2026-10-01**|**Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation**|Alham Fikri Aji Team|[2610.01092](http://arxiv.org/abs/2610.01092)|null|
+|**2026-10-01**|**Real-Time Human-Adaptive Task Allocation for Multi-Human Multi-Robot Supervision**|Changjoo Nam Team|[2610.00897](http://arxiv.org/abs/2610.00897)|null|
+|**2026-09-30**|**DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention**|Jiajun Wu Team|[2610.00781](http://arxiv.org/abs/2610.00781)|null|
+|**2026-09-30**|**Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining**|Steven C. H. Hoi Team|[2610.00438](http://arxiv.org/abs/2610.00438)|null|
 |**2026-09-29**|**Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video**|Nan Wu Team|[2609.37776](http://arxiv.org/abs/2609.37776)|null|
 |**2026-09-29**|**Encore: Few-Shot Agentic Discovery of Manipulation Strategies**|Bangya Liu Team|[2609.37359](http://arxiv.org/abs/2609.37359)|null|
 |**2026-09-29**|**Real2Gym: Building Gyms from Videos, Bringing Skills to Robots**|Tao Lu Team|[2609.37089](http://arxiv.org/abs/2609.37089)|null|
