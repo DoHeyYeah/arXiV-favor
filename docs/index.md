@@ -115,13 +115,13 @@ layout: default
 |**2026-09-24**|**World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal**|Zexi Li Team|[2609.29964](http://arxiv.org/abs/2609.29964)|null|
 |**2026-09-24**|**Structured Pose-Conditioned Flow Matching for Generative 5G CSI Augmentation**|Haijun Zhang Team|[2609.29912](http://arxiv.org/abs/2609.29912)|null|
 |**2026-09-24**|**MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots**|Stefan Wermter Team|[2609.29908](http://arxiv.org/abs/2609.29908)|null|
-|**2026-09-24**|**Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI**|Lei Li Team|[2609.29825](http://arxiv.org/abs/2609.29825)|null|
+|**2026-09-24**|**Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI**|Lei Li Team|[2609.29825](http://arxiv.org/abs/2609.29825)|**[link](https://github.com/yuan-xiaohan/SAX2MyoSurf)|
 |**2026-09-24**|**Depth through recurrence: Looped transformers for flow-matching TTS**|Zhengjun Yue Team|[2609.29768](http://arxiv.org/abs/2609.29768)|null|
 |**2026-09-24**|**Relative Mismatch: Local-Reference Calibration of Feature-Space Flows for Anomalous Sound Detection**|Jia Liu Team|[2609.29746](http://arxiv.org/abs/2609.29746)|null|
 |**2026-09-24**|**Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures**|Carlos Pérez-del-Pulgar Team|[2609.29644](http://arxiv.org/abs/2609.29644)|null|
 |**2026-09-24**|**Neural Transport Nested Sampling**|Will Handley Team|[2609.29413](http://arxiv.org/abs/2609.29413)|null|
 |**2026-09-24**|**Robo-Harness K1: Harnessing Robot-Use Agents via Perception Augmentation**|Yinchuan Li Team|[2609.29389](http://arxiv.org/abs/2609.29389)|null|
-|**2026-09-24**|**Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs**|Alessandro Suglia Team|[2609.29382](http://arxiv.org/abs/2609.29382)|null|
+|**2026-09-24**|**Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs**|Alessandro Suglia Team|[2609.29382](http://arxiv.org/abs/2609.29382)|**[link](https://github.com/esgi-research-group/ee-vla)|
 |**2026-09-24**|**Off-manifold robustness in synthesizer inversion with joint distribution flow matching**|Ben Hayes Team|[2609.29320](http://arxiv.org/abs/2609.29320)|null|
 |**2026-09-24**|**EgoSpeedUp: Transferring Human Manipulation Tempo to Robot Policies**|Takuma Yagi Team|[2609.29310](http://arxiv.org/abs/2609.29310)|null|
 |**2026-09-24**|**X-Rec Technical Report**|Kun Xǔ Team|[2609.29180](http://arxiv.org/abs/2609.29180)|null|
