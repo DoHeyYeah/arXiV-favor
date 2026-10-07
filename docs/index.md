@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models**|Cheng Peng Team|[2610.06813](http://arxiv.org/abs/2610.06813)|null|
+|**2026-10-05**|**What Matters for Latent Reasoning with Flow Matching**|Georgios Tzimiropoulos Team|[2610.06666](http://arxiv.org/abs/2610.06666)|null|
+|**2026-10-05**|**Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation**|Xiangyu Zhu Team|[2610.06658](http://arxiv.org/abs/2610.06658)|null|
+|**2026-10-05**|**AuraSE: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and Inference Policy Optimization**|Zhizheng Wu Team|[2610.06632](http://arxiv.org/abs/2610.06632)|null|
+|**2026-10-05**|**VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges**|Junmo Kim Team|[2610.06594](http://arxiv.org/abs/2610.06594)|null|
+|**2026-10-05**|**Conditional Flow Matching for Single-Neuron Electrophysiology: Capturing Multimodal Responses Across Stimuli**|Richard E. Turner Team|[2610.06520](http://arxiv.org/abs/2610.06520)|null|
+|**2026-10-05**|**Latent Flow Matching for Molecular Graph Generation**|Michalis Vazirgiannis Team|[2610.06468](http://arxiv.org/abs/2610.06468)|null|
+|**2026-10-05**|**KineWorld: Action-Induced Transport Fields for Embodied World Modeling**|Yuanpei Chen Team|[2610.06349](http://arxiv.org/abs/2610.06349)|null|
+|**2026-10-05**|**DexForge: High-Fidelity Physics-Informed Dexterous Retargeting**|Yiguang Hong Team|[2610.06331](http://arxiv.org/abs/2610.06331)|null|
+|**2026-10-05**|**Future Anchored Verification and Online Recovery for World Action Models**|Xinchao Wang Team|[2610.06280](http://arxiv.org/abs/2610.06280)|null|
+|**2026-10-05**|**OCL-PDE: A Generative Framework for PDE Inverse Problems with Observation-Complementary Latents**|Yang Xiang Team|[2610.06259](http://arxiv.org/abs/2610.06259)|null|
+|**2026-10-05**|**Robotizing Human Videos with Physically Consistent Interactions**|Bin Zhu Team|[2610.06137](http://arxiv.org/abs/2610.06137)|null|
+|**2026-10-05**|**Adaptive Mean Flow for Responsive Closed-Loop Robot Control**|Olav Egeland Team|[2610.06089](http://arxiv.org/abs/2610.06089)|null|
+|**2026-10-05**|**MercerFlow: Flow Matching in a Kernel-Induced Latent Space for Probabilistic Forecasting**|Alexey Zaytsev Team|[2610.06039](http://arxiv.org/abs/2610.06039)|null|
+|**2026-10-05**|**EpicWorldModel: Exploration-driven Planning with Latent World Models**|Felix Heide Team|[2610.05996](http://arxiv.org/abs/2610.05996)|null|
+|**2026-10-05**|**Beyond Transport Cost: Routing Differences between Flow Matching and Optimal Transport**|Jong-Seok Lee Team|[2610.05921](http://arxiv.org/abs/2610.05921)|null|
+|**2026-10-05**|**Bilinear Flow Policy: Distributional Extrapolation for Goal-Conditioned Visuomotor Imitation**|Haruki Nishimura Team|[2610.05765](http://arxiv.org/abs/2610.05765)|null|
+|**2026-10-05**|**When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models**|Jeany Son Team|[2610.05719](http://arxiv.org/abs/2610.05719)|null|
+|**2026-10-05**|**From Pixels, Without Pre-training: Joint Generative and Self-Supervised Representation Learning in One Model**|Tianbao Yang Team|[2610.05711](http://arxiv.org/abs/2610.05711)|null|
+|**2026-10-05**|**Benchmarking Generative Trajectory Models for Active-Inference Control**|Andrea Matta Team|[2610.05692](http://arxiv.org/abs/2610.05692)|**[link](https://github.com/lyeeonardo/generative-trajectory-benchmark)**|
 |**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Animesh Garg Team|[2610.03717](http://arxiv.org/abs/2610.03717)|null|
 |**2026-10-02**|**FlowHMR: Physically Plausible Motion Capture from Video**|Linchao Bao Team|[2610.03691](http://arxiv.org/abs/2610.03691)|**[link](https://github.com/flowhmr/flowhmr)**|
 |**2026-10-02**|**Bridging Frontier Reasoning and Robot Execution: From Autonomous Demonstration Generation to Dense Language Supervision**|Prithviraj Ammanabrolu Team|[2610.03615](http://arxiv.org/abs/2610.03615)|null|
@@ -251,14 +271,21 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Liang-Yan Gui Team|[2610.06850](http://arxiv.org/abs/2610.06850)|null|
+|**2026-10-05**|**DexForge: High-Fidelity Physics-Informed Dexterous Retargeting**|Yiguang Hong Team|[2610.06331](http://arxiv.org/abs/2610.06331)|null|
+|**2026-10-03**|**PatternDex: Learning Interaction Patterns to Guide Reinforcement Learning of Bimanual Dexterous Manipulation of Articulated Objects**|Truong Nguyen Team|[2610.04765](http://arxiv.org/abs/2610.04765)|null|
+|**2026-10-03**|**Frame-Level Temporal Alignment for Human-to-Robot Visual Adaptation**|Hong Jia Team|[2610.04372](http://arxiv.org/abs/2610.04372)|null|
+|**2026-10-03**|**TacOT: Learning Contact-Rich Dexterous Manipulation from Human Demonstrations via Tactile-Guided Optimal Transport**|Wenbo Ding Team|[2610.04363](http://arxiv.org/abs/2610.04363)|null|
+|**2026-10-02**|**Beyond Completion Time: A Multimodal Approach to Characterizing Eye-Hand Coordination During the Nine-Hole Peg Test in Multiple Sclerosis**|John-Ross Rizzo Team|[2610.04145](http://arxiv.org/abs/2610.04145)|null|
+|**2026-10-02**|**GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive**|Haozhi Qi Team|[2610.03861](http://arxiv.org/abs/2610.03861)|null|
 |**2026-10-02**|**World Action Learning via Interaction-Centric Spectral Latent Guidance**|Song Guo Team|[2610.03607](http://arxiv.org/abs/2610.03607)|null|
 |**2026-10-02**|**DexJoCo-X: Benchmarking Action Representations for Multi-Hand Dexterous Manipulation**|Wen Li Team|[2610.03278](http://arxiv.org/abs/2610.03278)|null|
 |**2026-10-01**|**SoTa: Soft Tactile Skins for Dexterous Manipulation**|Jeannette Bohg Team|[2610.02338](http://arxiv.org/abs/2610.02338)|null|
-|**2026-10-01**|**UniWAM: Unified World-Action Model**|Haoang Li Team|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
+|**2026-10-03**|**UniWAM: Unified World-Action Model**|Haoang Li Team|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
 |**2026-10-01**|**Experience-Based Feasibility-Aware Generative Adversarial Imitation from Observation under Embodiment Mismatch**|Takamitsu Matsubara Team|[2610.01171](http://arxiv.org/abs/2610.01171)|null|
 |**2026-10-01**|**Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation**|Alham Fikri Aji Team|[2610.01092](http://arxiv.org/abs/2610.01092)|null|
 |**2026-10-01**|**Real-Time Human-Adaptive Task Allocation for Multi-Human Multi-Robot Supervision**|Changjoo Nam Team|[2610.00897](http://arxiv.org/abs/2610.00897)|null|
-|**2026-09-30**|**DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention**|Jiajun Wu Team|[2610.00781](http://arxiv.org/abs/2610.00781)|null|
+|**2026-10-05**|**DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention**|Jiajun Wu Team|[2610.00781](http://arxiv.org/abs/2610.00781)|null|
 |**2026-09-30**|**Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining**|Steven C. H. Hoi Team|[2610.00438](http://arxiv.org/abs/2610.00438)|null|
 |**2026-09-29**|**Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video**|Nan Wu Team|[2609.37776](http://arxiv.org/abs/2609.37776)|null|
 |**2026-09-29**|**Encore: Few-Shot Agentic Discovery of Manipulation Strategies**|Bangya Liu Team|[2609.37359](http://arxiv.org/abs/2609.37359)|null|
