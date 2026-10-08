@@ -1,4 +1,4 @@
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Angjoo Kanazawa Team|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
+|**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Jia Pan Team|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
+|**2026-10-06**|**4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**|Cheng Zhang Team|[2610.08782](http://arxiv.org/abs/2610.08782)|null|
+|**2026-10-06**|**DepthWorld: 3D World Model for Robot Manipulation**|Vladimir Petrik Team|[2610.08780](http://arxiv.org/abs/2610.08780)|null|
+|**2026-10-06**|**Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling**|Nikos Komodakis Team|[2610.08738](http://arxiv.org/abs/2610.08738)|null|
+|**2026-10-06**|**Co-Evolving Paths and Flows via Path-Flow Alignment**|Xiang Cheng Team|[2610.08717](http://arxiv.org/abs/2610.08717)|null|
+|**2026-10-06**|**Fast Non-Parametric Heteroscedastic Imitation Learning With Geometric Priors**|João Silvério Team|[2610.08650](http://arxiv.org/abs/2610.08650)|null|
+|**2026-10-06**|**Towards Efficient Robotic Manipulation Models with Self-Recursive Pruning**|Li Liu Team|[2610.08555](http://arxiv.org/abs/2610.08555)|null|
+|**2026-10-06**|**FlowCF: Sparse Counterfactual Explanations for Mixed-Type Tabular Data using Flow Matching**|Eirini Ntoutsi Team|[2610.08537](http://arxiv.org/abs/2610.08537)|null|
+|**2026-10-06**|**WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses**|H. Nguyen-Xuan Team|[2610.08526](http://arxiv.org/abs/2610.08526)|null|
+|**2026-10-06**|**Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation**|Omer T. Inan Team|[2610.08510](http://arxiv.org/abs/2610.08510)|null|
+|**2026-10-06**|**Sensor Geometry as a Flow-Matching Prior for Multi-Channel Brain Signals**|Jaedong Hwang Team|[2610.08355](http://arxiv.org/abs/2610.08355)|null|
+|**2026-10-06**|**Voice Anonymization Made Simple: Training-Free Anonymization with Projected Classifier-Free Guidance**|Xiaoxiao Miao Team|[2610.08276](http://arxiv.org/abs/2610.08276)|null|
+|**2026-10-06**|**RACE-FPP: A Robust AI-assisted Characterisation Enhancement for Fringe Projection Profilometry**|Samanta Piano Team|[2610.08213](http://arxiv.org/abs/2610.08213)|null|
+|**2026-10-06**|**Compact Robot Policies Need Fine-Grained Visual Representations**|Yuquan Wang Team|[2610.08183](http://arxiv.org/abs/2610.08183)|null|
+|**2026-10-06**|**VLA-ACL: Action-Consistent Visual Token Pruning for Efficient Vision-Language-Action Models**|Gao Huang Team|[2610.08133](http://arxiv.org/abs/2610.08133)|null|
+|**2026-10-06**|**Reactive Exploration of Unknown Environments for Redundant Robots using Virtual Model Control**|Fulvio Forni Team|[2610.08110](http://arxiv.org/abs/2610.08110)|null|
+|**2026-10-06**|**IronMan: Information-Constrained Video-Action Learning for Robot Manipulation**|Siheng Chen Team|[2610.07961](http://arxiv.org/abs/2610.07961)|null|
+|**2026-10-06**|**DensiTok: Making Feed-Forward 3D Gaussian Splatting See More Views Than It Is Given**|Sangyoun Lee Team|[2610.07958](http://arxiv.org/abs/2610.07958)|null|
+|**2026-10-06**|**Commit While Futures Agree: Consequence-Aware Adaptive Action Chunking for Robot Manipulation**|Xinhu Zheng Team|[2610.07949](http://arxiv.org/abs/2610.07949)|null|
 |**2026-10-05**|**Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models**|Cheng Peng Team|[2610.06813](http://arxiv.org/abs/2610.06813)|null|
 |**2026-10-05**|**What Matters for Latent Reasoning with Flow Matching**|Georgios Tzimiropoulos Team|[2610.06666](http://arxiv.org/abs/2610.06666)|null|
 |**2026-10-05**|**Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation**|Xiangyu Zhu Team|[2610.06658](http://arxiv.org/abs/2610.06658)|null|
@@ -271,12 +291,16 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**Towards an Extensible Benchmark for Spoken Dialogue with Social Robots**|Jesse Thomason Team|[2610.08733](http://arxiv.org/abs/2610.08733)|null|
+|**2026-10-06**|**EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning**|Anirudha Majumdar Team|[2610.08726](http://arxiv.org/abs/2610.08726)|null|
+|**2026-10-06**|**EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation**|Haoang Li Team|[2610.07969](http://arxiv.org/abs/2610.07969)|null|
+|**2026-10-06**|**EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors**|Shuran Song Team|[2610.07681](http://arxiv.org/abs/2610.07681)|null|
 |**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Liang-Yan Gui Team|[2610.06850](http://arxiv.org/abs/2610.06850)|null|
 |**2026-10-05**|**DexForge: High-Fidelity Physics-Informed Dexterous Retargeting**|Yiguang Hong Team|[2610.06331](http://arxiv.org/abs/2610.06331)|null|
 |**2026-10-03**|**PatternDex: Learning Interaction Patterns to Guide Reinforcement Learning of Bimanual Dexterous Manipulation of Articulated Objects**|Truong Nguyen Team|[2610.04765](http://arxiv.org/abs/2610.04765)|null|
@@ -347,5 +371,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
