@@ -1,4 +1,4 @@
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Chuan Wen Team|[2610.10534](http://arxiv.org/abs/2610.10534)|null|
+|**2026-10-07**|**Robotic Boomerang Throwing via Model-Based Release Design**|Aude Billard Team|[2610.10472](http://arxiv.org/abs/2610.10472)|null|
+|**2026-10-07**|**Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields**|Liangzhu Leon Wang Team|[2610.10430](http://arxiv.org/abs/2610.10430)|null|
+|**2026-10-07**|**Self-correction Optimization for Interleaved Multimodal Generation**|Yun Gu Team|[2610.10400](http://arxiv.org/abs/2610.10400)|null|
+|**2026-10-07**|**NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building**|Sajad Saeedi Team|[2610.10387](http://arxiv.org/abs/2610.10387)|null|
+|**2026-10-07**|**OpenViTac: Learning and Benchmarking Visuo-Tactile Policies in a Unified Sim-and-Real Framework**|Yu-Gang Jiang Team|[2610.10384](http://arxiv.org/abs/2610.10384)|null|
+|**2026-10-07**|**TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning**|Zhiwen Fan Team|[2610.10288](http://arxiv.org/abs/2610.10288)|null|
+|**2026-10-07**|**Temporal Visuo-Tactile Learning for Dexterous Grasp Stability**|Roberto Calandra Team|[2610.10283](http://arxiv.org/abs/2610.10283)|null|
+|**2026-10-07**|**HuLiGen: Human LiDAR Generation from Parametric Body Models**|David Picard Team|[2610.10196](http://arxiv.org/abs/2610.10196)|null|
+|**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Luca Carlone Team|[2610.10181](http://arxiv.org/abs/2610.10181)|null|
+|**2026-10-07**|**LIFT-SE: Linguistic Inference Followed by Flow Transformation for Generative Speech Enhancement**|Jingjing Wang Team|[2610.09963](http://arxiv.org/abs/2610.09963)|null|
+|**2026-10-07**|**MUNITE: Unified Multimodal Latent Inference for Any-to-Any Multimodal Generation**|Minhyuk Sung Team|[2610.09866](http://arxiv.org/abs/2610.09866)|null|
+|**2026-10-07**|**Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching**|Jie Yin Team|[2610.09857](http://arxiv.org/abs/2610.09857)|null|
+|**2026-10-07**|**Unrolled Flow Models for Reasoning**|T. Konstantin Rusch Team|[2610.09759](http://arxiv.org/abs/2610.09759)|null|
+|**2026-10-07**|**MeshCarve: Artisan Mesh Generation with Flow Matching in Compact Latent Spaces**|Bihan Wen Team|[2610.09723](http://arxiv.org/abs/2610.09723)|null|
+|**2026-10-07**|**DynStream: Online Streaming 4D Gaussian Reconstruction of Dynamic Worlds from Unposed Video**|Ming-Hsuan Yang Team|[2610.09720](http://arxiv.org/abs/2610.09720)|null|
+|**2026-10-07**|**EC-EarthFlow: Probabilistic emulation of daily transient global climate model simulations with flow matching**|Karin van der Wiel Team|[2610.09715](http://arxiv.org/abs/2610.09715)|null|
+|**2026-10-07**|**RoboPace: Contact-Aware Time-Optimal Retiming for Action-Chunk Policies**|Kei Ota Team|[2610.09696](http://arxiv.org/abs/2610.09696)|null|
+|**2026-10-07**|**Point It, Strike It: Direction-Conditioned Dynamic Manipulation of Deformable Linear Objects**|Howie Choset Team|[2610.09573](http://arxiv.org/abs/2610.09573)|null|
+|**2026-10-07**|**Targeted Modality Dropout for Real-Robot Manipulation Robust to Intermittent Vision Loss**|Kanata Suzuki Team|[2610.09566](http://arxiv.org/abs/2610.09566)|null|
 |**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Angjoo Kanazawa Team|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
 |**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Jia Pan Team|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
 |**2026-10-06**|**4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**|Cheng Zhang Team|[2610.08782](http://arxiv.org/abs/2610.08782)|null|
@@ -291,12 +311,15 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**Temporal Visuo-Tactile Learning for Dexterous Grasp Stability**|Roberto Calandra Team|[2610.10283](http://arxiv.org/abs/2610.10283)|null|
+|**2026-10-07**|**A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration**|Sven Hallerbach Team|[2610.09891](http://arxiv.org/abs/2610.09891)|null|
+|**2026-10-06**|**Toward Evidence-Driven Human-Agent-Robot Teaming for Earth-Independent Anomaly Triage**|Samira Shalal Team|[2610.08933](http://arxiv.org/abs/2610.08933)|null|
 |**2026-10-06**|**Towards an Extensible Benchmark for Spoken Dialogue with Social Robots**|Jesse Thomason Team|[2610.08733](http://arxiv.org/abs/2610.08733)|null|
 |**2026-10-06**|**EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning**|Anirudha Majumdar Team|[2610.08726](http://arxiv.org/abs/2610.08726)|null|
 |**2026-10-06**|**EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation**|Haoang Li Team|[2610.07969](http://arxiv.org/abs/2610.07969)|null|
@@ -371,5 +394,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
 
