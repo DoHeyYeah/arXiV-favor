@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.09
+## Updated on 2026.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Seungjae Lee Team|[2610.12470](http://arxiv.org/abs/2610.12470)|null|
+|**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Byron Boots Team|[2610.12465](http://arxiv.org/abs/2610.12465)|null|
+|**2026-10-08**|**SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation**|Jingjing Chen Team|[2610.12457](http://arxiv.org/abs/2610.12457)|null|
+|**2026-10-08**|**VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation**|Li Jiang Team|[2610.12451](http://arxiv.org/abs/2610.12451)|null|
+|**2026-10-08**|**Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems**|Johannes Brandstetter Team|[2610.12449](http://arxiv.org/abs/2610.12449)|null|
+|**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Eric Whitmire Team|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
+|**2026-10-08**|**LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC**|Nikolai Smolyanskiy Team|[2610.12407](http://arxiv.org/abs/2610.12407)|null|
+|**2026-10-08**|**SplitJEPA: Learning Invariant and Variant Latent Worlds without Reconstruction**|Yujia Zheng Team|[2610.12349](http://arxiv.org/abs/2610.12349)|null|
+|**2026-10-08**|**Controllable Exaggeration for Generative Motion Models via Training-Time Adaptation and Inference-Time Guidance**|Bruno Roy Team|[2610.12316](http://arxiv.org/abs/2610.12316)|null|
+|**2026-10-08**|**Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction**|Chi Zhang Team|[2610.12282](http://arxiv.org/abs/2610.12282)|null|
+|**2026-10-08**|**La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching**|Shuangjia Zheng Team|[2610.12236](http://arxiv.org/abs/2610.12236)|null|
+|**2026-10-08**|**Residual Modeling Closes the Regression and Generative Policy Gap in Robot Learning**|Jiayuan Mao Team|[2610.12231](http://arxiv.org/abs/2610.12231)|null|
+|**2026-10-08**|**RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control**|Jiaya Jia Team|[2610.12185](http://arxiv.org/abs/2610.12185)|null|
+|**2026-10-08**|**PIER: An Evidence-Gated Execution Interface for Robotic Manipulation**|Jingran Hu Team|[2610.12123](http://arxiv.org/abs/2610.12123)|null|
+|**2026-10-08**|**Few-Step Generation via Data-Space Iteration**|Haoqi Fan Team|[2610.12102](http://arxiv.org/abs/2610.12102)|null|
+|**2026-10-08**|**A Minimal Optical-Flow Representation for Vision-Based Tactile Rotation Classification in Robotic Manipulation Across Gravity Domains**|Carol Martinez Team|[2610.12073](http://arxiv.org/abs/2610.12073)|null|
+|**2026-10-08**|**LIVIN: Benchmarking Spatial and Embodied Intelligence in Digital Twins of Lived-In Homes**|Jiayuan Gu Team|[2610.12069](http://arxiv.org/abs/2610.12069)|null|
+|**2026-10-08**|**SkillWeave: Weaving Heterogeneous Demonstrations into Long-Horizon Manipulation Skills**|Jeffrey Ichnowski Team|[2610.12046](http://arxiv.org/abs/2610.12046)|null|
+|**2026-10-08**|**Reliability-Aware Future Conditioning for Temporally Robust Robot Manipulation**|Michael Beetz Team|[2610.11956](http://arxiv.org/abs/2610.11956)|null|
+|**2026-10-08**|**Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement**|Qiong Luo Team|[2610.11857](http://arxiv.org/abs/2610.11857)|null|
 |**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Chuan Wen Team|[2610.10534](http://arxiv.org/abs/2610.10534)|null|
 |**2026-10-07**|**Robotic Boomerang Throwing via Model-Based Release Design**|Aude Billard Team|[2610.10472](http://arxiv.org/abs/2610.10472)|null|
 |**2026-10-07**|**Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields**|Liangzhu Leon Wang Team|[2610.10430](http://arxiv.org/abs/2610.10430)|null|
@@ -311,6 +331,10 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Eric Whitmire Team|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
+|**2026-10-08**|**VioLA: Learning Generalist Humanoid Control Policies from Human Data**|Martin Riedmiller Team|[2610.12435](http://arxiv.org/abs/2610.12435)|null|
+|**2026-10-08**|**OmniDex: Scaling Dexterous Hand Grasping to Diverse Cluttered Scenes**|Hongsheng Li Team|[2610.11194](http://arxiv.org/abs/2610.11194)|null|
+|**2026-10-07**|**OmniHOI: Dexterous Hand-Object Interaction from Monocular Human Video**|Yao Mu Team|[2610.10855](http://arxiv.org/abs/2610.10855)|null|
 |**2026-10-07**|**Temporal Visuo-Tactile Learning for Dexterous Grasp Stability**|Roberto Calandra Team|[2610.10283](http://arxiv.org/abs/2610.10283)|null|
 |**2026-10-07**|**A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration**|Sven Hallerbach Team|[2610.09891](http://arxiv.org/abs/2610.09891)|null|
 |**2026-10-06**|**Toward Evidence-Driven Human-Agent-Robot Teaming for Earth-Independent Anomaly Triage**|Samira Shalal Team|[2610.08933](http://arxiv.org/abs/2610.08933)|null|
