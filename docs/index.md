@@ -76,7 +76,7 @@ layout: default
 |**2026-10-05**|**VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges**|Junmo Kim Team|[2610.06594](http://arxiv.org/abs/2610.06594)|null|
 |**2026-10-05**|**Conditional Flow Matching for Single-Neuron Electrophysiology: Capturing Multimodal Responses Across Stimuli**|Richard E. Turner Team|[2610.06520](http://arxiv.org/abs/2610.06520)|null|
 |**2026-10-05**|**Latent Flow Matching for Molecular Graph Generation**|Michalis Vazirgiannis Team|[2610.06468](http://arxiv.org/abs/2610.06468)|null|
-|**2026-10-05**|**KineWorld: Action-Induced Transport Fields for Embodied World Modeling**|Yuanpei Chen Team|[2610.06349](http://arxiv.org/abs/2610.06349)|null|
+|**2026-10-05**|**KineWorld: Action-Induced Transport Fields for Embodied World Modeling**|Yuanpei Chen Team|[2610.06349](http://arxiv.org/abs/2610.06349)|**[link](https://github.com/modaxiansheng/KineWorld)|
 |**2026-10-05**|**DexForge: High-Fidelity Physics-Informed Dexterous Retargeting**|Yiguang Hong Team|[2610.06331](http://arxiv.org/abs/2610.06331)|null|
 |**2026-10-05**|**Future Anchored Verification and Online Recovery for World Action Models**|Xinchao Wang Team|[2610.06280](http://arxiv.org/abs/2610.06280)|null|
 |**2026-10-05**|**OCL-PDE: A Generative Framework for PDE Inverse Problems with Observation-Complementary Latents**|Yang Xiang Team|[2610.06259](http://arxiv.org/abs/2610.06259)|null|
@@ -352,26 +352,26 @@ layout: default
 |**2026-10-02**|**World Action Learning via Interaction-Centric Spectral Latent Guidance**|Song Guo Team|[2610.03607](http://arxiv.org/abs/2610.03607)|null|
 |**2026-10-02**|**DexJoCo-X: Benchmarking Action Representations for Multi-Hand Dexterous Manipulation**|Wen Li Team|[2610.03278](http://arxiv.org/abs/2610.03278)|null|
 |**2026-10-01**|**SoTa: Soft Tactile Skins for Dexterous Manipulation**|Jeannette Bohg Team|[2610.02338](http://arxiv.org/abs/2610.02338)|null|
-|**2026-10-03**|**UniWAM: Unified World-Action Model**|Haoang Li Team|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
+|**2026-10-03**|**UniWAM: Unified World-Action Model**|Haoang Li Team|[2610.02054](http://arxiv.org/abs/2610.02054)|**[link](https://github.com/UniWAM/UniWAM)|
 |**2026-10-01**|**Experience-Based Feasibility-Aware Generative Adversarial Imitation from Observation under Embodiment Mismatch**|Takamitsu Matsubara Team|[2610.01171](http://arxiv.org/abs/2610.01171)|null|
-|**2026-10-01**|**Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation**|Alham Fikri Aji Team|[2610.01092](http://arxiv.org/abs/2610.01092)|null|
+|**2026-10-01**|**Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation**|Alham Fikri Aji Team|[2610.01092](http://arxiv.org/abs/2610.01092)|**[link](https://github.com/ego2act/ego2act)|
 |**2026-10-01**|**Real-Time Human-Adaptive Task Allocation for Multi-Human Multi-Robot Supervision**|Changjoo Nam Team|[2610.00897](http://arxiv.org/abs/2610.00897)|null|
 |**2026-10-05**|**DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention**|Jiajun Wu Team|[2610.00781](http://arxiv.org/abs/2610.00781)|null|
 |**2026-09-30**|**Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining**|Steven C. H. Hoi Team|[2610.00438](http://arxiv.org/abs/2610.00438)|null|
 |**2026-09-29**|**Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video**|Nan Wu Team|[2609.37776](http://arxiv.org/abs/2609.37776)|null|
-|**2026-09-29**|**Encore: Few-Shot Agentic Discovery of Manipulation Strategies**|Bangya Liu Team|[2609.37359](http://arxiv.org/abs/2609.37359)|null|
+|**2026-09-29**|**Encore: Few-Shot Agentic Discovery of Manipulation Strategies**|Bangya Liu Team|[2609.37359](http://arxiv.org/abs/2609.37359)|**[link](https://github.com/YIFANK/encore)|
 |**2026-09-29**|**Real2Gym: Building Gyms from Videos, Bringing Skills to Robots**|Tao Lu Team|[2609.37089](http://arxiv.org/abs/2609.37089)|null|
 |**2026-09-29**|**VidAct: Learning Manipulation from In-the-Wild Videos with Object-Centric 3D Awareness**|Alois Knoll Team|[2609.36870](http://arxiv.org/abs/2609.36870)|null|
 |**2026-09-29**|**Scale-Invariant Manipulability Shape Tracking Across Heterogeneous Manipulators**|Wansoo Kim Team|[2609.36784](http://arxiv.org/abs/2609.36784)|null|
 |**2026-09-29**|**Kinematic Nonlinear Spatio-Temporal Trajectory Warping for Contact-Rich Dexterous Manipulation Demonstrations**|Nancy S. Pollard Team|[2609.36676](http://arxiv.org/abs/2609.36676)|null|
-|**2026-09-28**|**Action Chunking Proximal Policy Optimization with Feedback Correction**|Jonghyun Choi Team|[2609.36250](http://arxiv.org/abs/2609.36250)|null|
+|**2026-09-28**|**Action Chunking Proximal Policy Optimization with Feedback Correction**|Jonghyun Choi Team|[2609.36250](http://arxiv.org/abs/2609.36250)|**[link](https://github.com/hshhahn/ACPPO)|
 |**2026-09-28**|**DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations**|Sirui Han Team|[2609.35761](http://arxiv.org/abs/2609.35761)|null|
 |**2026-09-28**|**DexWeave: Learning Dexterous Humanoid Loco-Manipulation from Human Demonstrations**|Peidong Liu Team|[2609.34724](http://arxiv.org/abs/2609.34724)|null|
 |**2026-09-28**|**From World Models to World Action Models: Rethinking Next-State Prediction**|Jinqiao Wang Team|[2609.34414](http://arxiv.org/abs/2609.34414)|null|
 |**2026-10-02**|**WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation**|Hang Zhao Team|[2609.34199](http://arxiv.org/abs/2609.34199)|null|
 |**2026-09-29**|**Unified Visual-Tactile-Action Modeling from Human Demonstrations for Dexterous Manipulation**|Siyuan Huang Team|[2609.34182](http://arxiv.org/abs/2609.34182)|null|
 |**2026-09-29**|**FINGR: Learning Dexterous Hand Control for Real-World Rubik's Cube Solving**|Xiaolong Wang Team|[2609.33973](http://arxiv.org/abs/2609.33973)|null|
-|**2026-09-27**|**DexTaG: Tactile-as-Guidance in Reinforcement Learning for Dexterous Manipulation**|Chuang Gan Team|[2609.33882](http://arxiv.org/abs/2609.33882)|null|
+|**2026-09-27**|**DexTaG: Tactile-as-Guidance in Reinforcement Learning for Dexterous Manipulation**|Chuang Gan Team|[2609.33882](http://arxiv.org/abs/2609.33882)|**[link](https://github.com/UMass-Embodied-AGI/DexTaG)|
 |**2026-09-26**|**Communication-Aware Heterogeneous Graph Learning for Decentralized Multi-Human Multi-Robot Task Allocation**|Byung-Cheol Min Team|[2609.32935](http://arxiv.org/abs/2609.32935)|null|
 |**2026-09-26**|**Proactive Motion Planning for Human-Robot Cooperation**|Luigi Palopoli Team|[2609.32354](http://arxiv.org/abs/2609.32354)|null|
 |**2026-09-26**|**WSM-Aware HRI: An IoT-Enhanced Framework for Early Detection and Norm-Guided Repair of Failures with LLM Guidance**|Zhenglong Sun Team|[2609.32336](http://arxiv.org/abs/2609.32336)|null|
