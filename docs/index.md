@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.12
+## Updated on 2026.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Noise Space Learning for VLA Adaptation**|Li Zhao Team|[2610.13943](http://arxiv.org/abs/2610.13943)|null|
+|**2026-10-09**|**Spanning Diffusion and Flow-based Posterior Sampling via Exact Gaussian Conditioning**|Hok Shing Wong Team|[2610.13812](http://arxiv.org/abs/2610.13812)|null|
+|**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Zhenjie Yang Team|[2610.13781](http://arxiv.org/abs/2610.13781)|null|
+|**2026-10-09**|**Gaussian Splatting with Reflections Guided by What is Seen**|Hiroshi Ishikawa Team|[2610.13757](http://arxiv.org/abs/2610.13757)|null|
+|**2026-10-09**|**SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices**|Ayotomiwa Oyewumi Team|[2610.13740](http://arxiv.org/abs/2610.13740)|**[link](https://github.com/iitimii/SmolWAM)**|
+|**2026-10-09**|**Towards Understanding the Training of GFlowNets: A Theoretical Perspective**|Longbo Huang Team|[2610.13711](http://arxiv.org/abs/2610.13711)|null|
+|**2026-10-09**|**PhysForge: Material-Controllable 3D Reconstruction with Separable Components**|Jing Huo Team|[2610.13681](http://arxiv.org/abs/2610.13681)|null|
+|**2026-10-09**|**AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Guangtao Zhai Team|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
+|**2026-10-09**|**JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation**|Dzmitry Tsetserukou Team|[2610.13628](http://arxiv.org/abs/2610.13628)|null|
+|**2026-10-09**|**Some remarks on the connection between generative diffusion and optimal transport**|Marc Mézard Team|[2610.13614](http://arxiv.org/abs/2610.13614)|null|
+|**2026-10-09**|**CorrFlow: Exact and Permutation-Equivariant Flow Matching on the Correlation Elliptope**|Gautier Marti Team|[2610.13606](http://arxiv.org/abs/2610.13606)|**[link](https://github.com/gautiermarti/CorrFlow)**|
+|**2026-10-09**|**RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation**|Yen-Ling Kuo Team|[2610.13578](http://arxiv.org/abs/2610.13578)|null|
+|**2026-10-09**|**Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics**|Zhibo Chen Team|[2610.13522](http://arxiv.org/abs/2610.13522)|null|
+|**2026-10-09**|**AlphaNIST: Emergent Assembly Skills from Binary Task Rewards**|Yashraj Narang Team|[2610.13354](http://arxiv.org/abs/2610.13354)|null|
+|**2026-10-09**|**CoVA: Composing VAE Representations for Generative Learning**|Xiang Li Team|[2610.13322](http://arxiv.org/abs/2610.13322)|null|
+|**2026-10-09**|**Dual-Stream Memory for Vision-Language-Action Policies**|Tao Zhang Team|[2610.13262](http://arxiv.org/abs/2610.13262)|null|
+|**2026-10-09**|**Beyond Actions: Learning Future Operation Targets for Vision-Language-Action Models**|Xiaodan Liang Team|[2610.13212](http://arxiv.org/abs/2610.13212)|null|
+|**2026-10-09**|**Destination-Conditioned Adaptation with Semantic-Geometric Alignment for Generative Inbetweening**|Dongwei Ren Team|[2610.13187](http://arxiv.org/abs/2610.13187)|null|
+|**2026-10-09**|**Grounded-Dreamer: Robot Learning from World Model Synthetic Data with Physical Grounding**|Ruihai Wu Team|[2610.13164](http://arxiv.org/abs/2610.13164)|null|
+|**2026-10-09**|**Measurable Semantic 3D Gaussian Splatting with Joint Region and Depth Supervision for Interactive Building Inspection**|Ray Kai Leung Su Team|[2610.13143](http://arxiv.org/abs/2610.13143)|null|
 |**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Seungjae Lee Team|[2610.12470](http://arxiv.org/abs/2610.12470)|null|
 |**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Byron Boots Team|[2610.12465](http://arxiv.org/abs/2610.12465)|null|
 |**2026-10-08**|**SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation**|Jingjing Chen Team|[2610.12457](http://arxiv.org/abs/2610.12457)|null|
@@ -331,6 +351,8 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics**|Zhibo Chen Team|[2610.13522](http://arxiv.org/abs/2610.13522)|null|
+|**2026-10-09**|**Human2Dex: Dexterous Robot Learning from Wrist-Centric Human Demonstrations**|Shaqi Luo Team|[2610.13119](http://arxiv.org/abs/2610.13119)|null|
 |**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Eric Whitmire Team|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
 |**2026-10-08**|**VioLA: Learning Generalist Humanoid Control Policies from Human Data**|Martin Riedmiller Team|[2610.12435](http://arxiv.org/abs/2610.12435)|null|
 |**2026-10-08**|**OmniDex: Scaling Dexterous Hand Grasping to Diverse Cluttered Scenes**|Hongsheng Li Team|[2610.11194](http://arxiv.org/abs/2610.11194)|null|
@@ -348,7 +370,7 @@ layout: default
 |**2026-10-03**|**Frame-Level Temporal Alignment for Human-to-Robot Visual Adaptation**|Hong Jia Team|[2610.04372](http://arxiv.org/abs/2610.04372)|null|
 |**2026-10-03**|**TacOT: Learning Contact-Rich Dexterous Manipulation from Human Demonstrations via Tactile-Guided Optimal Transport**|Wenbo Ding Team|[2610.04363](http://arxiv.org/abs/2610.04363)|null|
 |**2026-10-02**|**Beyond Completion Time: A Multimodal Approach to Characterizing Eye-Hand Coordination During the Nine-Hole Peg Test in Multiple Sclerosis**|John-Ross Rizzo Team|[2610.04145](http://arxiv.org/abs/2610.04145)|null|
-|**2026-10-02**|**GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive**|Haozhi Qi Team|[2610.03861](http://arxiv.org/abs/2610.03861)|null|
+|**2026-10-08**|**GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive**|Haozhi Qi Team|[2610.03861](http://arxiv.org/abs/2610.03861)|null|
 |**2026-10-02**|**World Action Learning via Interaction-Centric Spectral Latent Guidance**|Song Guo Team|[2610.03607](http://arxiv.org/abs/2610.03607)|null|
 |**2026-10-02**|**DexJoCo-X: Benchmarking Action Representations for Multi-Hand Dexterous Manipulation**|Wen Li Team|[2610.03278](http://arxiv.org/abs/2610.03278)|null|
 |**2026-10-01**|**SoTa: Soft Tactile Skins for Dexterous Manipulation**|Jeannette Bohg Team|[2610.02338](http://arxiv.org/abs/2610.02338)|null|
