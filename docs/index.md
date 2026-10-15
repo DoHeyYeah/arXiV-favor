@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs**|Liang Zheng Team|[2610.18870](http://arxiv.org/abs/2610.18870)|null|
+|**2026-10-13**|**PixelMoE: Scaling Pixel-Space Diffusion with LLM-Style Mixture-of-Experts**|Houqiang Li Team|[2610.18857](http://arxiv.org/abs/2610.18857)|null|
+|**2026-10-13**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Shuicheng Yan Team|[2610.18855](http://arxiv.org/abs/2610.18855)|null|
+|**2026-10-13**|**Scaling Online Optimal Transport Minibatches for Flow Matching**|Sergey Levine Team|[2610.18838](http://arxiv.org/abs/2610.18838)|null|
+|**2026-10-13**|**RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks**|Ken Goldberg Team|[2610.18835](http://arxiv.org/abs/2610.18835)|null|
+|**2026-10-13**|**EgoMatrix: Physically Faithful Dexterous Robot Demonstrations from Egocentric Human Videos**|Yao Mu Team|[2610.18822](http://arxiv.org/abs/2610.18822)|null|
+|**2026-10-13**|**EqC: Equilibrium Energy Control for Introspective Lifelong Robot Learning**|Hang Zhao Team|[2610.18790](http://arxiv.org/abs/2610.18790)|null|
+|**2026-10-13**|**Deterministic Prediction as Global Velocity: Flow Matching for Probabilistic Time-Series Forecast**|Li-Ping Liu Team|[2610.18621](http://arxiv.org/abs/2610.18621)|null|
+|**2026-10-13**|**WAVE-0: Bridging VLA Policies and WAMs with Lightweight Latent Future Prediction**|Zhipeng Zhang Team|[2610.18568](http://arxiv.org/abs/2610.18568)|null|
+|**2026-10-13**|**Euclidean Distance-Based Flow Matching**|Peter Ochs Team|[2610.18534](http://arxiv.org/abs/2610.18534)|null|
+|**2026-10-13**|**Institutionalizing Trust in Data Exchange: Trust-Anchor Model of the Data Credit Guarantee Organization and Its Simulation-Based Comparison**|Teruaki Hayashi Team|[2610.18400](http://arxiv.org/abs/2610.18400)|null|
+|**2026-10-13**|**DR-VLA: Learning Human-Like Quadruped Navigation from Egocentric Web Videos via Domain-Invariant Scene Representations**|Chao Li Team|[2610.18373](http://arxiv.org/abs/2610.18373)|null|
+|**2026-10-13**|**Let the Mind Conceive, Let the Hand Achieve: Following Multimodal Instructions for Long-Horizon Robotic Manipulation**|Yunhui Liu Team|[2610.18352](http://arxiv.org/abs/2610.18352)|null|
+|**2026-10-13**|**Cross-Embodiment Affordance Transfer for Robotic Manipulation**|Rekha Raja Team|[2610.18194](http://arxiv.org/abs/2610.18194)|null|
+|**2026-10-13**|**RESTA: Time-Scaling Augmentation for Data-Efficient Robot Imitation Learning**|Yutong Ban Team|[2610.18163](http://arxiv.org/abs/2610.18163)|null|
+|**2026-10-13**|**ForeTac: Predictive Contact Guidance for Generative Robot Policies**|Yangwei You Team|[2610.18118](http://arxiv.org/abs/2610.18118)|null|
+|**2026-10-13**|**LADDER: A Long-Horizon Robot Manipulation Benchmark**|Danda Pani Paudel Team|[2610.18053](http://arxiv.org/abs/2610.18053)|null|
+|**2026-10-13**|**Breaking the Average: Overcoming Convergent Defaults in Robotic Manipulation via Diagnostic Chain-of-Thought and Structured Guidance**|Waleed Abdulrahman Saleh AlAkwa Team|[2610.17983](http://arxiv.org/abs/2610.17983)|null|
+|**2026-10-13**|**ReEnvision: Future-Guided Selective Action Repair for Long-Horizon Manipulation**|Hao Wang Team|[2610.17977](http://arxiv.org/abs/2610.17977)|null|
+|**2026-10-13**|**Content-Edited Layout Generation for Graphic Design**|Ying Cao Team|[2610.17905](http://arxiv.org/abs/2610.17905)|null|
 |**2026-10-09**|**Noise Space Learning for VLA Adaptation**|Li Zhao Team|[2610.13943](http://arxiv.org/abs/2610.13943)|null|
 |**2026-10-09**|**Spanning Diffusion and Flow-based Posterior Sampling via Exact Gaussian Conditioning**|Hok Shing Wong Team|[2610.13812](http://arxiv.org/abs/2610.13812)|null|
 |**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Zhenjie Yang Team|[2610.13781](http://arxiv.org/abs/2610.13781)|null|
@@ -351,6 +371,12 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning**|Shigeki Sugano Team|[2610.18443](http://arxiv.org/abs/2610.18443)|null|
+|**2026-10-13**|**DexStitch: Learning and Composing Dexterous Skills from Human Videos via Contact-Aware Robotic Inpainting**|Yongseok Lee Team|[2610.17789](http://arxiv.org/abs/2610.17789)|null|
+|**2026-10-13**|**EgoCPT: Learning Dexterous Manipulation from a Single Ego-Centric Video with Contact-Aware Optimization**|James Jingxi Xu Team|[2610.17572](http://arxiv.org/abs/2610.17572)|null|
+|**2026-10-12**|**Improving Policy Learning from Delayed Interventions**|Gregory Dudek Team|[2610.17298](http://arxiv.org/abs/2610.17298)|null|
+|**2026-10-12**|**Adaptive Interaction Network for Human Motion Prediction During Human-Robot Collaboration**|Qiongjie Cui Team|[2610.16624](http://arxiv.org/abs/2610.16624)|**[link](https://github.com/LyTingHub/AINet)**|
+|**2026-10-09**|**OATH: Object-Agnostic Tracking for Dexterous Hands, Enabling Rapid Physics-based Retargeting**|Jiuguang Wang Team|[2610.14379](http://arxiv.org/abs/2610.14379)|null|
 |**2026-10-09**|**Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics**|Zhibo Chen Team|[2610.13522](http://arxiv.org/abs/2610.13522)|null|
 |**2026-10-09**|**Human2Dex: Dexterous Robot Learning from Wrist-Centric Human Demonstrations**|Shaqi Luo Team|[2610.13119](http://arxiv.org/abs/2610.13119)|null|
 |**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Eric Whitmire Team|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
