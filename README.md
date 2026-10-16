@@ -1,4 +1,4 @@
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**VITAL: From Visual Motion to Precise Action**|Runnan Chen Team|[2610.20604](http://arxiv.org/abs/2610.20604)|**[link](https://github.com/worldbench/VITAL)**|
+|**2026-10-14**|**Physical Time as a Missing Dimension of Robot Policy Memory Dynamics**|Shenji Wan Team|[2610.20524](http://arxiv.org/abs/2610.20524)|null|
+|**2026-10-14**|**Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation**|Chenjia Bai Team|[2610.20504](http://arxiv.org/abs/2610.20504)|null|
+|**2026-10-14**|**When Do Discrete Actions Make Good Continuous Controllers?**|Guanya Shi Team|[2610.20429](http://arxiv.org/abs/2610.20429)|null|
+|**2026-10-14**|**Hyperspherical Contrastive Representations Unlock Planning and Exploration**|Benjamin Eysenbach Team|[2610.20409](http://arxiv.org/abs/2610.20409)|null|
+|**2026-10-14**|**ReAl: Refine neural operators via aligning dynamical flow**|Yuan Qi Team|[2610.20369](http://arxiv.org/abs/2610.20369)|null|
+|**2026-10-14**|**Are We Overthinking One-Step Generation?**|Bohyung Han Team|[2610.20331](http://arxiv.org/abs/2610.20331)|null|
+|**2026-10-14**|**TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation**|Weihao Yuan Team|[2610.20320](http://arxiv.org/abs/2610.20320)|null|
+|**2026-10-14**|**Predicting Unseen Scientific Interactions: Conditional Flow Models Hallucinate Non-Additive Effects**|Kerstin Ritter Team|[2610.20288](http://arxiv.org/abs/2610.20288)|**[link](https://github.com/SamGijsen/interaction-flows)**|
+|**2026-10-14**|**FlowSep-RF: Rectified Flow Matching for Single-Channel Radio-Frequency Signal Separation**|Tamer Nadeem Team|[2610.20269](http://arxiv.org/abs/2610.20269)|null|
+|**2026-10-14**|**ObjDream: Guiding Vision-Language-Action Models with Object-Level Understanding and Future State Prediction**|Jianhua Sun Team|[2610.20223](http://arxiv.org/abs/2610.20223)|null|
+|**2026-10-14**|**Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization**|Junfeng Li Team|[2610.20181](http://arxiv.org/abs/2610.20181)|null|
+|**2026-10-14**|**In-Context Batch Black-box Optimization via Flow Matching**|Samuel Kaski Team|[2610.20138](http://arxiv.org/abs/2610.20138)|null|
+|**2026-10-14**|**Tactile-Guided Robot Learning: From Representation Learning to Foundation Models**|Thomas George Thuruthel Team|[2610.20134](http://arxiv.org/abs/2610.20134)|null|
+|**2026-10-14**|**Weighted Adjoint Matching: Finetuning Flow Matching Models with Time-Dependent Control Cost**|Francis Bach Team|[2610.20035](http://arxiv.org/abs/2610.20035)|null|
+|**2026-10-14**|**Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It**|Kuderna-Iulian Benţa Team|[2610.19993](http://arxiv.org/abs/2610.19993)|null|
+|**2026-10-14**|**MUCO: A Mani-Unit-Structured Manipulation Framework for Compositional Long-Horizon Robot Tasks**|Changbo Wang Team|[2610.19913](http://arxiv.org/abs/2610.19913)|null|
+|**2026-10-14**|**Rationale Distribution Distillation via Flow Matching for Distributional Continuous Latent Reasoning**|Giung Nam Team|[2610.19871](http://arxiv.org/abs/2610.19871)|null|
+|**2026-10-14**|**OmniPoser: Flexible Human Motion Recovery in the Wild with Masked Flow Matching**|Tutian Tang Team|[2610.19857](http://arxiv.org/abs/2610.19857)|null|
+|**2026-10-14**|**VisibilitySplat: Ray-Traced Occlusion for Relighting with 3D Gaussian Splatting**|Oliver Staadt Team|[2610.19847](http://arxiv.org/abs/2610.19847)|null|
 |**2026-10-13**|**Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs**|Liang Zheng Team|[2610.18870](http://arxiv.org/abs/2610.18870)|null|
 |**2026-10-13**|**PixelMoE: Scaling Pixel-Space Diffusion with LLM-Style Mixture-of-Experts**|Houqiang Li Team|[2610.18857](http://arxiv.org/abs/2610.18857)|null|
 |**2026-10-13**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Shuicheng Yan Team|[2610.18855](http://arxiv.org/abs/2610.18855)|null|
@@ -371,12 +391,18 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**KinoGen: Customizable Humanoid Loco-Manipulation References via Kinematically Grounded Video Generation**|Kuan Fang Team|[2610.20552](http://arxiv.org/abs/2610.20552)|null|
+|**2026-10-14**|**RoboSpan: Learning Modular Coordination Policies for High-DoF Whole-Body Mobile Manipulation with Teleoperation**|Zhigong Song Team|[2610.19594](http://arxiv.org/abs/2610.19594)|null|
+|**2026-10-14**|**HiFun: a Hierarchical Framework for Efficient Functional Dexterous Manipulation Learning**|Jie Song Team|[2610.19518](http://arxiv.org/abs/2610.19518)|null|
+|**2026-10-14**|**Probabilistic Physics Digital Twin for Human-Robot Interaction**|Zhu-Tian Chen Team|[2610.19336](http://arxiv.org/abs/2610.19336)|null|
+|**2026-10-13**|**FACT: A Multimodal Force-Action-Track Foundation Model for Human-to-Robot Dexterity**|Huang Huang Team|[2610.19155](http://arxiv.org/abs/2610.19155)|null|
+|**2026-10-13**|**DexMimic: A Generalist Dexterous Hand-Object Tracking Policy via Value-Guided Reset Allocation**|Lin Shao Team|[2610.19089](http://arxiv.org/abs/2610.19089)|null|
 |**2026-10-13**|**PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning**|Shigeki Sugano Team|[2610.18443](http://arxiv.org/abs/2610.18443)|null|
 |**2026-10-13**|**DexStitch: Learning and Composing Dexterous Skills from Human Videos via Contact-Aware Robotic Inpainting**|Yongseok Lee Team|[2610.17789](http://arxiv.org/abs/2610.17789)|null|
 |**2026-10-13**|**EgoCPT: Learning Dexterous Manipulation from a Single Ego-Centric Video with Contact-Aware Optimization**|James Jingxi Xu Team|[2610.17572](http://arxiv.org/abs/2610.17572)|null|
@@ -388,7 +414,7 @@
 |**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Eric Whitmire Team|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
 |**2026-10-08**|**VioLA: Learning Generalist Humanoid Control Policies from Human Data**|Martin Riedmiller Team|[2610.12435](http://arxiv.org/abs/2610.12435)|null|
 |**2026-10-08**|**OmniDex: Scaling Dexterous Hand Grasping to Diverse Cluttered Scenes**|Hongsheng Li Team|[2610.11194](http://arxiv.org/abs/2610.11194)|null|
-|**2026-10-07**|**OmniHOI: Dexterous Hand-Object Interaction from Monocular Human Video**|Yao Mu Team|[2610.10855](http://arxiv.org/abs/2610.10855)|null|
+|**2026-10-14**|**OmniHOI: Dexterous Hand-Object Interaction from Monocular Human Video**|Yao Mu Team|[2610.10855](http://arxiv.org/abs/2610.10855)|null|
 |**2026-10-07**|**Temporal Visuo-Tactile Learning for Dexterous Grasp Stability**|Roberto Calandra Team|[2610.10283](http://arxiv.org/abs/2610.10283)|null|
 |**2026-10-07**|**A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration**|Sven Hallerbach Team|[2610.09891](http://arxiv.org/abs/2610.09891)|null|
 |**2026-10-06**|**Toward Evidence-Driven Human-Agent-Robot Teaming for Earth-Independent Anomaly Triage**|Samira Shalal Team|[2610.08933](http://arxiv.org/abs/2610.08933)|null|
@@ -466,5 +492,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
