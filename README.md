@@ -1,4 +1,4 @@
-## Updated on 2026.10.16
+## Updated on 2026.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**|Jiachen Li Team|[2610.22372](http://arxiv.org/abs/2610.22372)|null|
+|**2026-10-15**|**Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation**|Jie Song Team|[2610.22363](http://arxiv.org/abs/2610.22363)|null|
+|**2026-10-15**|**PathFM: Fast Generative Forecasting of Multivariate Trajectories**|Bernie Wang Team|[2610.22358](http://arxiv.org/abs/2610.22358)|null|
+|**2026-10-15**|**DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models**|Wangmeng Zuo Team|[2610.22356](http://arxiv.org/abs/2610.22356)|null|
+|**2026-10-15**|**Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation**|Wenbo Ding Team|[2610.22342](http://arxiv.org/abs/2610.22342)|null|
+|**2026-10-15**|**Dexterity from Supervised Play**|Ruoshi Liu Team|[2610.22340](http://arxiv.org/abs/2610.22340)|null|
+|**2026-10-15**|**Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce**|Azlan Zahid Team|[2610.22337](http://arxiv.org/abs/2610.22337)|null|
+|**2026-10-15**|**Mem4Act: Learning Effective Latent Memory for Long-Horizon Robotic Manipulation**|Jiaqi Ma Team|[2610.22323](http://arxiv.org/abs/2610.22323)|null|
+|**2026-10-15**|**MOSS: Mode-Oriented Source Shaping for Robot Flow Matching Policies**|Jianfei Yang Team|[2610.22193](http://arxiv.org/abs/2610.22193)|null|
+|**2026-10-15**|**Whole-Body Dexterity**|Manikantan Nambi Team|[2610.22184](http://arxiv.org/abs/2610.22184)|null|
+|**2026-10-15**|**REKI: Registering Knowledge in VLAs**|Moritz Böhle Team|[2610.22178](http://arxiv.org/abs/2610.22178)|null|
+|**2026-10-15**|**Motion- and Gravity-Aware Feedforward 3D Reconstruction**|Dongfeng Bai Team|[2610.22177](http://arxiv.org/abs/2610.22177)|null|
+|**2026-10-15**|**FastVLA: Task-Conditioned and Temporally Adaptive Visual Token Compression for Efficient Vision-Language-Action Models**|Yangming Shi Team|[2610.22146](http://arxiv.org/abs/2610.22146)|null|
+|**2026-10-15**|**Sub-Millisecond Reflexes for Continuous Physical Human-Robot Interaction**|Sami Haddadin Team|[2610.21913](http://arxiv.org/abs/2610.21913)|**[link](https://github.com/RoboRef/franka_reflex_engine)**|
+|**2026-10-15**|**Cross-Embodiment Causal Transfer from Human Videos to Robot Manipulation**|Wenwen Qiang Team|[2610.21798](http://arxiv.org/abs/2610.21798)|null|
+|**2026-10-15**|**Conditional Mean Flows: Few-Step Densities for Simulation-Based Inference**|Stefan T. Radev Team|[2610.21657](http://arxiv.org/abs/2610.21657)|null|
+|**2026-10-15**|**Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation**|Yong-Jin Liu Team|[2610.21634](http://arxiv.org/abs/2610.21634)|null|
+|**2026-10-15**|**SPEAR: Selective Preference Elicitation with Adaptive Rewards for VLM-Guided Robotic Manipulation**|Yanchao Yang Team|[2610.21621](http://arxiv.org/abs/2610.21621)|null|
+|**2026-10-15**|**Rethinking Classifier-Free Guidance for TI2I Flow Matching**|Alexandros Neophytou Team|[2610.21550](http://arxiv.org/abs/2610.21550)|null|
+|**2026-10-15**|**Fast-VLA: You Only Think Once for Robot Manipulation**|Michael Bi Mi Team|[2610.21389](http://arxiv.org/abs/2610.21389)|null|
 |**2026-10-14**|**VITAL: From Visual Motion to Precise Action**|Runnan Chen Team|[2610.20604](http://arxiv.org/abs/2610.20604)|**[link](https://github.com/worldbench/VITAL)**|
 |**2026-10-14**|**Physical Time as a Missing Dimension of Robot Policy Memory Dynamics**|Shenji Wan Team|[2610.20524](http://arxiv.org/abs/2610.20524)|null|
 |**2026-10-14**|**Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation**|Chenjia Bai Team|[2610.20504](http://arxiv.org/abs/2610.20504)|null|
@@ -391,18 +411,20 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261017>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**AVALON: Zero-Shot Indoor Navigation with Human-Seeded Topological Memory**|Shiyan Hu Team|[2610.21586](http://arxiv.org/abs/2610.21586)|null|
+|**2026-10-14**|**EgoJEPA: Beyond Retargeting for Dexterous Manipulation from Egocentric Videos**|Xiaodan Liang Team|[2610.20904](http://arxiv.org/abs/2610.20904)|null|
 |**2026-10-14**|**KinoGen: Customizable Humanoid Loco-Manipulation References via Kinematically Grounded Video Generation**|Kuan Fang Team|[2610.20552](http://arxiv.org/abs/2610.20552)|null|
 |**2026-10-14**|**RoboSpan: Learning Modular Coordination Policies for High-DoF Whole-Body Mobile Manipulation with Teleoperation**|Zhigong Song Team|[2610.19594](http://arxiv.org/abs/2610.19594)|null|
 |**2026-10-14**|**HiFun: a Hierarchical Framework for Efficient Functional Dexterous Manipulation Learning**|Jie Song Team|[2610.19518](http://arxiv.org/abs/2610.19518)|null|
 |**2026-10-14**|**Probabilistic Physics Digital Twin for Human-Robot Interaction**|Zhu-Tian Chen Team|[2610.19336](http://arxiv.org/abs/2610.19336)|null|
 |**2026-10-13**|**FACT: A Multimodal Force-Action-Track Foundation Model for Human-to-Robot Dexterity**|Huang Huang Team|[2610.19155](http://arxiv.org/abs/2610.19155)|null|
-|**2026-10-13**|**DexMimic: A Generalist Dexterous Hand-Object Tracking Policy via Value-Guided Reset Allocation**|Lin Shao Team|[2610.19089](http://arxiv.org/abs/2610.19089)|null|
+|**2026-10-15**|**DexMimic: A Generalist Dexterous Hand-Object Tracking Policy via Value-Guided Reset Allocation**|Lin Shao Team|[2610.19089](http://arxiv.org/abs/2610.19089)|null|
 |**2026-10-13**|**PACT: Posture-Aligned Co-Design Technique for Hand Configuration and Retargeting in Multi-Finger Imitation Learning**|Shigeki Sugano Team|[2610.18443](http://arxiv.org/abs/2610.18443)|null|
 |**2026-10-13**|**DexStitch: Learning and Composing Dexterous Skills from Human Videos via Contact-Aware Robotic Inpainting**|Yongseok Lee Team|[2610.17789](http://arxiv.org/abs/2610.17789)|null|
 |**2026-10-13**|**EgoCPT: Learning Dexterous Manipulation from a Single Ego-Centric Video with Contact-Aware Optimization**|James Jingxi Xu Team|[2610.17572](http://arxiv.org/abs/2610.17572)|null|
@@ -492,5 +514,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261017>back to top</a>)</p>
 
