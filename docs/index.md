@@ -175,9 +175,9 @@ layout: default
 |**2026-10-02**|**World Action Learning via Interaction-Centric Spectral Latent Guidance**|Song Guo Team|[2610.03607](http://arxiv.org/abs/2610.03607)|null|
 |**2026-10-02**|**RATE: Risk-Aware Tactile Encoding for Contact-rich Robotic Manipulation**|Ziwei Wang Team|[2610.03538](http://arxiv.org/abs/2610.03538)|null|
 |**2026-10-02**|**XGenAct: Geometry-Enhanced World Action Models through Cross-Task Generation**|Ang Li Team|[2610.03516](http://arxiv.org/abs/2610.03516)|null|
-|**2026-10-02**|**Getting Your Guidance Weights Right in diffusion and flow-matching posterior sampling**|Guillaume Bourmaud Team|[2610.03503](http://arxiv.org/abs/2610.03503)|null|
+|**2026-10-02**|**Getting Your Guidance Weights Right in diffusion and flow-matching posterior sampling**|Guillaume Bourmaud Team|[2610.03503](http://arxiv.org/abs/2610.03503)|**[link](https://github.com/teddytennant/simca)|
 |**2026-10-02**|**AREX: Affine-Residual Exponential Integrator for Few-Step Sampling in Flow Matching**|N. Benjamin Erichson Team|[2610.03483](http://arxiv.org/abs/2610.03483)|null|
-|**2026-10-02**|**MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation**|Xiaojuan Qi Team|[2610.03476](http://arxiv.org/abs/2610.03476)|null|
+|**2026-10-02**|**MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation**|Xiaojuan Qi Team|[2610.03476](http://arxiv.org/abs/2610.03476)|**[link](https://github.com/kaiknower/MobiAgent)|
 |**2026-10-02**|**A Unified Framework for Bayesian Data Assimilation with Generative Models and Observation Interpolants**|Benjamin Sanderse Team|[2610.03396](http://arxiv.org/abs/2610.03396)|null|
 |**2026-10-02**|**Native Action-Prior Learning from Videos for World Action Models**|Sen He Team|[2610.03391](http://arxiv.org/abs/2610.03391)|null|
 |**2026-10-02**|**DriftTTS: Few-Step Text-to-Speech Without Distillation via Distribution-Matching Drift**|Bashima Islam Team|[2610.03390](http://arxiv.org/abs/2610.03390)|null|

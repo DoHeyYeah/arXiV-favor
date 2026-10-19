@@ -35,20 +35,20 @@
 |**2026-10-15**|**Fast-VLA: You Only Think Once for Robot Manipulation**|Michael Bi Mi Team|[2610.21389](http://arxiv.org/abs/2610.21389)|null|
 |**2026-10-14**|**VITAL: From Visual Motion to Precise Action**|Runnan Chen Team|[2610.20604](http://arxiv.org/abs/2610.20604)|**[link](https://github.com/worldbench/VITAL)**|
 |**2026-10-14**|**Physical Time as a Missing Dimension of Robot Policy Memory Dynamics**|Shenji Wan Team|[2610.20524](http://arxiv.org/abs/2610.20524)|null|
-|**2026-10-14**|**Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation**|Chenjia Bai Team|[2610.20504](http://arxiv.org/abs/2610.20504)|null|
+|**2026-10-14**|**Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation**|Chenjia Bai Team|[2610.20504](http://arxiv.org/abs/2610.20504)|**[link](https://github.com/Gamma-Robot/GR-BC)|
 |**2026-10-14**|**When Do Discrete Actions Make Good Continuous Controllers?**|Guanya Shi Team|[2610.20429](http://arxiv.org/abs/2610.20429)|null|
-|**2026-10-14**|**Hyperspherical Contrastive Representations Unlock Planning and Exploration**|Benjamin Eysenbach Team|[2610.20409](http://arxiv.org/abs/2610.20409)|null|
+|**2026-10-14**|**Hyperspherical Contrastive Representations Unlock Planning and Exploration**|Benjamin Eysenbach Team|[2610.20409](http://arxiv.org/abs/2610.20409)|**[link](https://github.com/jonghaepark/c-slerp)|
 |**2026-10-14**|**ReAl: Refine neural operators via aligning dynamical flow**|Yuan Qi Team|[2610.20369](http://arxiv.org/abs/2610.20369)|null|
 |**2026-10-14**|**Are We Overthinking One-Step Generation?**|Bohyung Han Team|[2610.20331](http://arxiv.org/abs/2610.20331)|null|
-|**2026-10-14**|**TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation**|Weihao Yuan Team|[2610.20320](http://arxiv.org/abs/2610.20320)|null|
+|**2026-10-14**|**TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation**|Weihao Yuan Team|[2610.20320](http://arxiv.org/abs/2610.20320)|**[link](https://github.com/daimon-robotics/tacclaw-infinity-page)|
 |**2026-10-14**|**Predicting Unseen Scientific Interactions: Conditional Flow Models Hallucinate Non-Additive Effects**|Kerstin Ritter Team|[2610.20288](http://arxiv.org/abs/2610.20288)|**[link](https://github.com/SamGijsen/interaction-flows)**|
 |**2026-10-14**|**FlowSep-RF: Rectified Flow Matching for Single-Channel Radio-Frequency Signal Separation**|Tamer Nadeem Team|[2610.20269](http://arxiv.org/abs/2610.20269)|null|
-|**2026-10-14**|**ObjDream: Guiding Vision-Language-Action Models with Object-Level Understanding and Future State Prediction**|Jianhua Sun Team|[2610.20223](http://arxiv.org/abs/2610.20223)|null|
+|**2026-10-14**|**ObjDream: Guiding Vision-Language-Action Models with Object-Level Understanding and Future State Prediction**|Jianhua Sun Team|[2610.20223](http://arxiv.org/abs/2610.20223)|**[link](https://github.com/HuailiangMa/ObjDream)|
 |**2026-10-14**|**Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization**|Junfeng Li Team|[2610.20181](http://arxiv.org/abs/2610.20181)|null|
 |**2026-10-14**|**In-Context Batch Black-box Optimization via Flow Matching**|Samuel Kaski Team|[2610.20138](http://arxiv.org/abs/2610.20138)|null|
 |**2026-10-14**|**Tactile-Guided Robot Learning: From Representation Learning to Foundation Models**|Thomas George Thuruthel Team|[2610.20134](http://arxiv.org/abs/2610.20134)|null|
 |**2026-10-14**|**Weighted Adjoint Matching: Finetuning Flow Matching Models with Time-Dependent Control Cost**|Francis Bach Team|[2610.20035](http://arxiv.org/abs/2610.20035)|null|
-|**2026-10-14**|**Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It**|Kuderna-Iulian Benţa Team|[2610.19993](http://arxiv.org/abs/2610.19993)|null|
+|**2026-10-14**|**Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It**|Kuderna-Iulian Benţa Team|[2610.19993](http://arxiv.org/abs/2610.19993)|**[link](https://github.com/Klaraaorban/underice-breakdown)|
 |**2026-10-14**|**MUCO: A Mani-Unit-Structured Manipulation Framework for Compositional Long-Horizon Robot Tasks**|Changbo Wang Team|[2610.19913](http://arxiv.org/abs/2610.19913)|null|
 |**2026-10-14**|**Rationale Distribution Distillation via Flow Matching for Distributional Continuous Latent Reasoning**|Giung Nam Team|[2610.19871](http://arxiv.org/abs/2610.19871)|null|
 |**2026-10-14**|**OmniPoser: Flexible Human Motion Recovery in the Wild with Masked Flow Matching**|Tutian Tang Team|[2610.19857](http://arxiv.org/abs/2610.19857)|null|
