@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Based Model Inference**|Jochen Weller Team|[2610.23825](http://arxiv.org/abs/2610.23825)|null|
+|**2026-10-16**|**Not All Actions Contribute Equally: Learning Precise Progress Estimation from Imprecise Demonstrations**|Gao Huang Team|[2610.23769](http://arxiv.org/abs/2610.23769)|null|
+|**2026-10-16**|**CLEAR: Cooperative Latent Flow for Visual Counterfactual Explanations with Accurate Region Preservation**|Anders Bjorholm Dahl Team|[2610.23577](http://arxiv.org/abs/2610.23577)|null|
+|**2026-10-16**|**Enhancing Visual Task-Redirection Attacks on Vision-Language-Action Models via Closed-Loop Optimization**|Xiaochun Cao Team|[2610.23566](http://arxiv.org/abs/2610.23566)|null|
+|**2026-10-16**|**FLoTS-SLAM: Optical Flow-Derived Uncertainty for Monocular Dynamic SLAM with Two-Stage Optimization**|Lipu Zhou Team|[2610.23496](http://arxiv.org/abs/2610.23496)|null|
+|**2026-10-16**|**HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents**|Xiao He Team|[2610.23479](http://arxiv.org/abs/2610.23479)|**[link](https://github.com/HexaFuture/HexaShell)**|
+|**2026-10-16**|**No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation?**|Sethu Vijayakumar Team|[2610.23438](http://arxiv.org/abs/2610.23438)|null|
+|**2026-10-16**|**AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation**|Yanwei Fu Team|[2610.23396](http://arxiv.org/abs/2610.23396)|null|
+|**2026-10-16**|**Look Before You Act: Bridging Active Perception and Vision-Language-Action Models via Observation-Aligned Data Adaptation**|Yanwei Fu Team|[2610.23378](http://arxiv.org/abs/2610.23378)|null|
+|**2026-10-16**|**LonGaussian: Tracking Foundation Priors for Long-Context Feedforward Gaussian Reconstruction**|Wenyu Liu Team|[2610.23250](http://arxiv.org/abs/2610.23250)|null|
+|**2026-10-16**|**X-Splat: Unified Gaussian Splatting for Joint RGB and X-ray 3D Reconstruction**|Imari Sato Team|[2610.23237](http://arxiv.org/abs/2610.23237)|null|
+|**2026-10-16**|**ORD-WM: Learning Object-Centric Rigid Dynamics for 3D World Modeling in Robotic Manipulation**|Yanjie Li Team|[2610.23156](http://arxiv.org/abs/2610.23156)|null|
+|**2026-10-16**|**GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation**|Wende Xie Team|[2610.23123](http://arxiv.org/abs/2610.23123)|null|
+|**2026-10-16**|**TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation**|Dapeng Wu Team|[2610.23050](http://arxiv.org/abs/2610.23050)|null|
+|**2026-10-16**|**UniField++: A Unified Agentic Framework with Loop Reasoning for MRI Field-Strength Enhancement**|Yixuan Yuan Team|[2610.22982](http://arxiv.org/abs/2610.22982)|null|
+|**2026-10-16**|**DriftTTS: One-stage Single Step Text-to-Speech via Generative Drifting**|Heeseung Kim Team|[2610.22960](http://arxiv.org/abs/2610.22960)|null|
+|**2026-10-16**|**MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models**|Cesare Stefanini Team|[2610.22951](http://arxiv.org/abs/2610.22951)|null|
+|**2026-10-16**|**Ego2Contact: Predicting Touch from Egocentric Human Video for Contact-Rich Robot Manipulation**|Zhiwen Fan Team|[2610.22932](http://arxiv.org/abs/2610.22932)|null|
+|**2026-10-16**|**Sample-Efficient Reinforcement Learning for Policy Improvement via Flow-Reversed Action Anchors**|Dylan Randle Team|[2610.22852](http://arxiv.org/abs/2610.22852)|null|
+|**2026-10-16**|**Simultaneous Force and Motion Control in Generalised Coordinates**|Jon Woolfrey Team|[2610.22813](http://arxiv.org/abs/2610.22813)|null|
 |**2026-10-15**|**LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**|Jiachen Li Team|[2610.22372](http://arxiv.org/abs/2610.22372)|null|
 |**2026-10-15**|**Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation**|Jie Song Team|[2610.22363](http://arxiv.org/abs/2610.22363)|null|
 |**2026-10-15**|**PathFM: Fast Generative Forecasting of Multivariate Trajectories**|Bernie Wang Team|[2610.22358](http://arxiv.org/abs/2610.22358)|null|
@@ -411,6 +431,8 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation?**|Sethu Vijayakumar Team|[2610.23438](http://arxiv.org/abs/2610.23438)|null|
+|**2026-10-15**|**Has GPT-6-Astra Achieved Embodied Intelligence?**|Jing Zuo Team|[2610.22471](http://arxiv.org/abs/2610.22471)|null|
 |**2026-10-15**|**AVALON: Zero-Shot Indoor Navigation with Human-Seeded Topological Memory**|Shiyan Hu Team|[2610.21586](http://arxiv.org/abs/2610.21586)|null|
 |**2026-10-14**|**EgoJEPA: Beyond Retargeting for Dexterous Manipulation from Egocentric Videos**|Xiaodan Liang Team|[2610.20904](http://arxiv.org/abs/2610.20904)|null|
 |**2026-10-14**|**KinoGen: Customizable Humanoid Loco-Manipulation References via Kinematically Grounded Video Generation**|Kuan Fang Team|[2610.20552](http://arxiv.org/abs/2610.20552)|null|
