@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**AEON: Unifying Video and 3D World Models**|Junsheng Zhou Team|[2610.28631](http://arxiv.org/abs/2610.28631)|null|
+|**2026-10-20**|**UniWALM: Unified World Action Language Model for Embodied Robot Control**|Jeroen Vanbaar Team|[2610.28626](http://arxiv.org/abs/2610.28626)|null|
+|**2026-10-20**|**Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning**|Qichao Zhang Team|[2610.28613](http://arxiv.org/abs/2610.28613)|null|
+|**2026-10-20**|**Large Flow Language Models**|Jinwoo Kim Team|[2610.28559](http://arxiv.org/abs/2610.28559)|**[link](https://github.com/lafa-gh/large-flow-lms)**|
+|**2026-10-20**|**Latent Bridge: From Video Latents to 3D Geometry via Feature Alignment**|Xinggang Wang Team|[2610.28521](http://arxiv.org/abs/2610.28521)|**[link](https://github.com/hustvl/Latent-Bridge)**|
+|**2026-10-20**|**RayCo4D: Ray-Conditioned Continuous Motion Model for Monocular 4D Dynamic Reconstruction**|Hao Zhang Team|[2610.28351](http://arxiv.org/abs/2610.28351)|null|
+|**2026-10-20**|**Large Multimodal Models for Direct Robot Control: GPT-6 as a Beginning**|Zhihe Lu Team|[2610.28259](http://arxiv.org/abs/2610.28259)|null|
+|**2026-10-20**|**SplatFlux: Feed-Forward 4D Gaussian Reconstruction and Generation from Video Latents**|Hui-Liang Shen Team|[2610.28257](http://arxiv.org/abs/2610.28257)|null|
+|**2026-10-20**|**Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs**|Marco Pavone Team|[2610.28184](http://arxiv.org/abs/2610.28184)|null|
+|**2026-10-20**|**FIT-MAC: A Closed-Loop Multi-Agent Framework for Robust Vision-Language-Action Models**|Bin Hu Team|[2610.28109](http://arxiv.org/abs/2610.28109)|null|
+|**2026-10-20**|**LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS**|Ling Long Team|[2610.28035](http://arxiv.org/abs/2610.28035)|null|
+|**2026-10-20**|**Learning Tactile-Aware Hand Representations from Human Hand-Object Interaction Data**|Byungok Han Team|[2610.27995](http://arxiv.org/abs/2610.27995)|null|
+|**2026-10-20**|**EventSync: Event-Driven Memory Updates for History-Dependent Manipulation**|Zhiwu Lu Team|[2610.27917](http://arxiv.org/abs/2610.27917)|null|
+|**2026-10-20**|**Inverse domain uncertainty quantification in hemodynamics: sampling virtual patient cohorts under constraints**|Alfonso Caiazzo Team|[2610.27869](http://arxiv.org/abs/2610.27869)|null|
+|**2026-10-20**|**Multi-View Latent Action Pretraining for Cross-Embodiment Robot Learning from Videos**|Angela P. Schoellig Team|[2610.27794](http://arxiv.org/abs/2610.27794)|null|
+|**2026-10-20**|**Geometry Regularization for Vanilla NeRF via Self-Supervised Cross-Ray Consistency**|Zongji Wang Team|[2610.27776](http://arxiv.org/abs/2610.27776)|null|
+|**2026-10-20**|**AWLS: Advantage-Weighted Latent Steering for One-Step Generative Robotic Manipulation Policies**|Haiyue Zhu Team|[2610.27736](http://arxiv.org/abs/2610.27736)|null|
+|**2026-10-20**|**PLaCA: Learning Patch-Level Future Latent Change for Action Generation**|Boyuan Yang Team|[2610.27657](http://arxiv.org/abs/2610.27657)|null|
+|**2026-10-20**|**Causal Spatiotemporal State Evolution for Monocular 4D Reconstruction**|Sheng Yang Team|[2610.27594](http://arxiv.org/abs/2610.27594)|null|
+|**2026-10-20**|**HATCH: Hardware-Attested Task Chains for Verifiable Manipulation**|Shiza Charania Team|[2610.27485](http://arxiv.org/abs/2610.27485)|**[link](https://github.com/shizacharania/hatch-benchmark)**|
 |**2026-10-19**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Yan Chang Team|[2610.26854](http://arxiv.org/abs/2610.26854)|null|
 |**2026-10-19**|**GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation**|Chen Wang Team|[2610.26846](http://arxiv.org/abs/2610.26846)|null|
 |**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Ning Ding Team|[2610.26765](http://arxiv.org/abs/2610.26765)|null|
@@ -451,8 +471,12 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs**|Yuval Atzmon Team|[2610.28632](http://arxiv.org/abs/2610.28632)|null|
+|**2026-10-20**|**Plausible Future, Wrong Choice: Steering World-Action Models toward Intended Future**|Wei-Shi Zheng Team|[2610.28431](http://arxiv.org/abs/2610.28431)|null|
+|**2026-10-20**|**Frontier LLMs Enter the World of Robotics: A Cross-Model Evaluation on RoboColiseum**|Mo Wu Team|[2610.27865](http://arxiv.org/abs/2610.27865)|null|
+|**2026-10-20**|**RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation**|Yandong Wen Team|[2610.27782](http://arxiv.org/abs/2610.27782)|null|
 |**2026-10-19**|**Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience**|Ziwei Liu Team|[2610.26855](http://arxiv.org/abs/2610.26855)|**[link](https://github.com/Ropedia/ropedia-w0)**|
-|**2026-10-19**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Yan Chang Team|[2610.26854](http://arxiv.org/abs/2610.26854)|null|
+|**2026-10-20**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Yan Chang Team|[2610.26854](http://arxiv.org/abs/2610.26854)|null|
 |**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Ning Ding Team|[2610.26765](http://arxiv.org/abs/2610.26765)|null|
 |**2026-10-19**|**ALIGN: Aligning Condition Estimation and Expression in Advantage-Conditioned Behavior Cloning**|Qian Zhu Team|[2610.26455](http://arxiv.org/abs/2610.26455)|null|
 |**2026-10-18**|**BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks**|Shengze Cai Team|[2610.25459](http://arxiv.org/abs/2610.25459)|null|
