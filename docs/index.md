@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Agentic World Action Models**|Trevor Darrell Team|[2610.30136](http://arxiv.org/abs/2610.30136)|null|
+|**2026-10-21**|**Rethinking Video Autoencoders for Interactive World Models**|David Picard Team|[2610.30129](http://arxiv.org/abs/2610.30129)|null|
+|**2026-10-21**|**Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching**|Gang Wang Team|[2610.30107](http://arxiv.org/abs/2610.30107)|null|
+|**2026-10-21**|**Asymmetric On-Policy Distillation Learns In-Context Exploration**|Abhishek Gupta Team|[2610.30105](http://arxiv.org/abs/2610.30105)|null|
+|**2026-10-21**|**AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation**|Liang Lin Team|[2610.30097](http://arxiv.org/abs/2610.30097)|null|
+|**2026-10-21**|**From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks**|Yu Xiang Team|[2610.30051](http://arxiv.org/abs/2610.30051)|**[link](https://github.com/IRVLUTD/LLM_LIBERO)**|
+|**2026-10-21**|**Flowz: When Does Learning Forecast Errors Add Value? Conditional Flow Matching for Financial Price Forecasts**|Giancarlo Vercellino Team|[2610.29991](http://arxiv.org/abs/2610.29991)|null|
+|**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Shuhei Kurita Team|[2610.29936](http://arxiv.org/abs/2610.29936)|null|
+|**2026-10-21**|**GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models**|Xiaozhu Ju Team|[2610.29866](http://arxiv.org/abs/2610.29866)|null|
+|**2026-10-21**|**CausGround: Causal Interaction Grounding for Adaptive Embodied Planning**|Kai Zhang Team|[2610.29702](http://arxiv.org/abs/2610.29702)|null|
+|**2026-10-21**|**Unlocking Spatial Grounding in Flow-Matching Models via SNR Tuning**|Elke Hergenröther Team|[2610.29581](http://arxiv.org/abs/2610.29581)|null|
+|**2026-10-21**|**Joint-Angle Invariance of Jacobian-Based Performance Indices for Serial Robotic Manipulators**|Xiaocong Li Team|[2610.29570](http://arxiv.org/abs/2610.29570)|null|
+|**2026-10-21**|**Mixture of Flow Matching and Particle Filter for Proprioception-Based Online Contact Estimation**|Min Jun Kim Team|[2610.29568](http://arxiv.org/abs/2610.29568)|null|
+|**2026-10-21**|**From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation**|Zhihui Li Team|[2610.29560](http://arxiv.org/abs/2610.29560)|null|
+|**2026-10-21**|**AutoPhyX: Automatic Text-Condition Physics Property Generation**|Siyuan Huang Team|[2610.29517](http://arxiv.org/abs/2610.29517)|null|
+|**2026-10-21**|**Distance Field Driven Reinforcement Learning for Reactive and Robust Collision Avoidance**|Eiichi Yoshida Team|[2610.29452](http://arxiv.org/abs/2610.29452)|null|
+|**2026-10-21**|**LiveAct: Towards Real-Time Multi-Agent World Models with Heterogeneous Action Interfaces**|Fangneng Zhan Team|[2610.29408](http://arxiv.org/abs/2610.29408)|null|
+|**2026-10-21**|**Progressive Permutation Alignment with Temperature-Controlled Spectral Sharpening**|Yuki Uranishi Team|[2610.29396](http://arxiv.org/abs/2610.29396)|null|
+|**2026-10-21**|**Integrating Flow Matching and Model Predictive Control for Safe Robot Navigation**|Rolf Findeisen Team|[2610.29377](http://arxiv.org/abs/2610.29377)|null|
+|**2026-10-21**|**Compositional neural networks for multimodal X-ray and neutron scattering inversion**|Frank Schreiber Team|[2610.29362](http://arxiv.org/abs/2610.29362)|null|
 |**2026-10-20**|**AEON: Unifying Video and 3D World Models**|Junsheng Zhou Team|[2610.28631](http://arxiv.org/abs/2610.28631)|null|
 |**2026-10-20**|**UniWALM: Unified World Action Language Model for Embodied Robot Control**|Jeroen Vanbaar Team|[2610.28626](http://arxiv.org/abs/2610.28626)|null|
 |**2026-10-20**|**Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning**|Qichao Zhang Team|[2610.28613](http://arxiv.org/abs/2610.28613)|null|
@@ -471,12 +491,15 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations**|Ziwei Liu Team|[2610.29997](http://arxiv.org/abs/2610.29997)|null|
+|**2026-10-21**|**PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits**|Cong Wang Team|[2610.29030](http://arxiv.org/abs/2610.29030)|null|
+|**2026-10-20**|**COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation**|Ruslan Salakhutdinov Team|[2610.28948](http://arxiv.org/abs/2610.28948)|null|
 |**2026-10-20**|**Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs**|Yuval Atzmon Team|[2610.28632](http://arxiv.org/abs/2610.28632)|null|
 |**2026-10-20**|**Plausible Future, Wrong Choice: Steering World-Action Models toward Intended Future**|Wei-Shi Zheng Team|[2610.28431](http://arxiv.org/abs/2610.28431)|null|
 |**2026-10-20**|**Frontier LLMs Enter the World of Robotics: A Cross-Model Evaluation on RoboColiseum**|Mo Wu Team|[2610.27865](http://arxiv.org/abs/2610.27865)|null|
 |**2026-10-20**|**RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation**|Yandong Wen Team|[2610.27782](http://arxiv.org/abs/2610.27782)|null|
 |**2026-10-19**|**Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience**|Ziwei Liu Team|[2610.26855](http://arxiv.org/abs/2610.26855)|**[link](https://github.com/Ropedia/ropedia-w0)**|
-|**2026-10-20**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Yan Chang Team|[2610.26854](http://arxiv.org/abs/2610.26854)|null|
+|**2026-10-21**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Yan Chang Team|[2610.26854](http://arxiv.org/abs/2610.26854)|null|
 |**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Ning Ding Team|[2610.26765](http://arxiv.org/abs/2610.26765)|null|
 |**2026-10-19**|**ALIGN: Aligning Condition Estimation and Expression in Advantage-Conditioned Behavior Cloning**|Qian Zhu Team|[2610.26455](http://arxiv.org/abs/2610.26455)|null|
 |**2026-10-18**|**BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks**|Shengze Cai Team|[2610.25459](http://arxiv.org/abs/2610.25459)|null|
