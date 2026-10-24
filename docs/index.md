@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.23
+## Updated on 2026.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields**|Anand Bhattad Team|[2610.31645](http://arxiv.org/abs/2610.31645)|null|
+|**2026-10-22**|**HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction**|Chen Change Loy Team|[2610.31635](http://arxiv.org/abs/2610.31635)|null|
+|**2026-10-22**|**Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision**|Yi-Hsuan Yang Team|[2610.31510](http://arxiv.org/abs/2610.31510)|null|
+|**2026-10-22**|**FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models**|Peng Li Team|[2610.31423](http://arxiv.org/abs/2610.31423)|null|
+|**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Zesong Li Team|[2610.31321](http://arxiv.org/abs/2610.31321)|null|
+|**2026-10-22**|**Stream4D: Streaming 4D Reconstruction with Training-free Motion Decoupling via Causal KV-Cache Attention**|Qi Zhang Team|[2610.31320](http://arxiv.org/abs/2610.31320)|null|
+|**2026-10-22**|**Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation**|Hengshuang Zhao Team|[2610.31305](http://arxiv.org/abs/2610.31305)|null|
+|**2026-10-22**|**PiHand: Latent Hand-Object Interaction Priors for Physics-Based Policy Learning**|Gerard Pons-Moll Team|[2610.31299](http://arxiv.org/abs/2610.31299)|null|
+|**2026-10-22**|**GLOW-FM: Efficient Generative Low-Light Image Enhancement with One-Step Latent Flow Matching**|Idit Diamant Team|[2610.31222](http://arxiv.org/abs/2610.31222)|null|
+|**2026-10-22**|**Moving Regions, Not Moving Objects: Segmenting What Actually Moves under Camera Motion**|Zesong Li Team|[2610.31209](http://arxiv.org/abs/2610.31209)|null|
+|**2026-10-22**|**Prediction Uncertainty Controlled Computer Model Calibration**|Won Chang Team|[2610.31163](http://arxiv.org/abs/2610.31163)|null|
+|**2026-10-22**|**AstroBench: Benchmarking Free-Floating Capture and Space Robotic Manipulation**|Yao Zhu Team|[2610.31064](http://arxiv.org/abs/2610.31064)|**[link](https://github.com/AstroUpLab/AstroBench)**|
+|**2026-10-22**|**Assessing the consistency of the CPL dark-energy model with cosmological data: Simulation-calibrated neural posterior disagreement**|Xin Zhang Team|[2610.31044](http://arxiv.org/abs/2610.31044)|null|
+|**2026-10-22**|**Revisiting Distribution Matching for State-to-Vision Policy Distillation in Laparoscopic Robotic Manipulation**|Weidong Cai Team|[2610.31010](http://arxiv.org/abs/2610.31010)|null|
+|**2026-10-22**|**IORA: Irregular Object Immobilization under Restricted Actuation**|Hae-Gon Jeon Team|[2610.30969](http://arxiv.org/abs/2610.30969)|null|
+|**2026-10-22**|**TEAR: Task-Evidence Authority Routing for Robotic Manipulation**|Haoliang Li Team|[2610.30819](http://arxiv.org/abs/2610.30819)|null|
+|**2026-10-22**|**DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models**|Ziwei Liu Team|[2610.30781](http://arxiv.org/abs/2610.30781)|null|
+|**2026-10-22**|**When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies**|Kai Arulkumaran Team|[2610.30735](http://arxiv.org/abs/2610.30735)|null|
+|**2026-10-22**|**SmolVLA-MoE: Sparse Mixture-of-Experts for Efficient Multi-Task Robotic Manipulation**|Peng Song Team|[2610.30732](http://arxiv.org/abs/2610.30732)|null|
+|**2026-10-22**|**ParaLin++: Accelerating Parallel Diffusion Integrator via Intrinsic Partially Linear Structure**|Junhui Hou Team|[2610.30704](http://arxiv.org/abs/2610.30704)|null|
 |**2026-10-21**|**Agentic World Action Models**|Trevor Darrell Team|[2610.30136](http://arxiv.org/abs/2610.30136)|null|
 |**2026-10-21**|**Rethinking Video Autoencoders for Interactive World Models**|David Picard Team|[2610.30129](http://arxiv.org/abs/2610.30129)|null|
 |**2026-10-21**|**Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching**|Gang Wang Team|[2610.30107](http://arxiv.org/abs/2610.30107)|null|
@@ -491,6 +511,10 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**Skeleton-Grounded Latent Action Model for Robot World Models**|Mike Shou Zheng Team|[2610.31474](http://arxiv.org/abs/2610.31474)|null|
+|**2026-10-22**|**PiHand: Latent Hand-Object Interaction Priors for Physics-Based Policy Learning**|Gerard Pons-Moll Team|[2610.31299](http://arxiv.org/abs/2610.31299)|null|
+|**2026-10-22**|**Robot Motion Transition with Human Motion Prior**|Sungjoon Choi Team|[2610.30817](http://arxiv.org/abs/2610.30817)|null|
+|**2026-10-21**|**Self-Distilling Future Video Representations for World Action Models**|Sihyun Yu Team|[2610.30320](http://arxiv.org/abs/2610.30320)|null|
 |**2026-10-21**|**DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations**|Ziwei Liu Team|[2610.29997](http://arxiv.org/abs/2610.29997)|null|
 |**2026-10-21**|**PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits**|Cong Wang Team|[2610.29030](http://arxiv.org/abs/2610.29030)|null|
 |**2026-10-20**|**COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation**|Ruslan Salakhutdinov Team|[2610.28948](http://arxiv.org/abs/2610.28948)|null|
