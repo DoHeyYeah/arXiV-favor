@@ -29,8 +29,8 @@
 |**2026-10-22**|**Revisiting Distribution Matching for State-to-Vision Policy Distillation in Laparoscopic Robotic Manipulation**|Weidong Cai Team|[2610.31010](http://arxiv.org/abs/2610.31010)|null|
 |**2026-10-22**|**IORA: Irregular Object Immobilization under Restricted Actuation**|Hae-Gon Jeon Team|[2610.30969](http://arxiv.org/abs/2610.30969)|null|
 |**2026-10-22**|**TEAR: Task-Evidence Authority Routing for Robotic Manipulation**|Haoliang Li Team|[2610.30819](http://arxiv.org/abs/2610.30819)|null|
-|**2026-10-22**|**DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models**|Ziwei Liu Team|[2610.30781](http://arxiv.org/abs/2610.30781)|null|
-|**2026-10-22**|**When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies**|Kai Arulkumaran Team|[2610.30735](http://arxiv.org/abs/2610.30735)|null|
+|**2026-10-22**|**DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models**|Ziwei Liu Team|[2610.30781](http://arxiv.org/abs/2610.30781)|**[link](https://github.com/DeXplicit/DeXplicit.github.io)|
+|**2026-10-22**|**When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies**|Kai Arulkumaran Team|[2610.30735](http://arxiv.org/abs/2610.30735)|**[link](https://github.com/onestepflow/onestepflow.github.io)|
 |**2026-10-22**|**SmolVLA-MoE: Sparse Mixture-of-Experts for Efficient Multi-Task Robotic Manipulation**|Peng Song Team|[2610.30732](http://arxiv.org/abs/2610.30732)|null|
 |**2026-10-22**|**ParaLin++: Accelerating Parallel Diffusion Integrator via Intrinsic Partially Linear Structure**|Junhui Hou Team|[2610.30704](http://arxiv.org/abs/2610.30704)|null|
 |**2026-10-21**|**Agentic World Action Models**|Trevor Darrell Team|[2610.30136](http://arxiv.org/abs/2610.30136)|null|
@@ -181,17 +181,17 @@
 |**2026-10-09**|**Towards Understanding the Training of GFlowNets: A Theoretical Perspective**|Longbo Huang Team|[2610.13711](http://arxiv.org/abs/2610.13711)|null|
 |**2026-10-09**|**PhysForge: Material-Controllable 3D Reconstruction with Separable Components**|Jing Huo Team|[2610.13681](http://arxiv.org/abs/2610.13681)|null|
 |**2026-10-09**|**AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Guangtao Zhai Team|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
-|**2026-10-09**|**JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation**|Dzmitry Tsetserukou Team|[2610.13628](http://arxiv.org/abs/2610.13628)|null|
+|**2026-10-09**|**JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation**|Dzmitry Tsetserukou Team|[2610.13628](http://arxiv.org/abs/2610.13628)|**[link](https://github.com/FaithOgunwoye/JitterVLA)|
 |**2026-10-09**|**Some remarks on the connection between generative diffusion and optimal transport**|Marc Mézard Team|[2610.13614](http://arxiv.org/abs/2610.13614)|null|
 |**2026-10-09**|**CorrFlow: Exact and Permutation-Equivariant Flow Matching on the Correlation Elliptope**|Gautier Marti Team|[2610.13606](http://arxiv.org/abs/2610.13606)|**[link](https://github.com/gautiermarti/CorrFlow)**|
 |**2026-10-09**|**RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation**|Yen-Ling Kuo Team|[2610.13578](http://arxiv.org/abs/2610.13578)|null|
 |**2026-10-09**|**Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics**|Zhibo Chen Team|[2610.13522](http://arxiv.org/abs/2610.13522)|null|
-|**2026-10-09**|**AlphaNIST: Emergent Assembly Skills from Binary Task Rewards**|Yashraj Narang Team|[2610.13354](http://arxiv.org/abs/2610.13354)|null|
+|**2026-10-09**|**AlphaNIST: Emergent Assembly Skills from Binary Task Rewards**|Yashraj Narang Team|[2610.13354](http://arxiv.org/abs/2610.13354)|**[link](https://github.com/dcbenwu/alpha-nist-repro)|
 |**2026-10-09**|**CoVA: Composing VAE Representations for Generative Learning**|Xiang Li Team|[2610.13322](http://arxiv.org/abs/2610.13322)|null|
 |**2026-10-09**|**Dual-Stream Memory for Vision-Language-Action Policies**|Tao Zhang Team|[2610.13262](http://arxiv.org/abs/2610.13262)|null|
 |**2026-10-09**|**Beyond Actions: Learning Future Operation Targets for Vision-Language-Action Models**|Xiaodan Liang Team|[2610.13212](http://arxiv.org/abs/2610.13212)|null|
 |**2026-10-09**|**Destination-Conditioned Adaptation with Semantic-Geometric Alignment for Generative Inbetweening**|Dongwei Ren Team|[2610.13187](http://arxiv.org/abs/2610.13187)|null|
-|**2026-10-09**|**Grounded-Dreamer: Robot Learning from World Model Synthetic Data with Physical Grounding**|Ruihai Wu Team|[2610.13164](http://arxiv.org/abs/2610.13164)|null|
+|**2026-10-09**|**Grounded-Dreamer: Robot Learning from World Model Synthetic Data with Physical Grounding**|Ruihai Wu Team|[2610.13164](http://arxiv.org/abs/2610.13164)|**[link](https://github.com/fffstrong/Grounded-Dreamer)|
 |**2026-10-09**|**Measurable Semantic 3D Gaussian Splatting with Joint Region and Depth Supervision for Interactive Building Inspection**|Ray Kai Leung Su Team|[2610.13143](http://arxiv.org/abs/2610.13143)|null|
 |**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Seungjae Lee Team|[2610.12470](http://arxiv.org/abs/2610.12470)|null|
 |**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Byron Boots Team|[2610.12465](http://arxiv.org/abs/2610.12465)|null|
@@ -337,7 +337,7 @@
 |**2026-09-29**|**Rho: A Foundation for Efficiently Adaptable VLA Models**|Reuben Tan Team|[2609.38164](http://arxiv.org/abs/2609.38164)|null|
 |**2026-09-29**|**Multi-Agent Flow Matching with Decoupled Generative Guidance**|Fabio Pasqualetti Team|[2609.38133](http://arxiv.org/abs/2609.38133)|null|
 |**2026-09-29**|**FORM: Robot Manipulation through Direct Material Law Identification**|Krishna Kumar Team|[2609.38105](http://arxiv.org/abs/2609.38105)|**[link](https://github.com/form-robots/FORM)**|
-|**2026-09-29**|**MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation**|Huan Zhang Team|[2609.38078](http://arxiv.org/abs/2609.38078)|null|
+|**2026-09-29**|**MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation**|Huan Zhang Team|[2609.38078](http://arxiv.org/abs/2609.38078)|**[link](https://github.com/Motor-Mind/MotorMind-Code)|
 |**2026-09-29**|**WorldLine: Action-Driven Visual Simulation for Robotic Manipulation**|Jiaya Jia Team|[2609.38059](http://arxiv.org/abs/2609.38059)|null|
 |**2026-09-29**|**Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors**|Sajad Saeedi Team|[2609.38054](http://arxiv.org/abs/2609.38054)|null|
 |**2026-09-29**|**Improving Function Space Flow Matching with Kernel Optimal Transport**|Yizhou Sun Team|[2609.38049](http://arxiv.org/abs/2609.38049)|null|
