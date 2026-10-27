@@ -1,4 +1,4 @@
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection**|Haozhi Qi Team|[2610.32969](http://arxiv.org/abs/2610.32969)|null|
+|**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Egor Bondarev Team|[2610.32964](http://arxiv.org/abs/2610.32964)|null|
+|**2026-10-23**|**CoupleFlow: Null-Calibrated Auditory Attention Decoding With Time-Locked Brain-Speech Coupling and Flow-Matching Likelihood Ratios**|Donald S. Williamson Team|[2610.32950](http://arxiv.org/abs/2610.32950)|null|
+|**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thierry Tambe Team|[2610.32941](http://arxiv.org/abs/2610.32941)|null|
+|**2026-10-23**|**CompMVR: Compression-Aware Multi-View Restoration Using Diffusion Models for Geometrically Consistent 3D Reconstruction**|Sang-hyo Park Team|[2610.32800](http://arxiv.org/abs/2610.32800)|null|
+|**2026-10-23**|**Predictive Long-Horizon Progress Modeling with Action-Aware Quantification**|Yuanxin Zhong Team|[2610.32776](http://arxiv.org/abs/2610.32776)|null|
+|**2026-10-23**|**Cross-Scenario Controller Parameter Transformation from Real-World Driving Data through Flow Matching**|Rolf Findeisen Team|[2610.32719](http://arxiv.org/abs/2610.32719)|null|
+|**2026-10-23**|**Trajectory Matching: Discrete Flow Matching with Structured Actions**|Stephan Günnemann Team|[2610.32602](http://arxiv.org/abs/2610.32602)|null|
+|**2026-10-23**|**Past as State, Present as Attention: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation**|Jianqiang Ren Team|[2610.32373](http://arxiv.org/abs/2610.32373)|null|
+|**2026-10-23**|**DynaSlots: Slot-Centric 3D Dynamics Pretraining for Robot Manipulation**|Guangliang Cheng Team|[2610.32330](http://arxiv.org/abs/2610.32330)|null|
+|**2026-10-23**|**MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation**|Yuan Xie Team|[2610.32312](http://arxiv.org/abs/2610.32312)|null|
+|**2026-10-23**|**Representation Learning via Composite Subspace Flow Matching**|Mário Figueiredo Team|[2610.32256](http://arxiv.org/abs/2610.32256)|null|
+|**2026-10-23**|**RoboCode: Learning Reusable Action Primitives for Robot Manipulation**|Iman Soltani Team|[2610.32225](http://arxiv.org/abs/2610.32225)|null|
+|**2026-10-23**|**ACWM-RM: A Reference-Free Reward Model from Complementary Mismatch Preferences**|Yixin Cao Team|[2610.32222](http://arxiv.org/abs/2610.32222)|null|
+|**2026-10-23**|**An exploration of plug-and-play flow matching for full-waveform inversion on breast imaging**|Lu Zhang Team|[2610.32185](http://arxiv.org/abs/2610.32185)|null|
+|**2026-10-23**|**Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies**|Liang Wang Team|[2610.32102](http://arxiv.org/abs/2610.32102)|null|
+|**2026-10-23**|**DiscoDemo: Discovering Efficient and Diverse Robot Demonstrations for Imitation Learning**|Jaegul Choo Team|[2610.32093](http://arxiv.org/abs/2610.32093)|null|
+|**2026-10-22**|**Compatible Likelihoods for Flow Matching on Manifolds**|Mark Girolami Team|[2610.31981](http://arxiv.org/abs/2610.31981)|null|
+|**2026-10-22**|**PixGR: Pixel-Space Generative Decoding for Fast Feed-Forward 3D Reconstruction**|Krystian Mikolajczyk Team|[2610.31908](http://arxiv.org/abs/2610.31908)|null|
+|**2026-10-22**|**VisFlow: Interpretable Flow Matching for Visibility Reconstruction, Characterization, and Recognition**|Volkan Isler Team|[2610.31892](http://arxiv.org/abs/2610.31892)|null|
 |**2026-10-22**|**OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields**|Anand Bhattad Team|[2610.31645](http://arxiv.org/abs/2610.31645)|null|
 |**2026-10-22**|**HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction**|Chen Change Loy Team|[2610.31635](http://arxiv.org/abs/2610.31635)|null|
 |**2026-10-22**|**Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision**|Yi-Hsuan Yang Team|[2610.31510](http://arxiv.org/abs/2610.31510)|null|
@@ -511,15 +531,17 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection**|Haozhi Qi Team|[2610.32969](http://arxiv.org/abs/2610.32969)|null|
+|**2026-10-22**|**FLORA: An Open Model Suite for Scaling Robotics Data Engines**|Linxi "Jim" Fan Team|[2610.31779](http://arxiv.org/abs/2610.31779)|null|
 |**2026-10-22**|**Skeleton-Grounded Latent Action Model for Robot World Models**|Mike Shou Zheng Team|[2610.31474](http://arxiv.org/abs/2610.31474)|null|
 |**2026-10-22**|**PiHand: Latent Hand-Object Interaction Priors for Physics-Based Policy Learning**|Gerard Pons-Moll Team|[2610.31299](http://arxiv.org/abs/2610.31299)|null|
-|**2026-10-22**|**Robot Motion Transition with Human Motion Prior**|Sungjoon Choi Team|[2610.30817](http://arxiv.org/abs/2610.30817)|null|
+|**2026-10-23**|**Robot Motion Transition with a Human Motion Prior**|Sungjoon Choi Team|[2610.30817](http://arxiv.org/abs/2610.30817)|null|
 |**2026-10-21**|**Self-Distilling Future Video Representations for World Action Models**|Sihyun Yu Team|[2610.30320](http://arxiv.org/abs/2610.30320)|null|
 |**2026-10-21**|**DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations**|Ziwei Liu Team|[2610.29997](http://arxiv.org/abs/2610.29997)|null|
 |**2026-10-21**|**PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits**|Cong Wang Team|[2610.29030](http://arxiv.org/abs/2610.29030)|null|
@@ -634,5 +656,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 
