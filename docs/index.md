@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Does VGGT Know What It Does Not Know?**|David Nordström Team|[2610.35806](http://arxiv.org/abs/2610.35806)|null|
+|**2026-10-26**|**CounterFlow: Target-Conditioned Flow Matching for Visual Counterfactuals**|Laetitia Houeix Team|[2610.35679](http://arxiv.org/abs/2610.35679)|null|
+|**2026-10-26**|**Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel**|Romain Lopez Team|[2610.35652](http://arxiv.org/abs/2610.35652)|**[link](https://github.com/biologicalML/transport_ntk)**|
+|**2026-10-26**|**Synthetic Deformable Tubular Benchmark: A mechanically annotated dataset for evaluating deformable 3D reconstruction**|Íñigo Cirauqui-Viloria Team|[2610.35621](http://arxiv.org/abs/2610.35621)|null|
+|**2026-10-26**|**Generative Structure from Motion with Native 3D Diffusion**|Shenghua Gao Team|[2610.35522](http://arxiv.org/abs/2610.35522)|null|
+|**2026-10-26**|**Enhancing Deep Reinforcement Learning for Robotic Motion Planning via Task Decomposition**|Gualtiero Colombo Team|[2610.35494](http://arxiv.org/abs/2610.35494)|null|
+|**2026-10-26**|**DEX-PHD: A Dexterous Portable Handheld Device for Multimodal Data Collection**|Joohyung Kim Team|[2610.35462](http://arxiv.org/abs/2610.35462)|null|
+|**2026-10-26**|**RoKON: Efficient and Adaptive Data-Enabled Predictive Control for Robotic Manipulation**|Frederike Dümbgen Team|[2610.35458](http://arxiv.org/abs/2610.35458)|null|
+|**2026-10-26**|**The Language of Deformation: Semantic Failure Analysis as a Prerequisite for Dexterous Manipulation of Deformable Objects**|Erfan Shahriari Team|[2610.35103](http://arxiv.org/abs/2610.35103)|null|
+|**2026-10-26**|**A JiT-Based Denoising Defense Method Against Adversarial Examples for Radio Signal Automatic Modulation Classification**|Bin Yan Team|[2610.35084](http://arxiv.org/abs/2610.35084)|null|
+|**2026-10-26**|**DUET4D: Self-Corrective Coupled Guidance for Sparse-View 4D Reconstruction**|Hao Wang Team|[2610.35002](http://arxiv.org/abs/2610.35002)|null|
+|**2026-10-26**|**DimFlow: Bidirectional Grid-Expert Learning for Dynamic Gaussian Reconstruction**|Jinoh Kim Team|[2610.34952](http://arxiv.org/abs/2610.34952)|null|
+|**2026-10-26**|**MMGNet: Multi-Modal 6-DoF Grasp Synthesis for Cluttered Scenes**|Yun-Hui Liu Team|[2610.34893](http://arxiv.org/abs/2610.34893)|null|
+|**2026-10-26**|**PosePlaner: Denoising Any Feed-Forward Pose Predictor from Pairwise Planar Geometry**|Nan Xue Team|[2610.34845](http://arxiv.org/abs/2610.34845)|null|
+|**2026-10-26**|**Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse**|Zekun Shi Team|[2610.34828](http://arxiv.org/abs/2610.34828)|null|
+|**2026-10-26**|**TIMUSE: Text-Initialized Masked Semantic Token Modeling for Universal Speech Enhancement**|Kai Yu Team|[2610.34814](http://arxiv.org/abs/2610.34814)|null|
+|**2026-10-26**|**ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis**|Gongping Huang Team|[2610.34807](http://arxiv.org/abs/2610.34807)|null|
+|**2026-10-26**|**VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware**|Michael Heinrich Team|[2610.34717](http://arxiv.org/abs/2610.34717)|null|
+|**2026-10-26**|**From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion**|Zhaoyang Zhang Team|[2610.34688](http://arxiv.org/abs/2610.34688)|null|
+|**2026-10-26**|**RobotAgentBench: Towards Open-world Robot Autonomy**|Biwei Huang Team|[2610.34649](http://arxiv.org/abs/2610.34649)|null|
 |**2026-10-23**|**DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection**|Haozhi Qi Team|[2610.32969](http://arxiv.org/abs/2610.32969)|null|
 |**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Egor Bondarev Team|[2610.32964](http://arxiv.org/abs/2610.32964)|null|
 |**2026-10-23**|**CoupleFlow: Null-Calibrated Auditory Attention Decoding With Time-Locked Brain-Speech Coupling and Flow-Matching Likelihood Ratios**|Donald S. Williamson Team|[2610.32950](http://arxiv.org/abs/2610.32950)|null|
@@ -531,6 +551,13 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-25**|**RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions**|Zhongyu Li Team|[2610.34356](http://arxiv.org/abs/2610.34356)|**[link](https://github.com/alibaba-damo-academy/RynnVLA-Latent)**|
+|**2026-10-25**|**HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience**|Donglin Wang Team|[2610.34186](http://arxiv.org/abs/2610.34186)|null|
+|**2026-10-25**|**Bi-Objective Receding-Horizon Scheduling of Nurses and Hospital Service Robots**|Roya Khalili-Amirabadi Team|[2610.34078](http://arxiv.org/abs/2610.34078)|null|
+|**2026-10-24**|**AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking**|Li Yi Team|[2610.33852](http://arxiv.org/abs/2610.33852)|null|
+|**2026-10-24**|**EXE: Egocentric Cross-Embodiment Pretraining via Factorized Latent Actions for VLA Models**|Jianyu Chen Team|[2610.33685](http://arxiv.org/abs/2610.33685)|null|
+|**2026-10-24**|**Learning Dexterous Manipulation: Hands, Simulators, Training, and Evaluation**|Luai Abuelsamen Team|[2610.33486](http://arxiv.org/abs/2610.33486)|null|
+|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**| SpatialtemporalAI Team|[2610.33446](http://arxiv.org/abs/2610.33446)|null|
 |**2026-10-23**|**DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection**|Haozhi Qi Team|[2610.32969](http://arxiv.org/abs/2610.32969)|null|
 |**2026-10-22**|**FLORA: An Open Model Suite for Scaling Robotics Data Engines**|Linxi "Jim" Fan Team|[2610.31779](http://arxiv.org/abs/2610.31779)|null|
 |**2026-10-22**|**Skeleton-Grounded Latent Action Model for Robot World Models**|Mike Shou Zheng Team|[2610.31474](http://arxiv.org/abs/2610.31474)|null|
