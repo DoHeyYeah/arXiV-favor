@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.28
+## Updated on 2026.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction**|Alan Yuille Team|[2610.37668](http://arxiv.org/abs/2610.37668)|null|
+|**2026-10-27**|**ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning**|Fu-En Yang Team|[2610.37666](http://arxiv.org/abs/2610.37666)|null|
+|**2026-10-27**|**Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well**|Claire Tomlin Team|[2610.37652](http://arxiv.org/abs/2610.37652)|null|
+|**2026-10-27**|**Which Hand Was Late? Diagnosis for Robot Failure Recovery in Bimanual Tool Use**|Audrey Durand Team|[2610.37533](http://arxiv.org/abs/2610.37533)|null|
+|**2026-10-27**|**Ego-CEVR: Learning Cross-Embodiment Visual Representations from Human Egocentric Videos**|Maoqing Yao Team|[2610.37509](http://arxiv.org/abs/2610.37509)|null|
+|**2026-10-27**|**ALADDIN: Adversarial Latent Diffusion Distillation for One-Step Identity Swapping**|Dmitry Vetrov Team|[2610.37503](http://arxiv.org/abs/2610.37503)|null|
+|**2026-10-27**|**Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer**|Ziyan Wu Team|[2610.37330](http://arxiv.org/abs/2610.37330)|null|
+|**2026-10-27**|**Physics-Guided Flow Matching: A Generative AI Framework for Global Total Electron Content Forecasting**|Benjamin C. Martinez Team|[2610.37159](http://arxiv.org/abs/2610.37159)|null|
+|**2026-10-27**|**GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation**|Xiang Gao Team|[2610.37091](http://arxiv.org/abs/2610.37091)|null|
+|**2026-10-27**|**Learning to Code the World: Harness Evolution for Compositional 3D Reconstruction**|Yadong Mu Team|[2610.37046](http://arxiv.org/abs/2610.37046)|null|
+|**2026-10-27**|**State estimation for a hybrid rigid-continuum space manipulator system**|Panagiotis Tsiotras Team|[2610.37043](http://arxiv.org/abs/2610.37043)|null|
+|**2026-10-27**|**Structure-Actuation Co-Design of All-Electric Heavy-Duty Robotic Manipulators**|Jouni Mattila Team|[2610.36996](http://arxiv.org/abs/2610.36996)|null|
+|**2026-10-27**|**ActiveAlign: Aligning Egocentric Manipulation via Active Perception**|Erwin Coumans Team|[2610.36859](http://arxiv.org/abs/2610.36859)|null|
+|**2026-10-27**|**Evolving Agent Teams**|Ion Stoica Team|[2610.36848](http://arxiv.org/abs/2610.36848)|null|
+|**2026-10-27**|**A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation**|Huixu Dong Team|[2610.36789](http://arxiv.org/abs/2610.36789)|null|
+|**2026-10-27**|**Expressive Guitar Synthesis via Controllable Latent Flow Matching**|Yi-Hsuan Yang Team|[2610.36786](http://arxiv.org/abs/2610.36786)|null|
+|**2026-10-27**|**GeoGSplat: Geometry-Grounded Non-Pixel-Aligned Gaussian Splatting**|Tong Zhang Team|[2610.36760](http://arxiv.org/abs/2610.36760)|null|
+|**2026-10-27**|**On Shaky Ground: Characterising Non-Rigid Base Effects in Mobile Manipulation**|Jonathan M. Roberts Team|[2610.36725](http://arxiv.org/abs/2610.36725)|null|
+|**2026-10-27**|**TOPS: Reshaping Flow Source and Transport for Multi-Task Robot Manipulation**|Jianfei Yang Team|[2610.36694](http://arxiv.org/abs/2610.36694)|null|
+|**2026-10-27**|**RoboSTD: Zero-Shot Single-to-Dual Transfer via Sagittal Mirroring for Bimanual Learning**|Guocai Yao Team|[2610.36685](http://arxiv.org/abs/2610.36685)|null|
 |**2026-10-26**|**Does VGGT Know What It Does Not Know?**|David Nordström Team|[2610.35806](http://arxiv.org/abs/2610.35806)|null|
 |**2026-10-26**|**CounterFlow: Target-Conditioned Flow Matching for Visual Counterfactuals**|Laetitia Houeix Team|[2610.35679](http://arxiv.org/abs/2610.35679)|null|
 |**2026-10-26**|**Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel**|Romain Lopez Team|[2610.35652](http://arxiv.org/abs/2610.35652)|**[link](https://github.com/biologicalML/transport_ntk)**|
@@ -551,6 +571,9 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning**|Fu-En Yang Team|[2610.37666](http://arxiv.org/abs/2610.37666)|null|
+|**2026-10-27**|**PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations**|Youzheng Wu Team|[2610.37381](http://arxiv.org/abs/2610.37381)|null|
+|**2026-10-27**|**A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation**|Huixu Dong Team|[2610.36789](http://arxiv.org/abs/2610.36789)|null|
 |**2026-10-25**|**RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions**|Zhongyu Li Team|[2610.34356](http://arxiv.org/abs/2610.34356)|**[link](https://github.com/alibaba-damo-academy/RynnVLA-Latent)**|
 |**2026-10-25**|**HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience**|Donglin Wang Team|[2610.34186](http://arxiv.org/abs/2610.34186)|null|
 |**2026-10-25**|**Bi-Objective Receding-Horizon Scheduling of Nurses and Hospital Service Robots**|Roya Khalili-Amirabadi Team|[2610.34078](http://arxiv.org/abs/2610.34078)|null|
