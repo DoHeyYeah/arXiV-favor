@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.30
+## Updated on 2026.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing**|Yiyue Luo Team|[2610.40646](http://arxiv.org/abs/2610.40646)|null|
+|**2026-10-29**|**LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation**|Laura Leal-Taixé Team|[2610.40495](http://arxiv.org/abs/2610.40495)|null|
+|**2026-10-29**|**Framework-Conditional Open Materials Generation**|Stefano Martiniani Team|[2610.40443](http://arxiv.org/abs/2610.40443)|null|
+|**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Xiangbo Shu Team|[2610.40373](http://arxiv.org/abs/2610.40373)|null|
+|**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Huazhe Xu Team|[2610.40349](http://arxiv.org/abs/2610.40349)|null|
+|**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Nan Wu Team|[2610.40210](http://arxiv.org/abs/2610.40210)|null|
+|**2026-10-29**|**SynthFaces: Balanced Large Scale Human Dataset**|Aibek Alanov Team|[2610.40119](http://arxiv.org/abs/2610.40119)|**[link](https://github.com/ControlGenAI/SynthFaces)**|
+|**2026-10-29**|**SelfThinker: Self-Evolving Reasoning via Reliability-Verified Intrinsic Visual Thoughts**|Ruqi Huang Team|[2610.40115](http://arxiv.org/abs/2610.40115)|null|
+|**2026-10-29**|**Coupled Guidance for Flow Matching**|Amir Rasouli Team|[2610.40109](http://arxiv.org/abs/2610.40109)|null|
+|**2026-10-29**|**Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles**|Yue Gao Team|[2610.40075](http://arxiv.org/abs/2610.40075)|null|
+|**2026-10-29**|**Mastering Multi-State Dynamics: Continuum Damage and Viscoplastic MPM for RL-Based Dexterous Manipulation**|Shangbo Luan Team|[2610.39975](http://arxiv.org/abs/2610.39975)|null|
+|**2026-10-29**|**MLLM-GS: Multimodal Large Language Model Prior-Guided Fast Novel View Synthesis in Extreme Environments**|Xun Yang Team|[2610.39936](http://arxiv.org/abs/2610.39936)|null|
+|**2026-10-29**|**AegisFlow: Training-Free Non-Myopic Path-Safe Guided Flow Matching**|Keyou You Team|[2610.39825](http://arxiv.org/abs/2610.39825)|null|
+|**2026-10-29**|**AI for Science in Space: Orbital Laboratories, Planetary Fieldwork, and Embodied Autonomy**|Jianing Li Team|[2610.39689](http://arxiv.org/abs/2610.39689)|null|
+|**2026-10-29**|**Kinematic-Tactile Aligned Dexterous Retargeting with Contact Wrench Space Alignment**|Peter B. Shull Team|[2610.39582](http://arxiv.org/abs/2610.39582)|null|
+|**2026-10-29**|**MOSAIC-Flow: Orthogonal-Axis and Status-Conditioned Fusion for Missing-Sequence Completion in Brain Tumor MRI**|Yixuan Yuan Team|[2610.39534](http://arxiv.org/abs/2610.39534)|null|
+|**2026-10-29**|**PRIME W0: Physical Priors from World Models for Embodied Manipulation**|Liqing Chen Team|[2610.39528](http://arxiv.org/abs/2610.39528)|null|
+|**2026-10-29**|**FFAI: Flow Matching with Feedback Training and Adaptive Initialization for CT Reconstruction**|Xing Zhao Team|[2610.39517](http://arxiv.org/abs/2610.39517)|null|
+|**2026-10-29**|**RAIBO-Wagon: Real-Time Navigation System for a Legged Robot Towing a Wagon**|Jemin Hwangbo Team|[2610.39267](http://arxiv.org/abs/2610.39267)|null|
+|**2026-10-29**|**EgoContact: Evaluating Physical Intelligence with Egocentric Video**|Xi Wang Team|[2610.39167](http://arxiv.org/abs/2610.39167)|null|
 |**2026-10-27**|**Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction**|Alan Yuille Team|[2610.37668](http://arxiv.org/abs/2610.37668)|null|
 |**2026-10-27**|**ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning**|Fu-En Yang Team|[2610.37666](http://arxiv.org/abs/2610.37666)|null|
 |**2026-10-27**|**Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well**|Claire Tomlin Team|[2610.37652](http://arxiv.org/abs/2610.37652)|null|
@@ -571,6 +591,10 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Huazhe Xu Team|[2610.40349](http://arxiv.org/abs/2610.40349)|null|
+|**2026-10-29**|**Kinematic-Tactile Aligned Dexterous Retargeting with Contact Wrench Space Alignment**|Peter B. Shull Team|[2610.39582](http://arxiv.org/abs/2610.39582)|null|
+|**2026-10-28**|**Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand**|Nicklas Hansen Team|[2610.39044](http://arxiv.org/abs/2610.39044)|null|
+|**2026-10-27**|**DexSuite: An All-in-One Framework for Dexterous Manipulation Across Arms, Hands, and Tasks**|David Meger Team|[2610.37799](http://arxiv.org/abs/2610.37799)|null|
 |**2026-10-27**|**ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning**|Fu-En Yang Team|[2610.37666](http://arxiv.org/abs/2610.37666)|null|
 |**2026-10-27**|**PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations**|Youzheng Wu Team|[2610.37381](http://arxiv.org/abs/2610.37381)|null|
 |**2026-10-27**|**A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation**|Huixu Dong Team|[2610.36789](http://arxiv.org/abs/2610.36789)|null|
