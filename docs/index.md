@@ -17,7 +17,7 @@ layout: default
 |**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Nan Wu Team|[2610.40210](http://arxiv.org/abs/2610.40210)|null|
 |**2026-10-29**|**SynthFaces: Balanced Large Scale Human Dataset**|Aibek Alanov Team|[2610.40119](http://arxiv.org/abs/2610.40119)|**[link](https://github.com/ControlGenAI/SynthFaces)**|
 |**2026-10-29**|**SelfThinker: Self-Evolving Reasoning via Reliability-Verified Intrinsic Visual Thoughts**|Ruqi Huang Team|[2610.40115](http://arxiv.org/abs/2610.40115)|null|
-|**2026-10-29**|**Coupled Guidance for Flow Matching**|Amir Rasouli Team|[2610.40109](http://arxiv.org/abs/2610.40109)|null|
+|**2026-10-29**|**Coupled Guidance for Flow Matching**|Amir Rasouli Team|[2610.40109](http://arxiv.org/abs/2610.40109)|**[link](https://github.com/Cashcoin123/Cashcoin123)|
 |**2026-10-29**|**Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles**|Yue Gao Team|[2610.40075](http://arxiv.org/abs/2610.40075)|null|
 |**2026-10-29**|**Mastering Multi-State Dynamics: Continuum Damage and Viscoplastic MPM for RL-Based Dexterous Manipulation**|Shangbo Luan Team|[2610.39975](http://arxiv.org/abs/2610.39975)|null|
 |**2026-10-29**|**MLLM-GS: Multimodal Large Language Model Prior-Guided Fast Novel View Synthesis in Extreme Environments**|Xun Yang Team|[2610.39936](http://arxiv.org/abs/2610.39936)|null|
@@ -27,7 +27,7 @@ layout: default
 |**2026-10-29**|**MOSAIC-Flow: Orthogonal-Axis and Status-Conditioned Fusion for Missing-Sequence Completion in Brain Tumor MRI**|Yixuan Yuan Team|[2610.39534](http://arxiv.org/abs/2610.39534)|null|
 |**2026-10-29**|**PRIME W0: Physical Priors from World Models for Embodied Manipulation**|Liqing Chen Team|[2610.39528](http://arxiv.org/abs/2610.39528)|null|
 |**2026-10-29**|**FFAI: Flow Matching with Feedback Training and Adaptive Initialization for CT Reconstruction**|Xing Zhao Team|[2610.39517](http://arxiv.org/abs/2610.39517)|null|
-|**2026-10-29**|**RAIBO-Wagon: Real-Time Navigation System for a Legged Robot Towing a Wagon**|Jemin Hwangbo Team|[2610.39267](http://arxiv.org/abs/2610.39267)|null|
+|**2026-10-29**|**RAIBO-Wagon: Real-Time Navigation System for a Legged Robot Towing a Wagon**|Jemin Hwangbo Team|[2610.39267](http://arxiv.org/abs/2610.39267)|**[link](https://github.com/InsungYang/raibo-wagon)|
 |**2026-10-29**|**EgoContact: Evaluating Physical Intelligence with Egocentric Video**|Xi Wang Team|[2610.39167](http://arxiv.org/abs/2610.39167)|null|
 |**2026-10-27**|**Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction**|Alan Yuille Team|[2610.37668](http://arxiv.org/abs/2610.37668)|null|
 |**2026-10-27**|**ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning**|Fu-En Yang Team|[2610.37666](http://arxiv.org/abs/2610.37666)|null|
@@ -171,7 +171,7 @@ layout: default
 |**2026-10-19**|**OV-PEAR: Observation-Verified Pose-Scale Estimation and Reconstruction for Unknown Industrial Manipulation Objects**|Gang Chen Team|[2610.25840](http://arxiv.org/abs/2610.25840)|null|
 |**2026-10-16**|**ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Based Model Inference**|Jochen Weller Team|[2610.23825](http://arxiv.org/abs/2610.23825)|null|
 |**2026-10-16**|**Not All Actions Contribute Equally: Learning Precise Progress Estimation from Imprecise Demonstrations**|Gao Huang Team|[2610.23769](http://arxiv.org/abs/2610.23769)|null|
-|**2026-10-16**|**CLEAR: Cooperative Latent Flow for Visual Counterfactual Explanations with Accurate Region Preservation**|Anders Bjorholm Dahl Team|[2610.23577](http://arxiv.org/abs/2610.23577)|null|
+|**2026-10-16**|**CLEAR: Cooperative Latent Flow for Visual Counterfactual Explanations with Accurate Region Preservation**|Anders Bjorholm Dahl Team|[2610.23577](http://arxiv.org/abs/2610.23577)|**[link](https://github.com/Yan-Zen9/CLEAR)|
 |**2026-10-16**|**Enhancing Visual Task-Redirection Attacks on Vision-Language-Action Models via Closed-Loop Optimization**|Xiaochun Cao Team|[2610.23566](http://arxiv.org/abs/2610.23566)|null|
 |**2026-10-16**|**FLoTS-SLAM: Optical Flow-Derived Uncertainty for Monocular Dynamic SLAM with Two-Stage Optimization**|Lipu Zhou Team|[2610.23496](http://arxiv.org/abs/2610.23496)|null|
 |**2026-10-16**|**HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents**|Xiao He Team|[2610.23479](http://arxiv.org/abs/2610.23479)|**[link](https://github.com/HexaFuture/HexaShell)**|
@@ -194,11 +194,11 @@ layout: default
 |**2026-10-15**|**PathFM: Fast Generative Forecasting of Multivariate Trajectories**|Bernie Wang Team|[2610.22358](http://arxiv.org/abs/2610.22358)|null|
 |**2026-10-15**|**DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models**|Wangmeng Zuo Team|[2610.22356](http://arxiv.org/abs/2610.22356)|null|
 |**2026-10-15**|**Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation**|Wenbo Ding Team|[2610.22342](http://arxiv.org/abs/2610.22342)|null|
-|**2026-10-15**|**Dexterity from Supervised Play**|Ruoshi Liu Team|[2610.22340](http://arxiv.org/abs/2610.22340)|null|
+|**2026-10-15**|**Dexterity from Supervised Play**|Ruoshi Liu Team|[2610.22340](http://arxiv.org/abs/2610.22340)|**[link](https://github.com/irmakguzey/tactile-dexterity)|
 |**2026-10-15**|**Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce**|Azlan Zahid Team|[2610.22337](http://arxiv.org/abs/2610.22337)|null|
-|**2026-10-15**|**Mem4Act: Learning Effective Latent Memory for Long-Horizon Robotic Manipulation**|Jiaqi Ma Team|[2610.22323](http://arxiv.org/abs/2610.22323)|null|
-|**2026-10-15**|**MOSS: Mode-Oriented Source Shaping for Robot Flow Matching Policies**|Jianfei Yang Team|[2610.22193](http://arxiv.org/abs/2610.22193)|null|
-|**2026-10-15**|**Whole-Body Dexterity**|Manikantan Nambi Team|[2610.22184](http://arxiv.org/abs/2610.22184)|null|
+|**2026-10-15**|**Mem4Act: Learning Effective Latent Memory for Long-Horizon Robotic Manipulation**|Jiaqi Ma Team|[2610.22323](http://arxiv.org/abs/2610.22323)|**[link](https://github.com/HandsomeYun/Mem4Act)|
+|**2026-10-15**|**MOSS: Mode-Oriented Source Shaping for Robot Flow Matching Policies**|Jianfei Yang Team|[2610.22193](http://arxiv.org/abs/2610.22193)|**[link](https://github.com/Mmmmazr/moss)|
+|**2026-10-15**|**Whole-Body Dexterity**|Manikantan Nambi Team|[2610.22184](http://arxiv.org/abs/2610.22184)|**[link](https://github.com/real-stanford/RoboPanoptes)|
 |**2026-10-15**|**REKI: Registering Knowledge in VLAs**|Moritz Böhle Team|[2610.22178](http://arxiv.org/abs/2610.22178)|null|
 |**2026-10-15**|**Motion- and Gravity-Aware Feedforward 3D Reconstruction**|Dongfeng Bai Team|[2610.22177](http://arxiv.org/abs/2610.22177)|null|
 |**2026-10-15**|**FastVLA: Task-Conditioned and Temporally Adaptive Visual Token Compression for Efficient Vision-Language-Action Models**|Yangming Shi Team|[2610.22146](http://arxiv.org/abs/2610.22146)|null|
@@ -208,7 +208,7 @@ layout: default
 |**2026-10-15**|**Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation**|Yong-Jin Liu Team|[2610.21634](http://arxiv.org/abs/2610.21634)|null|
 |**2026-10-15**|**SPEAR: Selective Preference Elicitation with Adaptive Rewards for VLM-Guided Robotic Manipulation**|Yanchao Yang Team|[2610.21621](http://arxiv.org/abs/2610.21621)|null|
 |**2026-10-15**|**Rethinking Classifier-Free Guidance for TI2I Flow Matching**|Alexandros Neophytou Team|[2610.21550](http://arxiv.org/abs/2610.21550)|null|
-|**2026-10-15**|**Fast-VLA: You Only Think Once for Robot Manipulation**|Michael Bi Mi Team|[2610.21389](http://arxiv.org/abs/2610.21389)|null|
+|**2026-10-15**|**Fast-VLA: You Only Think Once for Robot Manipulation**|Michael Bi Mi Team|[2610.21389](http://arxiv.org/abs/2610.21389)|**[link](https://github.com/Garfield-kh/FastVLA)|
 |**2026-10-14**|**VITAL: From Visual Motion to Precise Action**|Runnan Chen Team|[2610.20604](http://arxiv.org/abs/2610.20604)|**[link](https://github.com/worldbench/VITAL)**|
 |**2026-10-14**|**Physical Time as a Missing Dimension of Robot Policy Memory Dynamics**|Shenji Wan Team|[2610.20524](http://arxiv.org/abs/2610.20524)|null|
 |**2026-10-14**|**Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation**|Chenjia Bai Team|[2610.20504](http://arxiv.org/abs/2610.20504)|**[link](https://github.com/Gamma-Robot/GR-BC)|
@@ -385,7 +385,7 @@ layout: default
 |**2026-10-01**|**pCoMole: Pareto-Constrained Molecule Editing with Discrete Flows**|Pranam Chatterjee Team|[2610.01663](http://arxiv.org/abs/2610.01663)|null|
 |**2026-10-01**|**Zero Flux: Flow-Based Comparison of High-Dimensional Discrete Distributions**|Taiji Suzuki Team|[2610.01472](http://arxiv.org/abs/2610.01472)|null|
 |**2026-10-01**|**Smoother Flow Matching via Contrastive Trajectory Repulsion**|Long Chen Team|[2610.01408](http://arxiv.org/abs/2610.01408)|null|
-|**2026-10-01**|**Is Success All You Need? Investigating the Impact of Input Perturbations on VLA Behaviour in Tabletop Manipulation Tasks**|Alessandro Suglia Team|[2610.01351](http://arxiv.org/abs/2610.01351)|null|
+|**2026-10-01**|**Is Success All You Need? Investigating the Impact of Input Perturbations on VLA Behaviour in Tabletop Manipulation Tasks**|Alessandro Suglia Team|[2610.01351](http://arxiv.org/abs/2610.01351)|**[link](https://github.com/esgi-research-group/vla-reliability)|
 |**2026-10-01**|**ProtoFlow: Prototype-Guided Flow Matching for Multivariate Time Series Forecasting**|Chunyan Miao Team|[2610.01320](http://arxiv.org/abs/2610.01320)|null|
 |**2026-10-01**|**EP-Flow: Disordered Crystal Structure Prediction without Site-Level Annotations**|Shifeng Jin Team|[2610.01315](http://arxiv.org/abs/2610.01315)|null|
 |**2026-10-01**|**ARROW: Arbitrary Reconstruction and Tracking of 4D Observations in the Wild**|Bastian Leibe Team|[2610.01314](http://arxiv.org/abs/2610.01314)|null|
@@ -571,11 +571,11 @@ layout: default
 |**2026-09-17**|**Can 4D Foundation Models Remember?**|Wei-Chiu Ma Team|[2609.20819](http://arxiv.org/abs/2609.20819)|null|
 |**2026-09-17**|**GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies**|Yi Bin Team|[2609.20776](http://arxiv.org/abs/2609.20776)|null|
 |**2026-09-17**|**FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants**|Emma Alexander Team|[2609.20769](http://arxiv.org/abs/2609.20769)|null|
-|**2026-09-17**|**Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control**|Junshan Zhang Team|[2609.20761](http://arxiv.org/abs/2609.20761)|null|
+|**2026-09-17**|**Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control**|Junshan Zhang Team|[2609.20761](http://arxiv.org/abs/2609.20761)|**[link](https://github.com/HanchuZhou/TARO_project_page)|
 |**2026-09-17**|**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**|Hao Dong Team|[2609.20659](http://arxiv.org/abs/2609.20659)|null|
 |**2026-09-17**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Renjing Xu Team|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
 |**2026-09-17**|**SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation**|Zachary Kingston Team|[2609.20648](http://arxiv.org/abs/2609.20648)|null|
-|**2026-09-17**|**TraceFlow: Guiding Frozen Flow-Matching Robot Policies with Success and Failure Traces**|Yanchao Yang Team|[2609.20646](http://arxiv.org/abs/2609.20646)|null|
+|**2026-09-17**|**TraceFlow: Guiding Frozen Flow-Matching Robot Policies with Success and Failure Traces**|Yanchao Yang Team|[2609.20646](http://arxiv.org/abs/2609.20646)|**[link](https://github.com/zhangjiaxuan-Xuan/TraceFlow)|
 |**2026-09-17**|**TouchSight: Bare-Handed Tactile Prediction from Egocentric Video via Generative Visual Augmentation**|Wenbo Ding Team|[2609.20414](http://arxiv.org/abs/2609.20414)|null|
 |**2026-09-17**|**AnyViewDex: View-Invariant Dexterous Manipulation from RGB Observations**|Spandan Roy Team|[2609.20107](http://arxiv.org/abs/2609.20107)|null|
 |**2026-09-17**|**GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction**|Cheng Cheng Team|[2609.20012](http://arxiv.org/abs/2609.20012)|null|
@@ -604,7 +604,7 @@ layout: default
 |**2026-10-24**|**AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking**|Li Yi Team|[2610.33852](http://arxiv.org/abs/2610.33852)|null|
 |**2026-10-24**|**EXE: Egocentric Cross-Embodiment Pretraining via Factorized Latent Actions for VLA Models**|Jianyu Chen Team|[2610.33685](http://arxiv.org/abs/2610.33685)|null|
 |**2026-10-24**|**Learning Dexterous Manipulation: Hands, Simulators, Training, and Evaluation**|Luai Abuelsamen Team|[2610.33486](http://arxiv.org/abs/2610.33486)|null|
-|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**| SpatialtemporalAI Team|[2610.33446](http://arxiv.org/abs/2610.33446)|null|
+|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**|SpatialtemporalAI Team|[2610.33446](http://arxiv.org/abs/2610.33446)|null|
 |**2026-10-23**|**DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection**|Haozhi Qi Team|[2610.32969](http://arxiv.org/abs/2610.32969)|null|
 |**2026-10-22**|**FLORA: An Open Model Suite for Scaling Robotics Data Engines**|Linxi "Jim" Fan Team|[2610.31779](http://arxiv.org/abs/2610.31779)|null|
 |**2026-10-22**|**Skeleton-Grounded Latent Action Model for Robot World Models**|Mike Shou Zheng Team|[2610.31474](http://arxiv.org/abs/2610.31474)|null|

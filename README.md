@@ -42,16 +42,16 @@
 |**2026-10-27**|**Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer**|Ziyan Wu Team|[2610.37330](http://arxiv.org/abs/2610.37330)|null|
 |**2026-10-27**|**Physics-Guided Flow Matching: A Generative AI Framework for Global Total Electron Content Forecasting**|Benjamin C. Martinez Team|[2610.37159](http://arxiv.org/abs/2610.37159)|null|
 |**2026-10-27**|**GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation**|Xiang Gao Team|[2610.37091](http://arxiv.org/abs/2610.37091)|null|
-|**2026-10-27**|**Learning to Code the World: Harness Evolution for Compositional 3D Reconstruction**|Yadong Mu Team|[2610.37046](http://arxiv.org/abs/2610.37046)|null|
+|**2026-10-27**|**Learning to Code the World: Harness Evolution for Compositional 3D Reconstruction**|Yadong Mu Team|[2610.37046](http://arxiv.org/abs/2610.37046)|**[link](https://github.com/haoyu-agent/SceneEvolve_Code)|
 |**2026-10-27**|**State estimation for a hybrid rigid-continuum space manipulator system**|Panagiotis Tsiotras Team|[2610.37043](http://arxiv.org/abs/2610.37043)|null|
 |**2026-10-27**|**Structure-Actuation Co-Design of All-Electric Heavy-Duty Robotic Manipulators**|Jouni Mattila Team|[2610.36996](http://arxiv.org/abs/2610.36996)|null|
 |**2026-10-27**|**ActiveAlign: Aligning Egocentric Manipulation via Active Perception**|Erwin Coumans Team|[2610.36859](http://arxiv.org/abs/2610.36859)|null|
-|**2026-10-27**|**Evolving Agent Teams**|Ion Stoica Team|[2610.36848](http://arxiv.org/abs/2610.36848)|null|
+|**2026-10-27**|**Evolving Agent Teams**|Ion Stoica Team|[2610.36848](http://arxiv.org/abs/2610.36848)|**[link](https://github.com/bowenliang123/dsh-context)|
 |**2026-10-27**|**A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation**|Huixu Dong Team|[2610.36789](http://arxiv.org/abs/2610.36789)|null|
 |**2026-10-27**|**Expressive Guitar Synthesis via Controllable Latent Flow Matching**|Yi-Hsuan Yang Team|[2610.36786](http://arxiv.org/abs/2610.36786)|null|
 |**2026-10-27**|**GeoGSplat: Geometry-Grounded Non-Pixel-Aligned Gaussian Splatting**|Tong Zhang Team|[2610.36760](http://arxiv.org/abs/2610.36760)|null|
 |**2026-10-27**|**On Shaky Ground: Characterising Non-Rigid Base Effects in Mobile Manipulation**|Jonathan M. Roberts Team|[2610.36725](http://arxiv.org/abs/2610.36725)|null|
-|**2026-10-27**|**TOPS: Reshaping Flow Source and Transport for Multi-Task Robot Manipulation**|Jianfei Yang Team|[2610.36694](http://arxiv.org/abs/2610.36694)|null|
+|**2026-10-27**|**TOPS: Reshaping Flow Source and Transport for Multi-Task Robot Manipulation**|Jianfei Yang Team|[2610.36694](http://arxiv.org/abs/2610.36694)|**[link](https://github.com/NTUMARS/TOPS)|
 |**2026-10-27**|**RoboSTD: Zero-Shot Single-to-Dual Transfer via Sagittal Mirroring for Bimanual Learning**|Guocai Yao Team|[2610.36685](http://arxiv.org/abs/2610.36685)|null|
 |**2026-10-26**|**Does VGGT Know What It Does Not Know?**|David Nordström Team|[2610.35806](http://arxiv.org/abs/2610.35806)|null|
 |**2026-10-26**|**CounterFlow: Target-Conditioned Flow Matching for Visual Counterfactuals**|Laetitia Houeix Team|[2610.35679](http://arxiv.org/abs/2610.35679)|null|
@@ -195,7 +195,7 @@
 |**2026-10-16**|**Simultaneous Force and Motion Control in Generalised Coordinates**|Jon Woolfrey Team|[2610.22813](http://arxiv.org/abs/2610.22813)|null|
 |**2026-10-15**|**LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**|Jiachen Li Team|[2610.22372](http://arxiv.org/abs/2610.22372)|null|
 |**2026-10-15**|**Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation**|Jie Song Team|[2610.22363](http://arxiv.org/abs/2610.22363)|null|
-|**2026-10-15**|**PathFM: Fast Generative Forecasting of Multivariate Trajectories**|Bernie Wang Team|[2610.22358](http://arxiv.org/abs/2610.22358)|null|
+|**2026-10-15**|**PathFM: Fast Generative Forecasting of Multivariate Trajectories**|Bernie Wang Team|[2610.22358](http://arxiv.org/abs/2610.22358)|**[link](https://github.com/autogluon/PathFM)|
 |**2026-10-15**|**DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models**|Wangmeng Zuo Team|[2610.22356](http://arxiv.org/abs/2610.22356)|null|
 |**2026-10-15**|**Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation**|Wenbo Ding Team|[2610.22342](http://arxiv.org/abs/2610.22342)|null|
 |**2026-10-15**|**Dexterity from Supervised Play**|Ruoshi Liu Team|[2610.22340](http://arxiv.org/abs/2610.22340)|null|
@@ -231,7 +231,7 @@
 |**2026-10-14**|**Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It**|Kuderna-Iulian Benţa Team|[2610.19993](http://arxiv.org/abs/2610.19993)|**[link](https://github.com/Klaraaorban/underice-breakdown)|
 |**2026-10-14**|**MUCO: A Mani-Unit-Structured Manipulation Framework for Compositional Long-Horizon Robot Tasks**|Changbo Wang Team|[2610.19913](http://arxiv.org/abs/2610.19913)|null|
 |**2026-10-14**|**Rationale Distribution Distillation via Flow Matching for Distributional Continuous Latent Reasoning**|Giung Nam Team|[2610.19871](http://arxiv.org/abs/2610.19871)|null|
-|**2026-10-14**|**OmniPoser: Flexible Human Motion Recovery in the Wild with Masked Flow Matching**|Tutian Tang Team|[2610.19857](http://arxiv.org/abs/2610.19857)|null|
+|**2026-10-14**|**OmniPoser: Flexible Human Motion Recovery in the Wild with Masked Flow Matching**|Tutian Tang Team|[2610.19857](http://arxiv.org/abs/2610.19857)|**[link](https://github.com/JamesBridgewater51/omniposer)|
 |**2026-10-14**|**VisibilitySplat: Ray-Traced Occlusion for Relighting with 3D Gaussian Splatting**|Oliver Staadt Team|[2610.19847](http://arxiv.org/abs/2610.19847)|null|
 |**2026-10-13**|**Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs**|Liang Zheng Team|[2610.18870](http://arxiv.org/abs/2610.18870)|null|
 |**2026-10-13**|**PixelMoE: Scaling Pixel-Space Diffusion with LLM-Style Mixture-of-Experts**|Houqiang Li Team|[2610.18857](http://arxiv.org/abs/2610.18857)|null|
@@ -397,11 +397,11 @@
 |**2026-09-30**|**GLARE: Generating Listening Heads with Appropriate Reactions**|Zhaozheng Yin Team|[2609.40317](http://arxiv.org/abs/2609.40317)|**[link](https://github.com/lzk901372/glare)**|
 |**2026-09-30**|**Centralized Multi-UAV Exploration and 3D Reconstruction Using Single-UAV Planners**|Rodrigo Ventura Team|[2609.40208](http://arxiv.org/abs/2609.40208)|null|
 |**2026-09-30**|**PrefPI: Preference-Guided Steering into Out-of-Distribution Behaviors**|Sehoon Ha Team|[2609.40165](http://arxiv.org/abs/2609.40165)|null|
-|**2026-09-30**|**Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling**|Xiaozhu Ju Team|[2609.40153](http://arxiv.org/abs/2609.40153)|null|
-|**2026-09-30**|**Tactile Curiosity Drives Robot Interaction**|Carmelo Sferrazza Team|[2609.40134](http://arxiv.org/abs/2609.40134)|null|
+|**2026-09-30**|**Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling**|Xiaozhu Ju Team|[2609.40153](http://arxiv.org/abs/2609.40153)|**[link](https://github.com/dream4act/dream4act.github.io)|
+|**2026-09-30**|**Tactile Curiosity Drives Robot Interaction**|Carmelo Sferrazza Team|[2609.40134](http://arxiv.org/abs/2609.40134)|**[link](https://github.com/lasgroup/TacEx)|
 |**2026-09-30**|**MeanVoiceFlow2: Joint Optimization of Mean Flow and Content Encoder for Fast One-Step Zero-Shot Voice Conversion**|Yuto Kondo Team|[2609.40087](http://arxiv.org/abs/2609.40087)|null|
 |**2026-09-30**|**Fenchel Tilting: Weighted Correction for Efficient Finetuning of Generative Models**|Dmitry Dylov Team|[2609.40030](http://arxiv.org/abs/2609.40030)|null|
-|**2026-09-30**|**Multi-Link Safety Filtering for VLA Policies Around Moving Hazards**|Vijay Raghunathan Team|[2609.40007](http://arxiv.org/abs/2609.40007)|null|
+|**2026-09-30**|**Multi-Link Safety Filtering for VLA Policies Around Moving Hazards**|Vijay Raghunathan Team|[2609.40007](http://arxiv.org/abs/2609.40007)|**[link](https://github.com/yathAg/multilink-safety-filter)|
 |**2026-09-30**|**Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction**|Ming-Hsuan Yang Team|[2609.39960](http://arxiv.org/abs/2609.39960)|null|
 |**2026-09-30**|**Toward Real-Time VLAs: Stage-Aware Two-Step Flow Denoising and System-Level Evaluation**|Tao Zhang Team|[2609.39822](http://arxiv.org/abs/2609.39822)|**[link](https://github.com/MagiclabRobotics/Inference)**|
 |**2026-09-30**|**Learning from Runtime Feedback through Failure-Bank Self-Evolution for Vision-Language-Action Models**|Meng Jiang Team|[2609.39820](http://arxiv.org/abs/2609.39820)|null|
@@ -610,7 +610,7 @@
 |**2026-10-24**|**AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking**|Li Yi Team|[2610.33852](http://arxiv.org/abs/2610.33852)|null|
 |**2026-10-24**|**EXE: Egocentric Cross-Embodiment Pretraining via Factorized Latent Actions for VLA Models**|Jianyu Chen Team|[2610.33685](http://arxiv.org/abs/2610.33685)|null|
 |**2026-10-24**|**Learning Dexterous Manipulation: Hands, Simulators, Training, and Evaluation**|Luai Abuelsamen Team|[2610.33486](http://arxiv.org/abs/2610.33486)|null|
-|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**| SpatialtemporalAI Team|[2610.33446](http://arxiv.org/abs/2610.33446)|null|
+|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**|SpatialtemporalAI Team|[2610.33446](http://arxiv.org/abs/2610.33446)|null|
 |**2026-10-23**|**DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection**|Haozhi Qi Team|[2610.32969](http://arxiv.org/abs/2610.32969)|null|
 |**2026-10-22**|**FLORA: An Open Model Suite for Scaling Robotics Data Engines**|Linxi "Jim" Fan Team|[2610.31779](http://arxiv.org/abs/2610.31779)|null|
 |**2026-10-22**|**Skeleton-Grounded Latent Action Model for Robot World Models**|Mike Shou Zheng Team|[2610.31474](http://arxiv.org/abs/2610.31474)|null|
