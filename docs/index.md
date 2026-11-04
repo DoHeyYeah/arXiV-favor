@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.11.03
+## Updated on 2026.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**When Robots Outweigh Objects: How Inertia Mismatch Shapes Robot Policy Learning**|Pulkit Agrawal Team|[2611.03501](http://arxiv.org/abs/2611.03501)|null|
+|**2026-11-02**|**Exploring Proximity and Tactile Sensing for Robotic Manipulation**|Taskin Padir Team|[2611.03489](http://arxiv.org/abs/2611.03489)|null|
+|**2026-11-02**|**VerifLM: Physically Verified Image-Edit-Guided Goal Pose Generation for Robotic Manipulation**|Glen Chou Team|[2611.03268](http://arxiv.org/abs/2611.03268)|null|
+|**2026-11-02**|**FlowBatt: Flow Matching for Probabilistic Battery Degradation Prediction**|Steffen Blömeke Team|[2611.03150](http://arxiv.org/abs/2611.03150)|null|
+|**2026-11-02**|**VLALagBench: Understanding When and Why VLA Inference Latency Matters**|Wenqi Jiang Team|[2611.03103](http://arxiv.org/abs/2611.03103)|**[link](https://github.com/codestrongestx/VLALagBench)**|
+|**2026-11-02**|**PACERec: Progressive Adaptation of LLM Item Embeddings with Collaborative Evidence for Recommendation**|Xurui Li Team|[2611.03068](http://arxiv.org/abs/2611.03068)|null|
+|**2026-11-02**|**BeyondContact: A Reinforcement Learning Framework for Airflow-Based Non-Contact Manipulation**|Claudio Semini Team|[2611.03059](http://arxiv.org/abs/2611.03059)|null|
+|**2026-11-02**|**Efficient Hybrid Distillation: Synergizing Score and Adversarial Objectives for One-Step Diffusion**|Xiu Li Team|[2611.03017](http://arxiv.org/abs/2611.03017)|null|
+|**2026-11-02**|**Evidence of flare and coronal mass ejection-driven shock acceleration of relativistic protons on 21 November 2024**|M. Hörlöck Team|[2611.02962](http://arxiv.org/abs/2611.02962)|null|
+|**2026-11-02**|**PointPilot: Unified Robotic Manipulation via Object-Centric 3D Point Flow Prediction**|Kui Jia Team|[2611.02930](http://arxiv.org/abs/2611.02930)|null|
+|**2026-11-02**|**AnchorHEC: Targetless Hand-Eye Calibration of Wrist and Fixed Cameras**|Sungho Jo Team|[2611.02884](http://arxiv.org/abs/2611.02884)|null|
+|**2026-11-02**|**SomaAlign: Reliability-Aware Multimodal Representation Learning for Soft Robotic Grasping**|Jian Huang Team|[2611.02794](http://arxiv.org/abs/2611.02794)|null|
+|**2026-11-02**|**Beyond Policy Patches: Distilling RL Specialists into Vision-Language-Action Policies**|Chao Yu Team|[2611.02777](http://arxiv.org/abs/2611.02777)|null|
+|**2026-11-02**|**Visuo-tactile Diffusion Policy for Robotic Manipulation with Auxiliary Tactile Dynamics Prediction**|Dong Zhou Team|[2611.02677](http://arxiv.org/abs/2611.02677)|null|
+|**2026-11-02**|**OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting**|Jianjun Yi Team|[2611.02658](http://arxiv.org/abs/2611.02658)|null|
+|**2026-11-02**|**DexArena: A Unified Benchmark for Long-Horizon Dexterous Manipulation**|Yutong Ban Team|[2611.02629](http://arxiv.org/abs/2611.02629)|null|
+|**2026-11-02**|**W2A: Distilling World Priors into Action Models for Real-Time Robotic Control**|Yanjie Li Team|[2611.02600](http://arxiv.org/abs/2611.02600)|null|
+|**2026-11-02**|**Spatial Transfusion: From Structured Spatial Scene Understanding to Generation and Editing**|Hannes Gamper Team|[2611.02330](http://arxiv.org/abs/2611.02330)|null|
+|**2026-11-01**|**A Global Routing Method for Electronic Circuit Design Integrating Flow Matching and Constrained A***|Namwoo Kang Team|[2611.02304](http://arxiv.org/abs/2611.02304)|null|
+|**2026-11-01**|**Learning from high-resolution 2D images to reconstruct 3D microstructures**|Philip J. Withers Team|[2611.02204](http://arxiv.org/abs/2611.02204)|null|
 |**2026-10-30**|**RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory**|Serena Yeung-Levy Team|[2610.42141](http://arxiv.org/abs/2610.42141)|null|
 |**2026-10-30**|**Embodied Movable Antennas**|Yulin Shao Team|[2610.42078](http://arxiv.org/abs/2610.42078)|null|
 |**2026-10-30**|**Suspended-Fabric Robotic Manipulation Surfaces: Modelling, Design Space, and Multimodular Extensio**|Andres Faiña Team|[2610.41982](http://arxiv.org/abs/2610.41982)|null|
@@ -611,6 +631,10 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation**|Deepak Pathak Team|[2611.03648](http://arxiv.org/abs/2611.03648)|null|
+|**2026-11-01**|**Human Sensorimotor Model Adaptation to Account for Robot Accuracy and Speed Augmentation in Human-Robot Co-Manipulation**|Luka Peternel Team|[2611.02181](http://arxiv.org/abs/2611.02181)|null|
+|**2026-11-01**|**GoalDex: Learning Image-Goal-Conditioned Policies for Dexterous In-Hand Manipulation**|Marco Hutter Team|[2611.02171](http://arxiv.org/abs/2611.02171)|null|
+|**2026-11-01**|**Teleoperation System for Service Robots using Virtual Reality Headset and Pose Estimation**|Fernando Ribeiro Team|[2611.01759](http://arxiv.org/abs/2611.01759)|null|
 |**2026-10-30**|**Nexus-VLA: Bridging Human and Robot Experiences via a Shared Hierarchical Semantic Latent Space**|Chaoyang Zhao Team|[2610.42021](http://arxiv.org/abs/2610.42021)|null|
 |**2026-10-30**|**MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding**|Yiannis Aloimonos Team|[2610.41127](http://arxiv.org/abs/2610.41127)|null|
 |**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Huazhe Xu Team|[2610.40349](http://arxiv.org/abs/2610.40349)|null|
@@ -620,7 +644,7 @@ layout: default
 |**2026-10-27**|**ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning**|Fu-En Yang Team|[2610.37666](http://arxiv.org/abs/2610.37666)|null|
 |**2026-10-29**|**PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations**|Youzheng Wu Team|[2610.37381](http://arxiv.org/abs/2610.37381)|null|
 |**2026-10-27**|**A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation**|Huixu Dong Team|[2610.36789](http://arxiv.org/abs/2610.36789)|null|
-|**2026-10-25**|**RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions**|Zhongyu Li Team|[2610.34356](http://arxiv.org/abs/2610.34356)|**[link](https://github.com/alibaba-damo-academy/RynnVLA-Latent)**|
+|**2026-11-01**|**RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions**|Zhongyu Li Team|[2610.34356](http://arxiv.org/abs/2610.34356)|**[link](https://github.com/alibaba-damo-academy/RynnVLA-Latent)**|
 |**2026-10-25**|**HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience**|Donglin Wang Team|[2610.34186](http://arxiv.org/abs/2610.34186)|null|
 |**2026-10-25**|**Bi-Objective Receding-Horizon Scheduling of Nurses and Hospital Service Robots**|Roya Khalili-Amirabadi Team|[2610.34078](http://arxiv.org/abs/2610.34078)|null|
 |**2026-10-24**|**AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking**|Li Yi Team|[2610.33852](http://arxiv.org/abs/2610.33852)|null|
