@@ -1,4 +1,4 @@
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-03**|**Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments**|Cunjia Liu Team|[2611.05361](http://arxiv.org/abs/2611.05361)|null|
+|**2026-11-03**|**GSBR: Geometric Support Behavior Regularization for Online RL**|Sergey Levine Team|[2611.05295](http://arxiv.org/abs/2611.05295)|null|
+|**2026-11-03**|**Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems**|Yang You Team|[2611.05275](http://arxiv.org/abs/2611.05275)|null|
+|**2026-11-03**|**Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs**|Marco Pavone Team|[2611.05249](http://arxiv.org/abs/2611.05249)|null|
+|**2026-11-03**|**Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning**|Raul Astudillo Team|[2611.05207](http://arxiv.org/abs/2611.05207)|null|
+|**2026-11-03**|**Empirical Bayes Flow Matching for Continuous Cryo-EM Heterogeneity**|Dan Rosenbaum Team|[2611.05202](http://arxiv.org/abs/2611.05202)|null|
+|**2026-11-03**|**Asynchronous Robot Policies**|Danda Pani Paudel Team|[2611.05155](http://arxiv.org/abs/2611.05155)|null|
+|**2026-11-03**|**DexHOT: Learning Hand-Object Configuration Transfer for Dexterous Manipulation**|Hao Dong Team|[2611.05119](http://arxiv.org/abs/2611.05119)|null|
+|**2026-11-03**|**CRONOS: Benchmarking Non-Episodic Reinforcement Learning for Robotic Manipulation**|Tsung-Wei Ke Team|[2611.05080](http://arxiv.org/abs/2611.05080)|null|
+|**2026-11-03**|**Ablating Design Choices for Protein Ensemble Generators Across Structural Regimes**|Oliver Bent Team|[2611.05055](http://arxiv.org/abs/2611.05055)|null|
+|**2026-11-03**|**Horizon exchange and the universal all-spin response of Kerr**|Pierre Vanhove Team|[2611.05054](http://arxiv.org/abs/2611.05054)|**[link](https://github.com/pierrevanhove/kerr-black-hole-horizon-exchange)**|
+|**2026-11-03**|**HiLo-WAM: Decoupling Long-Horizon Task Evolution and Local Dynamics in World Action Models**|Mengdi Xu Team|[2611.05023](http://arxiv.org/abs/2611.05023)|null|
+|**2026-11-03**|**UniFlow: Unified Multi-Scale Flow Matching for Time Series Generation**|Peilin Zhao Team|[2611.04825](http://arxiv.org/abs/2611.04825)|null|
+|**2026-11-03**|**Pixel-space video generation with U-JiT**|Matthieu Cord Team|[2611.04764](http://arxiv.org/abs/2611.04764)|null|
+|**2026-11-03**|**Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting**|Omri Azencot Team|[2611.04760](http://arxiv.org/abs/2611.04760)|null|
+|**2026-11-03**|**Scalar radiation from circular orbits in D3 brane spacetimes: a Mano-Suzuki-Takasugi-like approach**|Veronica Fantini Team|[2611.04665](http://arxiv.org/abs/2611.04665)|null|
+|**2026-11-03**|**E2I-Flow: EEG-to-Image Reconstruction via Wavelet-Temporal Cross-Attention and Conditional Flow Matching**|Chee-Ming Ting Team|[2611.04524](http://arxiv.org/abs/2611.04524)|null|
+|**2026-11-03**|**Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots**|Xiaochun Cao Team|[2611.04522](http://arxiv.org/abs/2611.04522)|null|
+|**2026-11-03**|**Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation**|Dong Xu Team|[2611.04493](http://arxiv.org/abs/2611.04493)|null|
+|**2026-11-03**|**All-For-One: Distilling Visual Foundation Models to a Fast, Memory-Efficient Visuomotor Policy**|Jaegul Choo Team|[2611.04485](http://arxiv.org/abs/2611.04485)|null|
 |**2026-11-02**|**When Robots Outweigh Objects: How Inertia Mismatch Shapes Robot Policy Learning**|Pulkit Agrawal Team|[2611.03501](http://arxiv.org/abs/2611.03501)|null|
 |**2026-11-02**|**Exploring Proximity and Tactile Sensing for Robotic Manipulation**|Taskin Padir Team|[2611.03489](http://arxiv.org/abs/2611.03489)|null|
 |**2026-11-02**|**VerifLM: Physically Verified Image-Edit-Guided Goal Pose Generation for Robotic Manipulation**|Glen Chou Team|[2611.03268](http://arxiv.org/abs/2611.03268)|null|
@@ -631,12 +651,18 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-03**|**DreamX: Video Diffusion Model is a Universal Latent Action Learner**|Seungryong Kim Team|[2611.05377](http://arxiv.org/abs/2611.05377)|null|
+|**2026-11-03**|**PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands**|Gabe Pirie Team|[2611.05302](http://arxiv.org/abs/2611.05302)|null|
+|**2026-11-03**|**RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On**|Jinwoo Shin Team|[2611.05163](http://arxiv.org/abs/2611.05163)|null|
+|**2026-11-03**|**DexHOT: Learning Hand-Object Configuration Transfer for Dexterous Manipulation**|Hao Dong Team|[2611.05119](http://arxiv.org/abs/2611.05119)|null|
+|**2026-11-03**|**Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots**|Xiaochun Cao Team|[2611.04522](http://arxiv.org/abs/2611.04522)|null|
+|**2026-11-03**|**Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs**|Jinwoo Shin Team|[2611.04391](http://arxiv.org/abs/2611.04391)|null|
 |**2026-11-02**|**Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation**|Deepak Pathak Team|[2611.03648](http://arxiv.org/abs/2611.03648)|null|
 |**2026-11-01**|**Human Sensorimotor Model Adaptation to Account for Robot Accuracy and Speed Augmentation in Human-Robot Co-Manipulation**|Luka Peternel Team|[2611.02181](http://arxiv.org/abs/2611.02181)|null|
 |**2026-11-01**|**GoalDex: Learning Image-Goal-Conditioned Policies for Dexterous In-Hand Manipulation**|Marco Hutter Team|[2611.02171](http://arxiv.org/abs/2611.02171)|null|
@@ -776,5 +802,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
