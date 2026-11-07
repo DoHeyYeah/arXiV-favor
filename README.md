@@ -1,4 +1,4 @@
-## Updated on 2026.11.06
+## Updated on 2026.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions**|Roberto Martín-Martín Team|[2611.08462](http://arxiv.org/abs/2611.08462)|null|
+|**2026-11-05**|**Latent RL Priors for Data-Efficient Dexterous Manipulation**|Son Tran Team|[2611.08458](http://arxiv.org/abs/2611.08458)|null|
+|**2026-11-05**|**SM4RT: Cascaded Feed-forward Model for 4D Reconstruction**|Tsung-Wei Ke Team|[2611.08436](http://arxiv.org/abs/2611.08436)|null|
+|**2026-11-05**|**SLA: Scaling Spatial-Language-Action Model via Continual Pre-training**|Haoang Li Team|[2611.08373](http://arxiv.org/abs/2611.08373)|**[link](https://github.com/OpenHelix-Team/Spatial-Forcing/tree/master/SLA)**|
+|**2026-11-05**|**GPWM: Modeling the World as 3D Particle Motion**|Katerina Fragkiadaki Team|[2611.08338](http://arxiv.org/abs/2611.08338)|null|
+|**2026-11-05**|**InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image**|Seungryul Baek Team|[2611.08330](http://arxiv.org/abs/2611.08330)|null|
+|**2026-11-05**|**RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines**|Alessandra Russo Team|[2611.08308](http://arxiv.org/abs/2611.08308)|null|
+|**2026-11-05**|**Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**|Laura A. Hallock Team|[2611.08295](http://arxiv.org/abs/2611.08295)|null|
+|**2026-11-05**|**Hierarchical Incremental Beta Splatting for Online Reconstruction**|Linus Franke Team|[2611.08288](http://arxiv.org/abs/2611.08288)|null|
+|**2026-11-05**|**Aligning Policy Encoders with a Shape Teacher**|Artem Moskalev Team|[2611.08275](http://arxiv.org/abs/2611.08275)|null|
+|**2026-11-05**|**Optical Network Digital Twin: From Digital Coherent Transmission to Intelligent Network Operations**|Vittorio Curri Team|[2611.08217](http://arxiv.org/abs/2611.08217)|null|
+|**2026-11-05**|**FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching**|Robert Laganière Team|[2611.08128](http://arxiv.org/abs/2611.08128)|null|
+|**2026-11-05**|**Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model**|Ziyuan Pu Team|[2611.08111](http://arxiv.org/abs/2611.08111)|null|
+|**2026-11-05**|**Route-DMD: Distribution Matching Distillation with Task-Routed Mechanism for Speech Foundation Models**|Zilong Zheng Team|[2611.08011](http://arxiv.org/abs/2611.08011)|null|
+|**2026-11-05**|**Rotation Is Token-Blind: A Structural Criterion for Post-Training Quantization of Feed-Forward Geometry Transformers**|Cong Yang Team|[2611.07955](http://arxiv.org/abs/2611.07955)|null|
+|**2026-11-05**|**WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation**|Siyu Zhu Team|[2611.07939](http://arxiv.org/abs/2611.07939)|null|
+|**2026-11-05**|**XM4D: 4D Reconstruction through Certifiable Geometric Optimization**|Heng Yang Team|[2611.07902](http://arxiv.org/abs/2611.07902)|null|
+|**2026-11-05**|**Structure from Collision via Hypothesis-Space Reasoning**|Takuhiro Kaneko Team|[2611.07900](http://arxiv.org/abs/2611.07900)|null|
+|**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Nathan F. Lepora Team|[2611.07881](http://arxiv.org/abs/2611.07881)|null|
+|**2026-11-05**|**Estimating Spectrum-Free Information Bounds for Generative Surrogates Beyond Conditional Collapse**|Sourabh Dube Team|[2611.07826](http://arxiv.org/abs/2611.07826)|null|
 |**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Ziwei Liu Team|[2611.06918](http://arxiv.org/abs/2611.06918)|**[link](https://github.com/EvolvingLMMs-Lab/NEO/tree/main/VLAKit)**|
 |**2026-11-04**|**Rethinking Self-Repair in Code-as-Policy Agents: What Drives Retry Success?**|Ayushman Singh Team|[2611.06863](http://arxiv.org/abs/2611.06863)|null|
 |**2026-11-04**|**Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos**|Noah Snavely Team|[2611.06849](http://arxiv.org/abs/2611.06849)|null|
@@ -671,18 +691,20 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
-|**2026-11-04**|**Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**|Daquan Zhou Team|[2611.06817](http://arxiv.org/abs/2611.06817)|**[link](https://github.com/DAGroup-PKU/HumanNet/tree/open-humanscale)**|
+|**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Nathan F. Lepora Team|[2611.07881](http://arxiv.org/abs/2611.07881)|null|
+|**2026-11-05**|**AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction**|Dzmitry Tsetserukou Team|[2611.07712](http://arxiv.org/abs/2611.07712)|null|
+|**2026-11-05**|**Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**|Daquan Zhou Team|[2611.06817](http://arxiv.org/abs/2611.06817)|**[link](https://github.com/DAGroup-PKU/HumanNet/tree/Open-HumanWAM)**|
 |**2026-11-04**|**Learning Object-Centric Motion Priors from Human for Robotic Dexterous Manipulation**|Guofeng Zhang Team|[2611.05979](http://arxiv.org/abs/2611.05979)|null|
 |**2026-11-03**|**GRASP: Gradient-Guided Sampling for Contact-Rich Physics-Based Motion Retargeting**|Heng Yang Team|[2611.05754](http://arxiv.org/abs/2611.05754)|null|
 |**2026-11-03**|**DreamX: Video Diffusion Model is a Universal Latent Action Learner**|Seungryong Kim Team|[2611.05377](http://arxiv.org/abs/2611.05377)|null|
 |**2026-11-03**|**PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands**|Gabe Pirie Team|[2611.05302](http://arxiv.org/abs/2611.05302)|null|
-|**2026-11-04**|**RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On**|Jinwoo Shin Team|[2611.05163](http://arxiv.org/abs/2611.05163)|null|
+|**2026-11-05**|**Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On**|Jinwoo Shin Team|[2611.05163](http://arxiv.org/abs/2611.05163)|null|
 |**2026-11-03**|**DexHOT: Learning Hand-Object Configuration Transfer for Dexterous Manipulation**|Hao Dong Team|[2611.05119](http://arxiv.org/abs/2611.05119)|null|
 |**2026-11-03**|**Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots**|Xiaochun Cao Team|[2611.04522](http://arxiv.org/abs/2611.04522)|null|
 |**2026-11-03**|**Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs**|Jinwoo Shin Team|[2611.04391](http://arxiv.org/abs/2611.04391)|null|
@@ -825,5 +847,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261107>back to top</a>)</p>
 
