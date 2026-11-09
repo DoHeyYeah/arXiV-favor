@@ -96,7 +96,7 @@ layout: default
 |**2026-10-30**|**MFlowAudio: Efficient Text-to-Audio Synthesis via Mamba-based Stateful Flow Matching**|Jagmohan Chauhan Team|[2610.41852](http://arxiv.org/abs/2610.41852)|null|
 |**2026-10-30**|**Flexibility-Aware Robotic Manipulation: Deformation Estimation, Kinematics, and Control via Distributed Inertial Measurement**|Jouni Mattila Team|[2610.41702](http://arxiv.org/abs/2610.41702)|null|
 |**2026-10-30**|**Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation**|Bin He Team|[2610.41643](http://arxiv.org/abs/2610.41643)|null|
-|**2026-10-30**|**RTPolicy: Real-Time (32.9 Hz) Multi-View Visuomotor Policy for Robotic Manipulation on Edge Devices**|Cong Yang Team|[2610.41625](http://arxiv.org/abs/2610.41625)|null|
+|**2026-10-30**|**RTPolicy: Real-Time (32.9 Hz) Multi-View Visuomotor Policy for Robotic Manipulation on Edge Devices**|Cong Yang Team|[2610.41625](http://arxiv.org/abs/2610.41625)|**[link](https://github.com/D-Robotics-AI-Lab/RTPolicy)|
 |**2026-10-30**|**Scout-Refine-Correct: Teaching Flow Models to Refine Their Own Samples**|Aibek Alanov Team|[2610.41598](http://arxiv.org/abs/2610.41598)|null|
 |**2026-10-30**|**VariaFlow: Uncertainty-Aware Flow Matching for Unsupervised Anomaly Detection**|Cosmin I. Bercea Team|[2610.41494](http://arxiv.org/abs/2610.41494)|null|
 |**2026-10-30**|**PolarFlow: Spectral Geometric Flow Matching for Directed Graph Generation via Polar Decomposition**|Wee Peng Tay Team|[2610.41471](http://arxiv.org/abs/2610.41471)|null|
@@ -417,17 +417,17 @@ layout: default
 |**2026-10-06**|**Co-Evolving Paths and Flows via Path-Flow Alignment**|Xiang Cheng Team|[2610.08717](http://arxiv.org/abs/2610.08717)|null|
 |**2026-10-06**|**Fast Non-Parametric Heteroscedastic Imitation Learning With Geometric Priors**|João Silvério Team|[2610.08650](http://arxiv.org/abs/2610.08650)|null|
 |**2026-10-06**|**Towards Efficient Robotic Manipulation Models with Self-Recursive Pruning**|Li Liu Team|[2610.08555](http://arxiv.org/abs/2610.08555)|null|
-|**2026-10-06**|**FlowCF: Sparse Counterfactual Explanations for Mixed-Type Tabular Data using Flow Matching**|Eirini Ntoutsi Team|[2610.08537](http://arxiv.org/abs/2610.08537)|null|
+|**2026-10-06**|**FlowCF: Sparse Counterfactual Explanations for Mixed-Type Tabular Data using Flow Matching**|Eirini Ntoutsi Team|[2610.08537](http://arxiv.org/abs/2610.08537)|**[link](https://github.com/Panagiotou/FlowCF_NeurIPS_GDDL)|
 |**2026-10-06**|**WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses**|H. Nguyen-Xuan Team|[2610.08526](http://arxiv.org/abs/2610.08526)|null|
-|**2026-10-06**|**Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation**|Omer T. Inan Team|[2610.08510](http://arxiv.org/abs/2610.08510)|null|
-|**2026-10-06**|**Sensor Geometry as a Flow-Matching Prior for Multi-Channel Brain Signals**|Jaedong Hwang Team|[2610.08355](http://arxiv.org/abs/2610.08355)|null|
+|**2026-10-06**|**Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation**|Omer T. Inan Team|[2610.08510](http://arxiv.org/abs/2610.08510)|**[link](https://github.com/teddytennant/cgfm)|
+|**2026-10-06**|**Sensor Geometry as a Flow-Matching Prior for Multi-Channel Brain Signals**|Jaedong Hwang Team|[2610.08355](http://arxiv.org/abs/2610.08355)|**[link](https://github.com/jd730/GraphPrior)|
 |**2026-10-06**|**Voice Anonymization Made Simple: Training-Free Anonymization with Projected Classifier-Free Guidance**|Xiaoxiao Miao Team|[2610.08276](http://arxiv.org/abs/2610.08276)|null|
 |**2026-10-06**|**RACE-FPP: A Robust AI-assisted Characterisation Enhancement for Fringe Projection Profilometry**|Samanta Piano Team|[2610.08213](http://arxiv.org/abs/2610.08213)|null|
 |**2026-10-06**|**Compact Robot Policies Need Fine-Grained Visual Representations**|Yuquan Wang Team|[2610.08183](http://arxiv.org/abs/2610.08183)|null|
-|**2026-10-06**|**VLA-ACL: Action-Consistent Visual Token Pruning for Efficient Vision-Language-Action Models**|Gao Huang Team|[2610.08133](http://arxiv.org/abs/2610.08133)|null|
+|**2026-10-06**|**VLA-ACL: Action-Consistent Visual Token Pruning for Efficient Vision-Language-Action Models**|Gao Huang Team|[2610.08133](http://arxiv.org/abs/2610.08133)|**[link](https://github.com/du-owen/VLA-ACL)|
 |**2026-10-06**|**Reactive Exploration of Unknown Environments for Redundant Robots using Virtual Model Control**|Fulvio Forni Team|[2610.08110](http://arxiv.org/abs/2610.08110)|null|
 |**2026-10-06**|**IronMan: Information-Constrained Video-Action Learning for Robot Manipulation**|Siheng Chen Team|[2610.07961](http://arxiv.org/abs/2610.07961)|null|
-|**2026-10-06**|**DensiTok: Making Feed-Forward 3D Gaussian Splatting See More Views Than It Is Given**|Sangyoun Lee Team|[2610.07958](http://arxiv.org/abs/2610.07958)|null|
+|**2026-10-06**|**DensiTok: Making Feed-Forward 3D Gaussian Splatting See More Views Than It Is Given**|Sangyoun Lee Team|[2610.07958](http://arxiv.org/abs/2610.07958)|**[link](https://github.com/Hydragon516/DensiTok)|
 |**2026-10-06**|**Commit While Futures Agree: Consequence-Aware Adaptive Action Chunking for Robot Manipulation**|Xinhu Zheng Team|[2610.07949](http://arxiv.org/abs/2610.07949)|null|
 |**2026-10-05**|**Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models**|Cheng Peng Team|[2610.06813](http://arxiv.org/abs/2610.06813)|null|
 |**2026-10-05**|**What Matters for Latent Reasoning with Flow Matching**|Georgios Tzimiropoulos Team|[2610.06666](http://arxiv.org/abs/2610.06666)|null|
@@ -721,7 +721,7 @@ layout: default
 |**2026-10-24**|**AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking**|Li Yi Team|[2610.33852](http://arxiv.org/abs/2610.33852)|null|
 |**2026-10-24**|**EXE: Egocentric Cross-Embodiment Pretraining via Factorized Latent Actions for VLA Models**|Jianyu Chen Team|[2610.33685](http://arxiv.org/abs/2610.33685)|null|
 |**2026-10-24**|**Learning Dexterous Manipulation: Hands, Simulators, Training, and Evaluation**|Luai Abuelsamen Team|[2610.33486](http://arxiv.org/abs/2610.33486)|null|
-|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**| SpatialtemporalAI Team|[2610.33446](http://arxiv.org/abs/2610.33446)|null|
+|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**|SpatialtemporalAI Team|[2610.33446](http://arxiv.org/abs/2610.33446)|null|
 |**2026-10-23**|**DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection**|Haozhi Qi Team|[2610.32969](http://arxiv.org/abs/2610.32969)|null|
 |**2026-10-22**|**FLORA: An Open Model Suite for Scaling Robotics Data Engines**|Linxi "Jim" Fan Team|[2610.31779](http://arxiv.org/abs/2610.31779)|null|
 |**2026-10-22**|**Skeleton-Grounded Latent Action Model for Robot World Models**|Mike Shou Zheng Team|[2610.31474](http://arxiv.org/abs/2610.31474)|null|

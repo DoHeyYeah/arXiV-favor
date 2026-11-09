@@ -157,8 +157,8 @@
 |**2026-10-26**|**CounterFlow: Target-Conditioned Flow Matching for Visual Counterfactuals**|Laetitia Houeix Team|[2610.35679](http://arxiv.org/abs/2610.35679)|null|
 |**2026-10-26**|**Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel**|Romain Lopez Team|[2610.35652](http://arxiv.org/abs/2610.35652)|**[link](https://github.com/biologicalML/transport_ntk)**|
 |**2026-10-26**|**Synthetic Deformable Tubular Benchmark: A mechanically annotated dataset for evaluating deformable 3D reconstruction**|Íñigo Cirauqui-Viloria Team|[2610.35621](http://arxiv.org/abs/2610.35621)|null|
-|**2026-10-26**|**Generative Structure from Motion with Native 3D Diffusion**|Shenghua Gao Team|[2610.35522](http://arxiv.org/abs/2610.35522)|null|
-|**2026-10-26**|**Enhancing Deep Reinforcement Learning for Robotic Motion Planning via Task Decomposition**|Gualtiero Colombo Team|[2610.35494](http://arxiv.org/abs/2610.35494)|null|
+|**2026-10-26**|**Generative Structure from Motion with Native 3D Diffusion**|Shenghua Gao Team|[2610.35522](http://arxiv.org/abs/2610.35522)|**[link](https://github.com/dotb1ue/GenSfm)|
+|**2026-10-26**|**Enhancing Deep Reinforcement Learning for Robotic Motion Planning via Task Decomposition**|Gualtiero Colombo Team|[2610.35494](http://arxiv.org/abs/2610.35494)|**[link](https://github.com/YuanzhiHe/panda_gym_obstacle)|
 |**2026-10-26**|**DEX-PHD: A Dexterous Portable Handheld Device for Multimodal Data Collection**|Joohyung Kim Team|[2610.35462](http://arxiv.org/abs/2610.35462)|null|
 |**2026-10-26**|**RoKON: Efficient and Adaptive Data-Enabled Predictive Control for Robotic Manipulation**|Frederike Dümbgen Team|[2610.35458](http://arxiv.org/abs/2610.35458)|null|
 |**2026-10-26**|**The Language of Deformation: Semantic Failure Analysis as a Prerequisite for Dexterous Manipulation of Deformable Objects**|Erfan Shahriari Team|[2610.35103](http://arxiv.org/abs/2610.35103)|null|
@@ -166,7 +166,7 @@
 |**2026-10-26**|**DUET4D: Self-Corrective Coupled Guidance for Sparse-View 4D Reconstruction**|Hao Wang Team|[2610.35002](http://arxiv.org/abs/2610.35002)|null|
 |**2026-10-26**|**DimFlow: Bidirectional Grid-Expert Learning for Dynamic Gaussian Reconstruction**|Jinoh Kim Team|[2610.34952](http://arxiv.org/abs/2610.34952)|null|
 |**2026-10-26**|**MMGNet: Multi-Modal 6-DoF Grasp Synthesis for Cluttered Scenes**|Yun-Hui Liu Team|[2610.34893](http://arxiv.org/abs/2610.34893)|null|
-|**2026-10-26**|**PosePlaner: Denoising Any Feed-Forward Pose Predictor from Pairwise Planar Geometry**|Nan Xue Team|[2610.34845](http://arxiv.org/abs/2610.34845)|null|
+|**2026-10-26**|**PosePlaner: Denoising Any Feed-Forward Pose Predictor from Pairwise Planar Geometry**|Nan Xue Team|[2610.34845](http://arxiv.org/abs/2610.34845)|**[link](https://github.com/robbyant-research/PosePlaner)|
 |**2026-10-26**|**Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse**|Zekun Shi Team|[2610.34828](http://arxiv.org/abs/2610.34828)|null|
 |**2026-10-26**|**TIMUSE: Text-Initialized Masked Semantic Token Modeling for Universal Speech Enhancement**|Kai Yu Team|[2610.34814](http://arxiv.org/abs/2610.34814)|null|
 |**2026-10-26**|**ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis**|Gongping Huang Team|[2610.34807](http://arxiv.org/abs/2610.34807)|null|
@@ -421,7 +421,7 @@
 |**2026-10-06**|**Co-Evolving Paths and Flows via Path-Flow Alignment**|Xiang Cheng Team|[2610.08717](http://arxiv.org/abs/2610.08717)|null|
 |**2026-10-06**|**Fast Non-Parametric Heteroscedastic Imitation Learning With Geometric Priors**|João Silvério Team|[2610.08650](http://arxiv.org/abs/2610.08650)|null|
 |**2026-10-06**|**Towards Efficient Robotic Manipulation Models with Self-Recursive Pruning**|Li Liu Team|[2610.08555](http://arxiv.org/abs/2610.08555)|null|
-|**2026-10-06**|**FlowCF: Sparse Counterfactual Explanations for Mixed-Type Tabular Data using Flow Matching**|Eirini Ntoutsi Team|[2610.08537](http://arxiv.org/abs/2610.08537)|null|
+|**2026-10-06**|**FlowCF: Sparse Counterfactual Explanations for Mixed-Type Tabular Data using Flow Matching**|Eirini Ntoutsi Team|[2610.08537](http://arxiv.org/abs/2610.08537)|**[link](https://github.com/Panagiotou/FlowCF_NeurIPS_GDDL)|
 |**2026-10-06**|**WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses**|H. Nguyen-Xuan Team|[2610.08526](http://arxiv.org/abs/2610.08526)|null|
 |**2026-10-06**|**Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation**|Omer T. Inan Team|[2610.08510](http://arxiv.org/abs/2610.08510)|**[link](https://github.com/teddytennant/cgfm)|
 |**2026-10-06**|**Sensor Geometry as a Flow-Matching Prior for Multi-Channel Brain Signals**|Jaedong Hwang Team|[2610.08355](http://arxiv.org/abs/2610.08355)|**[link](https://github.com/jd730/GraphPrior)|
@@ -450,7 +450,7 @@
 |**2026-10-05**|**EpicWorldModel: Exploration-driven Planning with Latent World Models**|Felix Heide Team|[2610.05996](http://arxiv.org/abs/2610.05996)|null|
 |**2026-10-05**|**Beyond Transport Cost: Routing Differences between Flow Matching and Optimal Transport**|Jong-Seok Lee Team|[2610.05921](http://arxiv.org/abs/2610.05921)|null|
 |**2026-10-05**|**Bilinear Flow Policy: Distributional Extrapolation for Goal-Conditioned Visuomotor Imitation**|Haruki Nishimura Team|[2610.05765](http://arxiv.org/abs/2610.05765)|null|
-|**2026-10-05**|**When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models**|Jeany Son Team|[2610.05719](http://arxiv.org/abs/2610.05719)|null|
+|**2026-10-05**|**When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models**|Jeany Son Team|[2610.05719](http://arxiv.org/abs/2610.05719)|**[link](https://github.com/Seonghoon-Yu/RACE-VLA)|
 |**2026-10-05**|**From Pixels, Without Pre-training: Joint Generative and Self-Supervised Representation Learning in One Model**|Tianbao Yang Team|[2610.05711](http://arxiv.org/abs/2610.05711)|null|
 |**2026-10-05**|**Benchmarking Generative Trajectory Models for Active-Inference Control**|Andrea Matta Team|[2610.05692](http://arxiv.org/abs/2610.05692)|**[link](https://github.com/lyeeonardo/generative-trajectory-benchmark)**|
 |**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Animesh Garg Team|[2610.03717](http://arxiv.org/abs/2610.03717)|null|
@@ -727,7 +727,7 @@
 |**2026-10-24**|**AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking**|Li Yi Team|[2610.33852](http://arxiv.org/abs/2610.33852)|null|
 |**2026-10-24**|**EXE: Egocentric Cross-Embodiment Pretraining via Factorized Latent Actions for VLA Models**|Jianyu Chen Team|[2610.33685](http://arxiv.org/abs/2610.33685)|null|
 |**2026-10-24**|**Learning Dexterous Manipulation: Hands, Simulators, Training, and Evaluation**|Luai Abuelsamen Team|[2610.33486](http://arxiv.org/abs/2610.33486)|null|
-|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**| SpatialtemporalAI Team|[2610.33446](http://arxiv.org/abs/2610.33446)|null|
+|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**|SpatialtemporalAI Team|[2610.33446](http://arxiv.org/abs/2610.33446)|null|
 |**2026-10-23**|**DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection**|Haozhi Qi Team|[2610.32969](http://arxiv.org/abs/2610.32969)|null|
 |**2026-10-22**|**FLORA: An Open Model Suite for Scaling Robotics Data Engines**|Linxi "Jim" Fan Team|[2610.31779](http://arxiv.org/abs/2610.31779)|null|
 |**2026-10-22**|**Skeleton-Grounded Latent Action Model for Robot World Models**|Mike Shou Zheng Team|[2610.31474](http://arxiv.org/abs/2610.31474)|null|
