@@ -1,4 +1,4 @@
-## Updated on 2026.11.09
+## Updated on 2026.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,23 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**On Agentic Manipulation Policies**|Vladlen Koltun Team|[2611.09892](http://arxiv.org/abs/2611.09892)|null|
+|**2026-11-06**|**FlowMoP: Stochastic Multi-Person Motion Prediction**|Alexander Schwing Team|[2611.09882](http://arxiv.org/abs/2611.09882)|null|
+|**2026-11-06**|**Flow-Guided Target-Space Alignment via Path Consistency**|Lu Tang Team|[2611.09863](http://arxiv.org/abs/2611.09863)|null|
+|**2026-11-06**|**PoseRieFlow: Riemannian Flow Matching for Whole-Body Text-to-Pose Generation**|Reinhard Klein Team|[2611.09692](http://arxiv.org/abs/2611.09692)|null|
+|**2026-11-06**|**RainFlow: Flow Matching for Infrared-Only Quantitative Precipitation Estimation**|Nicolas Viltard Team|[2611.09663](http://arxiv.org/abs/2611.09663)|null|
+|**2026-11-06**|**CoMoFlow: Controllable Protein Conformational Ensemble Generation via Explicit Collective-Mode Modeling**|Mingkun Xu Team|[2611.09548](http://arxiv.org/abs/2611.09548)|null|
+|**2026-11-06**|**MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning**|Dmitry Berenson Team|[2611.09293](http://arxiv.org/abs/2611.09293)|null|
+|**2026-11-06**|**EGT: Execution-Grounded Traversability through Learned Closed-Loop Trajectory Distributions**|Arun Kumar Singh Team|[2611.09270](http://arxiv.org/abs/2611.09270)|null|
+|**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Jiajun Wu Team|[2611.09036](http://arxiv.org/abs/2611.09036)|null|
+|**2026-11-06**|**Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents**|Wenping Wang Team|[2611.08946](http://arxiv.org/abs/2611.08946)|null|
+|**2026-11-06**|**RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation**|Renjing Xu Team|[2611.08939](http://arxiv.org/abs/2611.08939)|null|
+|**2026-11-05**|**Not All Latents Are Equal: Importance-Weighted Latent Graph Generation**|Harry Shomer Team|[2611.08788](http://arxiv.org/abs/2611.08788)|null|
+|**2026-11-05**|**ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding**|Mehmet Fatih Amasyali Team|[2611.08669](http://arxiv.org/abs/2611.08669)|null|
+|**2026-11-05**|**Dynamic GPU Voxel Grids and Voxel-sequential Processing in NanoVDB**|Ken Museth Team|[2611.08665](http://arxiv.org/abs/2611.08665)|null|
+|**2026-11-05**|**CS-Pi: Constraint-Satisfying Flow Policy Sampling**|Shubham Tulsiani Team|[2611.08654](http://arxiv.org/abs/2611.08654)|null|
+|**2026-11-05**|**Just CaloCHILL: fast hadronic shower generation in a learned latent space**|Martina Mozzanica Team|[2611.08606](http://arxiv.org/abs/2611.08606)|**[link](https://github.com/FLC-QU-hep/CaloCHILL)**|
+|**2026-11-05**|**Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation**|Ziqin Wang Team|[2611.08577](http://arxiv.org/abs/2611.08577)|**[link](https://github.com/Meituan-Robotics/Meituan-Robotics-0)**|
 |**2026-11-05**|**OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions**|Roberto Martín-Martín Team|[2611.08462](http://arxiv.org/abs/2611.08462)|null|
 |**2026-11-05**|**Latent RL Priors for Data-Efficient Dexterous Manipulation**|Son Tran Team|[2611.08458](http://arxiv.org/abs/2611.08458)|null|
 |**2026-11-05**|**SM4RT: Cascaded Feed-forward Model for 4D Reconstruction**|Tsung-Wei Ke Team|[2611.08436](http://arxiv.org/abs/2611.08436)|null|
@@ -691,12 +708,16 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**5G-NetBotSim: A Synchronized Co-Simulation Framework for Connected Robots over ROS and srsRAN-based 5G Network**|Sabur Baidya Team|[2611.09735](http://arxiv.org/abs/2611.09735)|null|
+|**2026-11-06**|**RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation**|Renjing Xu Team|[2611.08939](http://arxiv.org/abs/2611.08939)|null|
+|**2026-11-06**|**HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer**|Francisco Cruz Team|[2611.08920](http://arxiv.org/abs/2611.08920)|null|
+|**2026-11-06**|**Bidirectional Modeling of mmWave Human Signals for Enhancement & Synthesis**|Yu Guan Team|[2611.08870](http://arxiv.org/abs/2611.08870)|null|
 |**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Nathan F. Lepora Team|[2611.07881](http://arxiv.org/abs/2611.07881)|null|
 |**2026-11-05**|**AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction**|Dzmitry Tsetserukou Team|[2611.07712](http://arxiv.org/abs/2611.07712)|null|
 |**2026-11-05**|**Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**|Daquan Zhou Team|[2611.06817](http://arxiv.org/abs/2611.06817)|**[link](https://github.com/DAGroup-PKU/HumanNet/tree/Open-HumanWAM)**|
@@ -705,7 +726,7 @@
 |**2026-11-03**|**DreamX: Video Diffusion Model is a Universal Latent Action Learner**|Seungryong Kim Team|[2611.05377](http://arxiv.org/abs/2611.05377)|null|
 |**2026-11-03**|**PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands**|Gabe Pirie Team|[2611.05302](http://arxiv.org/abs/2611.05302)|null|
 |**2026-11-05**|**Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On**|Jinwoo Shin Team|[2611.05163](http://arxiv.org/abs/2611.05163)|null|
-|**2026-11-03**|**DexHOT: Learning Hand-Object Configuration Transfer for Dexterous Manipulation**|Hao Dong Team|[2611.05119](http://arxiv.org/abs/2611.05119)|null|
+|**2026-11-06**|**DexHOT: Learning Hand-Object Configuration Transfer for Dexterous Manipulation**|Hao Dong Team|[2611.05119](http://arxiv.org/abs/2611.05119)|null|
 |**2026-11-03**|**Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots**|Xiaochun Cao Team|[2611.04522](http://arxiv.org/abs/2611.04522)|null|
 |**2026-11-03**|**Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs**|Jinwoo Shin Team|[2611.04391](http://arxiv.org/abs/2611.04391)|null|
 |**2026-11-02**|**Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation**|Deepak Pathak Team|[2611.03648](http://arxiv.org/abs/2611.03648)|null|
@@ -847,5 +868,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
 
