@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**World In-Context Learning for Agentic Robot Manipulation**|Xiang Bai Team|[2611.12885](http://arxiv.org/abs/2611.12885)|null|
+|**2026-11-09**|**Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos**|Roozbeh Mottaghi Team|[2611.12879](http://arxiv.org/abs/2611.12879)|null|
+|**2026-11-09**|**Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks**|Zezhou Cheng Team|[2611.12875](http://arxiv.org/abs/2611.12875)|null|
+|**2026-11-09**|**What kills $v$ -prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching**|Yuan Yao Team|[2611.12852](http://arxiv.org/abs/2611.12852)|**[link](https://github.com/THUMAI-Lab/RiT)**|
+|**2026-11-09**|**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**|Wei Ning Team|[2611.12806](http://arxiv.org/abs/2611.12806)|null|
+|**2026-11-09**|**Benchmarking Real-World Robotic Manipulation through Stochastic Challenges**|Hermann Blum Team|[2611.12804](http://arxiv.org/abs/2611.12804)|null|
+|**2026-11-09**|**$Σ$ -LeWM: Learning World Models via S-Information for Robot Control**|Kevin Sebastian Luck Team|[2611.12732](http://arxiv.org/abs/2611.12732)|null|
+|**2026-11-09**|**PCTac: Mechanochromic Photonic-Crystal Tactile Sensor for Dexterous Manipulation**|Chenxi Xiao Team|[2611.12383](http://arxiv.org/abs/2611.12383)|null|
+|**2026-11-09**|**Safety-Constrained Intelligent Control of a 2-DOF Robotic Manipulator Using Control Barrier Functions**|Wallace Moreira Bessa Team|[2611.12378](http://arxiv.org/abs/2611.12378)|null|
+|**2026-11-09**|**VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation**|Feng Zhao Team|[2611.12286](http://arxiv.org/abs/2611.12286)|null|
+|**2026-11-09**|**Embodied First Exam**|Manling Li Team|[2611.12177](http://arxiv.org/abs/2611.12177)|null|
+|**2026-11-09**|**GeoMind: A Benchmark for Spatial Understanding in Robotic Manipulation**|Zhi Wang Team|[2611.12175](http://arxiv.org/abs/2611.12175)|null|
+|**2026-11-09**|**The balance between feature learning and collapse in dynamical systems-based generative models**|Arthur Pellegrino Team|[2611.12156](http://arxiv.org/abs/2611.12156)|null|
+|**2026-11-09**|**Geometry and Stochastic Analysis of Flow and Diffusion Models: A Survey**|Razvan Marinescu Team|[2611.12107](http://arxiv.org/abs/2611.12107)|null|
+|**2026-11-09**|**SPARK: Simple Post-training for Adapting pRetrained Knowledge to Robot Control**|Dongyoon Han Team|[2611.12102](http://arxiv.org/abs/2611.12102)|null|
+|**2026-11-09**|**BARS: Beat-Adaptive Rap Synthesis via Flow Matching**|Enyan Koh Team|[2611.12061](http://arxiv.org/abs/2611.12061)|null|
+|**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Yu-Chiang Frank Wang Team|[2611.12011](http://arxiv.org/abs/2611.12011)|null|
+|**2026-11-09**|**Thermo-VLA: A Thermal-Aware Vision-Language-Action Model with Gated Residual Modulation for Robotic Manipulation**|Qiang Huang Team|[2611.11981](http://arxiv.org/abs/2611.11981)|null|
+|**2026-11-09**|**3R-Adapter: Retrieval, Rewiring, and Refinement for Efficient Adaptation of 3D Reconstruction Model**|Jiahuan Zhou Team|[2611.11964](http://arxiv.org/abs/2611.11964)|null|
+|**2026-11-09**|**Flip Anything with Agentic Robotics Self-Learning**|Ken Goldberg Team|[2611.11941](http://arxiv.org/abs/2611.11941)|null|
 |**2026-11-06**|**On Agentic Manipulation Policies**|Vladlen Koltun Team|[2611.09892](http://arxiv.org/abs/2611.09892)|null|
 |**2026-11-06**|**FlowMoP: Stochastic Multi-Person Motion Prediction**|Alexander Schwing Team|[2611.09882](http://arxiv.org/abs/2611.09882)|null|
 |**2026-11-06**|**Flow-Guided Target-Space Alignment via Path Consistency**|Lu Tang Team|[2611.09863](http://arxiv.org/abs/2611.09863)|null|
@@ -708,6 +728,12 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**GAP: Generalized Adaptation Prior for Dexterous Piano Playing**|Hongtao Wang Team|[2611.12111](http://arxiv.org/abs/2611.12111)|null|
+|**2026-11-09**|**Fade to... Red? Scheduling Coloured Noise Exploration Supports Efficient Robot Learning with Reduced Movement Jerk**|Francisco Cruz Team|[2611.11868](http://arxiv.org/abs/2611.11868)|null|
+|**2026-11-09**|**Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation**|Jian Yao Team|[2611.11854](http://arxiv.org/abs/2611.11854)|null|
+|**2026-11-07**|**BAT-WAM: Bridging Action and Touch in World-Action Models for Dexterous Hands**|Yu-Gang Jiang Team|[2611.10967](http://arxiv.org/abs/2611.10967)|null|
+|**2026-11-07**|**Burden, Bounty, or Bliss? Muscle-Aware Retargeting and Null-Space Exploration for Whole-Body Musculoskeletal Control**|Takeshi Oishi Team|[2611.10682](http://arxiv.org/abs/2611.10682)|null|
+|**2026-11-06**|**BATCH: Behavior Alignment for Cross-Embodiment Learning from Humans**|Shuran Song Team|[2611.10148](http://arxiv.org/abs/2611.10148)|null|
 |**2026-11-06**|**5G-NetBotSim: A Synchronized Co-Simulation Framework for Connected Robots over ROS and srsRAN-based 5G Network**|Sabur Baidya Team|[2611.09735](http://arxiv.org/abs/2611.09735)|null|
 |**2026-11-06**|**RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation**|Renjing Xu Team|[2611.08939](http://arxiv.org/abs/2611.08939)|null|
 |**2026-11-06**|**HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer**|Francisco Cruz Team|[2611.08920](http://arxiv.org/abs/2611.08920)|null|
