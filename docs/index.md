@@ -47,7 +47,7 @@ layout: default
 |**2026-11-09**|**One Trajectory, Two Requirements: Accuracy and Local Stability in Euler Sampling for Flow Matching Policies**|Mahindra Rautela Team|[2611.13311](http://arxiv.org/abs/2611.13311)|null|
 |**2026-11-09**|**Incorporating World Models in Decision Making for Next Best View Selection in Active Sensing**|Satyandra K. Gupta Team|[2611.13229](http://arxiv.org/abs/2611.13229)|null|
 |**2026-11-09**|**Latent Barrier Steering: Hierarchical Safety for Generative Planning**|Bruno Castro da Silva Team|[2611.13227](http://arxiv.org/abs/2611.13227)|null|
-|**2026-11-09**|**World In-Context Learning for Agentic Robot Manipulation**|Xiang Bai Team|[2611.12885](http://arxiv.org/abs/2611.12885)|null|
+|**2026-11-09**|**World In-Context Learning for Agentic Robot Manipulation**|Xiang Bai Team|[2611.12885](http://arxiv.org/abs/2611.12885)|**[link](https://github.com/ArcheOne-AI/RoboScript)|
 |**2026-11-09**|**Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos**|Roozbeh Mottaghi Team|[2611.12879](http://arxiv.org/abs/2611.12879)|null|
 |**2026-11-09**|**Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks**|Zezhou Cheng Team|[2611.12875](http://arxiv.org/abs/2611.12875)|null|
 |**2026-11-09**|**What kills $v$ -prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching**|Yuan Yao Team|[2611.12852](http://arxiv.org/abs/2611.12852)|**[link](https://github.com/THUMAI-Lab/RiT)**|
@@ -67,8 +67,8 @@ layout: default
 |**2026-11-09**|**Thermo-VLA: A Thermal-Aware Vision-Language-Action Model with Gated Residual Modulation for Robotic Manipulation**|Qiang Huang Team|[2611.11981](http://arxiv.org/abs/2611.11981)|null|
 |**2026-11-09**|**3R-Adapter: Retrieval, Rewiring, and Refinement for Efficient Adaptation of 3D Reconstruction Model**|Jiahuan Zhou Team|[2611.11964](http://arxiv.org/abs/2611.11964)|null|
 |**2026-11-09**|**Flip Anything with Agentic Robotics Self-Learning**|Ken Goldberg Team|[2611.11941](http://arxiv.org/abs/2611.11941)|null|
-|**2026-11-06**|**On Agentic Manipulation Policies**|Vladlen Koltun Team|[2611.09892](http://arxiv.org/abs/2611.09892)|null|
-|**2026-11-06**|**FlowMoP: Stochastic Multi-Person Motion Prediction**|Alexander Schwing Team|[2611.09882](http://arxiv.org/abs/2611.09882)|null|
+|**2026-11-06**|**On Agentic Manipulation Policies**|Vladlen Koltun Team|[2611.09892](http://arxiv.org/abs/2611.09892)|**[link](https://github.com/zszszszsz/.config)|
+|**2026-11-06**|**FlowMoP: Stochastic Multi-Person Motion Prediction**|Alexander Schwing Team|[2611.09882](http://arxiv.org/abs/2611.09882)|**[link](https://github.com/aadya-agrawal/FlowMoP)|
 |**2026-11-06**|**Flow-Guided Target-Space Alignment via Path Consistency**|Lu Tang Team|[2611.09863](http://arxiv.org/abs/2611.09863)|null|
 |**2026-11-06**|**PoseRieFlow: Riemannian Flow Matching for Whole-Body Text-to-Pose Generation**|Reinhard Klein Team|[2611.09692](http://arxiv.org/abs/2611.09692)|null|
 |**2026-11-06**|**RainFlow: Flow Matching for Infrared-Only Quantitative Precipitation Estimation**|Nicolas Viltard Team|[2611.09663](http://arxiv.org/abs/2611.09663)|null|
@@ -76,7 +76,7 @@ layout: default
 |**2026-11-06**|**MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning**|Dmitry Berenson Team|[2611.09293](http://arxiv.org/abs/2611.09293)|null|
 |**2026-11-06**|**EGT: Execution-Grounded Traversability through Learned Closed-Loop Trajectory Distributions**|Arun Kumar Singh Team|[2611.09270](http://arxiv.org/abs/2611.09270)|null|
 |**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Jiajun Wu Team|[2611.09036](http://arxiv.org/abs/2611.09036)|null|
-|**2026-11-06**|**Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents**|Wenping Wang Team|[2611.08946](http://arxiv.org/abs/2611.08946)|null|
+|**2026-11-06**|**Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents**|Wenping Wang Team|[2611.08946](http://arxiv.org/abs/2611.08946)|**[link](https://github.com/flex-rsi/flex-rsi.github.io)|
 |**2026-11-06**|**RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation**|Renjing Xu Team|[2611.08939](http://arxiv.org/abs/2611.08939)|null|
 |**2026-11-05**|**Not All Latents Are Equal: Importance-Weighted Latent Graph Generation**|Harry Shomer Team|[2611.08788](http://arxiv.org/abs/2611.08788)|null|
 |**2026-11-05**|**ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding**|Mehmet Fatih Amasyali Team|[2611.08669](http://arxiv.org/abs/2611.08669)|null|
@@ -103,7 +103,7 @@ layout: default
 |**2026-11-05**|**XM4D: 4D Reconstruction through Certifiable Geometric Optimization**|Heng Yang Team|[2611.07902](http://arxiv.org/abs/2611.07902)|null|
 |**2026-11-05**|**Structure from Collision via Hypothesis-Space Reasoning**|Takuhiro Kaneko Team|[2611.07900](http://arxiv.org/abs/2611.07900)|null|
 |**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Nathan F. Lepora Team|[2611.07881](http://arxiv.org/abs/2611.07881)|null|
-|**2026-11-05**|**Estimating Spectrum-Free Information Bounds for Generative Surrogates Beyond Conditional Collapse**|Sourabh Dube Team|[2611.07826](http://arxiv.org/abs/2611.07826)|null|
+|**2026-11-05**|**Estimating Spectrum-Free Information Bounds for Generative Surrogates Beyond Conditional Collapse**|Sourabh Dube Team|[2611.07826](http://arxiv.org/abs/2611.07826)|**[link](https://github.com/NotArsenic/Estimating-Spectrum-Free-Information-Bounds-for-Generative-Surrogates-Beyond-Conditional-Collapse)|
 |**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Ziwei Liu Team|[2611.06918](http://arxiv.org/abs/2611.06918)|**[link](https://github.com/EvolvingLMMs-Lab/NEO/tree/main/VLAKit)**|
 |**2026-11-04**|**Rethinking Self-Repair in Code-as-Policy Agents: What Drives Retry Success?**|Ayushman Singh Team|[2611.06863](http://arxiv.org/abs/2611.06863)|null|
 |**2026-11-04**|**Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos**|Noah Snavely Team|[2611.06849](http://arxiv.org/abs/2611.06849)|null|
@@ -326,10 +326,10 @@ layout: default
 |**2026-10-20**|**HATCH: Hardware-Attested Task Chains for Verifiable Manipulation**|Shiza Charania Team|[2610.27485](http://arxiv.org/abs/2610.27485)|**[link](https://github.com/shizacharania/hatch-benchmark)**|
 |**2026-10-19**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Yan Chang Team|[2610.26854](http://arxiv.org/abs/2610.26854)|null|
 |**2026-10-19**|**GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation**|Chen Wang Team|[2610.26846](http://arxiv.org/abs/2610.26846)|null|
-|**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Ning Ding Team|[2610.26765](http://arxiv.org/abs/2610.26765)|null|
+|**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Ning Ding Team|[2610.26765](http://arxiv.org/abs/2610.26765)|**[link](https://github.com/TsinghuaC3I/HandsOn)|
 |**2026-10-19**|**Robot Learning with Vision-Language-Action Models for Agricultural Manipulation**|Mohammadreza Davoodi Team|[2610.26717](http://arxiv.org/abs/2610.26717)|null|
 |**2026-10-19**|**From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swapping**|Hao Chen Team|[2610.26681](http://arxiv.org/abs/2610.26681)|null|
-|**2026-10-19**|**Dual-Scale Condition-Shift Editing for Robust Real-World Image Demoiréing**|Jingyong Su Team|[2610.26644](http://arxiv.org/abs/2610.26644)|null|
+|**2026-10-19**|**Dual-Scale Condition-Shift Editing for Robust Real-World Image Demoiréing**|Jingyong Su Team|[2610.26644](http://arxiv.org/abs/2610.26644)|**[link](https://github.com/Clausy9/DemoireEdit)|
 |**2026-10-19**|**HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control**|Zhengping Che Team|[2610.26584](http://arxiv.org/abs/2610.26584)|null|
 |**2026-10-19**|**DenseHap: Dense Hand Haptic Estimation from Monocular Images**|Rolandos Alexandros Potamias Team|[2610.26583](http://arxiv.org/abs/2610.26583)|null|
 |**2026-10-19**|**ALIGN: Aligning Condition Estimation and Expression in Advantage-Conditioned Behavior Cloning**|Qian Zhu Team|[2610.26455](http://arxiv.org/abs/2610.26455)|null|
@@ -337,7 +337,7 @@ layout: default
 |**2026-10-19**|**PhantomTac: Hijacking Robotic Tactile Systems with Deploy-and-forget Tags**|Dongyao Chen Team|[2610.26174](http://arxiv.org/abs/2610.26174)|null|
 |**2026-10-19**|**A Matlab/Octave package for photometric stereo 3D reconstruction**|Giuseppe Rodriguez Team|[2610.26162](http://arxiv.org/abs/2610.26162)|null|
 |**2026-10-19**|**DeOverlay: A Benchmark and Source-Anchored Flow for Video Overlay Removal**|Xin Li Team|[2610.26081](http://arxiv.org/abs/2610.26081)|null|
-|**2026-10-19**|**OmniInteract: Towards Unified Whole-Body Interaction Control for Dual Humanoids**|Wei-Shi Zheng Team|[2610.26043](http://arxiv.org/abs/2610.26043)|null|
+|**2026-10-19**|**OmniInteract: Towards Unified Whole-Body Interaction Control for Dual Humanoids**|Wei-Shi Zheng Team|[2610.26043](http://arxiv.org/abs/2610.26043)|**[link](https://github.com/calvinyhli/omniinteract.github.io)|
 |**2026-10-19**|**PnP-CF: A Consensus Flow-Matching Solver for General Inverse Problems**|Magda Gregorova Team|[2610.26000](http://arxiv.org/abs/2610.26000)|null|
 |**2026-10-19**|**PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models**|Jinwoo Shin Team|[2610.25961](http://arxiv.org/abs/2610.25961)|null|
 |**2026-10-19**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Kyoung Mu Lee Team|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
@@ -604,18 +604,18 @@ layout: default
 |**2026-09-29**|**Direct Experience World-Model Optimization: Learning the World Beyond Action Imitation**|Shuo Yang Team|[2609.37398](http://arxiv.org/abs/2609.37398)|null|
 |**2026-09-29**|**DROM: A Language-Guided Diffusion Framework for Multi-Skill Robotic Manipulation**|Anna Valente Team|[2609.37348](http://arxiv.org/abs/2609.37348)|null|
 |**2026-09-29**|**Remember What You Did: Action-History Memory with Dual-Expert Denoising for Long-Horizon Vision-Language-Action Policies**|Zhongliang Jiang Team|[2609.37307](http://arxiv.org/abs/2609.37307)|null|
-|**2026-09-28**|**DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations**|Sirui Han Team|[2609.35761](http://arxiv.org/abs/2609.35761)|null|
+|**2026-09-28**|**DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations**|Sirui Han Team|[2609.35761](http://arxiv.org/abs/2609.35761)|**[link](https://github.com/zhourui9813/DexRoam)|
 |**2026-09-28**|**InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video**|Junting Dong Team|[2609.35743](http://arxiv.org/abs/2609.35743)|null|
 |**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Wei Zhan Team|[2609.35715](http://arxiv.org/abs/2609.35715)|null|
 |**2026-09-28**|**Lagrangian--Hamiltonian Flows for Video Prediction and Image Generation: A Symplectic Perspective**|Jiawei Hu Team|[2609.35710](http://arxiv.org/abs/2609.35710)|null|
 |**2026-09-28**|**FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching**|Viet Lai Team|[2609.35673](http://arxiv.org/abs/2609.35673)|null|
 |**2026-09-28**|**Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras**|Chenchi Luo Team|[2609.35658](http://arxiv.org/abs/2609.35658)|null|
-|**2026-09-28**|**Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering**|Zhenwei Shi Team|[2609.35612](http://arxiv.org/abs/2609.35612)|null|
+|**2026-09-28**|**Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering**|Zhenwei Shi Team|[2609.35612](http://arxiv.org/abs/2609.35612)|**[link](https://github.com/kanehub/DIBR-GS)|
 |**2026-09-28**|**Less Is More: Genetic Frame Selection for Efficient Novel View Synthesis**|Peter Wonka Team|[2609.35573](http://arxiv.org/abs/2609.35573)|null|
-|**2026-09-28**|**Simplex Diffusion Models**|Valentin De Bortoli Team|[2609.35553](http://arxiv.org/abs/2609.35553)|null|
-|**2026-09-28**|**Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching**|Mengdi Xu Team|[2609.35469](http://arxiv.org/abs/2609.35469)|null|
+|**2026-09-28**|**Simplex Diffusion Models**|Valentin De Bortoli Team|[2609.35553](http://arxiv.org/abs/2609.35553)|**[link](https://github.com/Julian-Wyatt/AnoDDPM)|
+|**2026-09-28**|**Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching**|Mengdi Xu Team|[2609.35469](http://arxiv.org/abs/2609.35469)|**[link](https://github.com/ChenyuZhangX/CausalActionTokenizer)|
 |**2026-09-28**|**Manifold-Stable Flow Matching**|Jianguo Zhao Team|[2609.35454](http://arxiv.org/abs/2609.35454)|null|
-|**2026-09-28**|**From Pixel to Poses: Object-centric Tool Manipulation Learning from Human Demonstrations**|Hongyang Li Team|[2609.35375](http://arxiv.org/abs/2609.35375)|null|
+|**2026-09-28**|**From Pixel to Poses: Object-centric Tool Manipulation Learning from Human Demonstrations**|Hongyang Li Team|[2609.35375](http://arxiv.org/abs/2609.35375)|**[link](https://github.com/OpenDriveLab/P2P-T)|
 |**2026-09-28**|**DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library**|Huang Huang Team|[2609.35318](http://arxiv.org/abs/2609.35318)|null|
 |**2026-09-28**|**RoGSW4RLD: Feed-Forward 4D Gaussian Lifting for Robot World Model Rollouts**|Daekyum Kim Team|[2609.35311](http://arxiv.org/abs/2609.35311)|null|
 |**2026-09-28**|**Spatial Grafting: Grounding 3D Features for Flow-Matching Robot Policies**|Yingxue Zhang Team|[2609.35249](http://arxiv.org/abs/2609.35249)|null|
