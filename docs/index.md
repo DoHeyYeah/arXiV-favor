@@ -2,13 +2,30 @@
 layout: default
 ---
 
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Potential Flow, Stress, and Straightness in Flow Matching: Euler Error on Gaussian-Mixture Targets**|Jie Xu Team|[2611.18343](http://arxiv.org/abs/2611.18343)|null|
+|**2026-11-13**|**Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**|Yifan Zhu Team|[2611.18298](http://arxiv.org/abs/2611.18298)|null|
+|**2026-11-13**|**TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields**|Nicola Garau Team|[2611.18267](http://arxiv.org/abs/2611.18267)|null|
+|**2026-11-13**|**Atlas-DeePC: Learning Behavioral Atlases for Predictive Control**|Jeremy Coulson Team|[2611.18266](http://arxiv.org/abs/2611.18266)|null|
+|**2026-11-13**|**EcoVGGT: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos**|Ahmed Sayed Team|[2611.18099](http://arxiv.org/abs/2611.18099)|null|
+|**2026-11-13**|**TelePhysica: Agentic Reconstruction of Physically Interactive Scenes**|Xuelong Li Team|[2611.18078](http://arxiv.org/abs/2611.18078)|null|
+|**2026-11-13**|**Vessel2Brain: Edge-Aware Multi-Scale Flow Matching for 3D Brain Image Generation from Vessel Masks**|Le Zhang Team|[2611.17919](http://arxiv.org/abs/2611.17919)|null|
+|**2026-11-13**|**More Genes, Faster Inference: Efficient Large-Panel Spatial Transcriptomics Prediction from Histology**|Jinyan Li Team|[2611.17899](http://arxiv.org/abs/2611.17899)|null|
+|**2026-11-13**|**Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models**|Yong-Jin Liu Team|[2611.17775](http://arxiv.org/abs/2611.17775)|null|
+|**2026-11-13**|**Learning Anisotropic Prediction Targets for Flow Models**|Leonidas Guibas Team|[2611.17767](http://arxiv.org/abs/2611.17767)|null|
+|**2026-11-13**|**VACO: Vertex-Aligned Decoding for Dense Hand Contact Estimation from a Single Image**|Chunhua Shen Team|[2611.17755](http://arxiv.org/abs/2611.17755)|null|
+|**2026-11-13**|**Imitation Policies Learn a Proprioceptive Anchor: A Predictive Law for Perception Noise and Its Closed Loop Cost**|Christopher Malili Team|[2611.17658](http://arxiv.org/abs/2611.17658)|null|
+|**2026-11-13**|**On the Utility of Pre-Trained Visual Representations for Policy Learning of Contact-Rich Insertion Tasks**|Michael Posa Team|[2611.17631](http://arxiv.org/abs/2611.17631)|null|
+|**2026-11-13**|**Finite speed Ornstein-Uhlenbeck-Kac processes and their applications in generative modeling**|Gabriele Steidl Team|[2611.17625](http://arxiv.org/abs/2611.17625)|null|
+|**2026-11-13**|**TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real**|Zhiwen Fan Team|[2611.17619](http://arxiv.org/abs/2611.17619)|null|
+|**2026-11-12**|**Grounding Object-to-Object Hazard Reasoning into 3D Risk Fields for Task-Conditioned Safety**|Hsiu-Chin Lin Team|[2611.17566](http://arxiv.org/abs/2611.17566)|null|
+|**2026-11-12**|**Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training**|Xinlei Chen Team|[2611.17394](http://arxiv.org/abs/2611.17394)|null|
 |**2026-11-12**|**BrickFlow: Connectivity-Guided Brick Reconstruction**|Cordelia Schmid Team|[2611.17321](http://arxiv.org/abs/2611.17321)|null|
 |**2026-11-12**|**Manifold Attracting Flow Matching: Physics-Constrained Sampling via Continuous Geometric Dynamics**|Dong Ni Team|[2611.16677](http://arxiv.org/abs/2611.16677)|null|
 |**2026-11-12**|**Machine Learning for Scalable Multi-AP Coordination in IEEE 802.11bn Networks**|Szymon Szott Team|[2611.16634](http://arxiv.org/abs/2611.16634)|null|
@@ -766,9 +783,11 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners**|Matyas Szanto Team|[2611.18491](http://arxiv.org/abs/2611.18491)|**[link](https://github.com/mkhoshnam/Selfplay-PPO-handover)**|
+|**2026-11-13**|**Multimodal Person Concept Model for Person Identification under Varying Observation Conditions**|Yoshinobu Hagiwara Team|[2611.17802](http://arxiv.org/abs/2611.17802)|null|
 |**2026-11-12**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Zhijie Deng Team|[2611.17110](http://arxiv.org/abs/2611.17110)|null|
 |**2026-11-12**|**EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming**|Ding Zhao Team|[2611.16728](http://arxiv.org/abs/2611.16728)|null|
-|**2026-11-12**|**VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation**|Lin Shao Team|[2611.16423](http://arxiv.org/abs/2611.16423)|null|
+|**2026-11-13**|**VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation**|Lin Shao Team|[2611.16423](http://arxiv.org/abs/2611.16423)|null|
 |**2026-11-12**|**ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder**|Lin Shao Team|[2611.16374](http://arxiv.org/abs/2611.16374)|null|
 |**2026-11-11**|**From a Single RGB Image to Robot Execution: Metric Scene Alignment and Contact-Guided Retargeting**|Wenhao Cui Team|[2611.14981](http://arxiv.org/abs/2611.14981)|null|
 |**2026-11-10**|**From Egocentric Human Video to Robot Manipulation in the Era of Embodied Intelligence**|Lap-Pui Chau Team|[2611.13610](http://arxiv.org/abs/2611.13610)|null|
