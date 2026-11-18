@@ -1,4 +1,4 @@
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**LynnReal-Hand: Unlocking World Interaction with Hand Control**|Weijie Ma Team|[2611.21479](http://arxiv.org/abs/2611.21479)|null|
+|**2026-11-16**|**Comments on "Deep Fréchet Regression"**|Anru R. Zhang Team|[2611.21454](http://arxiv.org/abs/2611.21454)|null|
+|**2026-11-16**|**Safe Physical Interaction of All-Electric Heavy-Duty Robotic Manipulators via Control Barrier Functions and Variable Impedance Control**|Jouni Mattila Team|[2611.21309](http://arxiv.org/abs/2611.21309)|null|
+|**2026-11-16**|**Déjà-Events: Multi-view 3D Geometry with Event Cameras via Sparsity-Aware Adaptive Gating**|Sunghwan Hong Team|[2611.21302](http://arxiv.org/abs/2611.21302)|null|
+|**2026-11-16**|**QuantileGS: Quantile-Based Conformal Bounds on RGB Rendering Errors for Novel View Synthesis with 3D Gaussian Splatting**|Zhenwei Shi Team|[2611.21253](http://arxiv.org/abs/2611.21253)|null|
+|**2026-11-16**|**ReuseMem: One Memory, Multiple Goals in Robot Manipulation**|Dongchul Park Team|[2611.21115](http://arxiv.org/abs/2611.21115)|null|
+|**2026-11-16**|**MetricHand: Geometry-Aware Flow Matching for 4D Hand Reconstruction in Metric World Space**|Jinsheng Deng Team|[2611.21060](http://arxiv.org/abs/2611.21060)|null|
+|**2026-11-16**|**FlowRow: Learning Navigation Behaviors in Agricultural Environments with Long-Horizon Goal-Conditioned Flow Matching Policies**|Stéphanie Aravecchia Team|[2611.21035](http://arxiv.org/abs/2611.21035)|null|
+|**2026-11-16**|**FAVR: Flow-Aware Visual Residual Alignment for Vision-Language-Action Policies**|Baochang Zhang Team|[2611.20971](http://arxiv.org/abs/2611.20971)|null|
+|**2026-11-16**|**TacBridge: Learning Unified Tactile Representations through Cross-Sensor Correspondence**|Guanqun Cao Team|[2611.20939](http://arxiv.org/abs/2611.20939)|null|
+|**2026-11-16**|**Multi-Rate Flow Matching for Point Cloud Upsampling**|Duy Nguyen Team|[2611.20879](http://arxiv.org/abs/2611.20879)|null|
+|**2026-11-16**|**VA-Assembly: View-Aligned Score Guidance for Training-Free 3D Part Assembly**|Byung-Kwon Min Team|[2611.20788](http://arxiv.org/abs/2611.20788)|null|
+|**2026-11-16**|**TaF-Foundation: Wrench-Grounded Cross-Sensor Tactile Representations**|Ziyuan Jiao Team|[2611.20718](http://arxiv.org/abs/2611.20718)|null|
+|**2026-11-16**|**Efficient Multi-View Generation with Iterative Global-Local Proxy Attention**|Lei Xie Team|[2611.20703](http://arxiv.org/abs/2611.20703)|null|
+|**2026-11-16**|**SiGMA: Site-Grounded Multi-Modal ISAC Data Generation for Environment-Aware Communications**|Khaled B. Letaief Team|[2611.20665](http://arxiv.org/abs/2611.20665)|null|
+|**2026-11-16**|**Pointillist Maize: 3D Reconstruction of Field-Grown Maize Using RGB UAV Imagery**|Toni Kazic Team|[2611.20502](http://arxiv.org/abs/2611.20502)|null|
+|**2026-11-16**|**Lift, See, Act: Hierarchical Robot Policy Pretraining with 3D Foundation Models**|Xiangmin Xu Team|[2611.20481](http://arxiv.org/abs/2611.20481)|null|
+|**2026-11-16**|**Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models**|Christos Ziakas Team|[2611.20460](http://arxiv.org/abs/2611.20460)|null|
+|**2026-11-16**|**Generative AI-Driven Parametric Design Optimization Framework for Vehicle Closure Systems**|Namwoo Kang Team|[2611.20451](http://arxiv.org/abs/2611.20451)|null|
+|**2026-11-16**|**Joint Antenna Positioning and Dynamic Beam Tracking for MA-Enabled Full-Duplex Secure ISAC Systems: A Flow Matching DRL Approach**|Wen Chen Team|[2611.20439](http://arxiv.org/abs/2611.20439)|null|
 |**2026-11-13**|**Potential Flow, Stress, and Straightness in Flow Matching: Euler Error on Gaussian-Mixture Targets**|Jie Xu Team|[2611.18343](http://arxiv.org/abs/2611.18343)|null|
 |**2026-11-13**|**Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**|Yifan Zhu Team|[2611.18298](http://arxiv.org/abs/2611.18298)|null|
 |**2026-11-13**|**TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields**|Nicola Garau Team|[2611.18267](http://arxiv.org/abs/2611.18267)|null|
@@ -783,15 +803,17 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**ROSE: A Shared Cross-Embodiment Facial-Motion Latent Space for Humanoid Robot Expression**|Guanqun Cao Team|[2611.20950](http://arxiv.org/abs/2611.20950)|null|
+|**2026-11-15**|**JEPA4R: Embodied JEPA World Models with 4D Point Planning**|Hao Tang Team|[2611.19771](http://arxiv.org/abs/2611.19771)|**[link](https://github.com/AIGeeksGroup/JEPA4R)**|
 |**2026-11-13**|**When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners**|Matyas Szanto Team|[2611.18491](http://arxiv.org/abs/2611.18491)|**[link](https://github.com/mkhoshnam/Selfplay-PPO-handover)**|
 |**2026-11-13**|**Multimodal Person Concept Model for Person Identification under Varying Observation Conditions**|Yoshinobu Hagiwara Team|[2611.17802](http://arxiv.org/abs/2611.17802)|null|
-|**2026-11-12**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Zhijie Deng Team|[2611.17110](http://arxiv.org/abs/2611.17110)|null|
+|**2026-11-15**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Zhijie Deng Team|[2611.17110](http://arxiv.org/abs/2611.17110)|null|
 |**2026-11-12**|**EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming**|Ding Zhao Team|[2611.16728](http://arxiv.org/abs/2611.16728)|null|
 |**2026-11-13**|**VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation**|Lin Shao Team|[2611.16423](http://arxiv.org/abs/2611.16423)|null|
 |**2026-11-12**|**ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder**|Lin Shao Team|[2611.16374](http://arxiv.org/abs/2611.16374)|null|
@@ -957,5 +979,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
