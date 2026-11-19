@@ -1,4 +1,4 @@
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation**|Wenchao Xu Team|[2611.23143](http://arxiv.org/abs/2611.23143)|null|
+|**2026-11-17**|**Correcting Flows with Marginal Matching**|Aviv Tamar Team|[2611.23134](http://arxiv.org/abs/2611.23134)|null|
+|**2026-11-17**|**Refin3R: Geometry-Guided Refinement for Feed-Forward 3D Reconstruction**|Seungryong Kim Team|[2611.23051](http://arxiv.org/abs/2611.23051)|null|
+|**2026-11-17**|**When Anchors Shift the Target: Advantage-Gated Adaptation for Diffusion Reinforcement Learning**|Lu Yang Team|[2611.23038](http://arxiv.org/abs/2611.23038)|null|
+|**2026-11-17**|**Physics-Informed Tactile-based Shape Estimation of Deformable Linear Objects**|Avishai Sintov Team|[2611.22990](http://arxiv.org/abs/2611.22990)|null|
+|**2026-11-17**|**Sideslip-Conditioned Drift Trajectory Planning with Flow Matching and Control Barrier Functions**|Seung-Hyun Kong Team|[2611.22927](http://arxiv.org/abs/2611.22927)|null|
+|**2026-11-17**|**Path-Aligned Constraint Equivariance**|Yuanxi Peng Team|[2611.22873](http://arxiv.org/abs/2611.22873)|null|
+|**2026-11-17**|**Sub-Meter Canopy Height Synthesis from Sentinel-2 via Anchored Residual Flow**|Guy C Bayes Team|[2611.22636](http://arxiv.org/abs/2611.22636)|null|
+|**2026-11-17**|**Back to Mel: Learning to Bridge Fidelity and Perception in Generative Speech Enhancement**|Chengshi Zheng Team|[2611.22628](http://arxiv.org/abs/2611.22628)|null|
+|**2026-11-17**|**VLM-guided Grounding Expert for Generalised Referring Expression Comprehension**|Yang Gao Team|[2611.22625](http://arxiv.org/abs/2611.22625)|null|
+|**2026-11-17**|**Task Convergent Flow Matching for Generative Robotics**|Cosimo Della Santina Team|[2611.22609](http://arxiv.org/abs/2611.22609)|null|
+|**2026-11-17**|**InteractVLA: Turning VLAs into Interactive Tools for Agentic Robotic Manipulation**|Jing Zhang Team|[2611.22584](http://arxiv.org/abs/2611.22584)|null|
+|**2026-11-17**|**Physically Admissible Generative Flow Matching for Sparse Flow Reconstruction**|Yuanxi Peng Team|[2611.22549](http://arxiv.org/abs/2611.22549)|null|
+|**2026-11-17**|**Equivariant Flow Matching on Homogeneous Spaces**|Gijs Bellaard Team|[2611.22492](http://arxiv.org/abs/2611.22492)|null|
+|**2026-11-17**|**Progress Predicts Policy**|Gim Hee Lee Team|[2611.22491](http://arxiv.org/abs/2611.22491)|null|
+|**2026-11-17**|**SpatialMind: Adaptive Multi-Level Geometric Fusion for Spatial Reasoning in Multimodal Large Language Models**|Jinqiao Wang Team|[2611.22415](http://arxiv.org/abs/2611.22415)|**[link](https://github.com/zhaosb-star/SpatialMind)**|
+|**2026-11-17**|**CoBoVLA: Decoupling Language from Action with Discrete Codes for Robust and Interpretable Robot Manipulation**|Ambuj Agrawal Team|[2611.22395](http://arxiv.org/abs/2611.22395)|null|
+|**2026-11-17**|**Inertial Video World Models**|Xiaomeng Huang Team|[2611.22314](http://arxiv.org/abs/2611.22314)|null|
+|**2026-11-17**|**Towards Physics-Constrained Rectified Flow for Climate Downscaling: What Projections Can Certify?**|Arun Sharma Team|[2611.22283](http://arxiv.org/abs/2611.22283)|null|
+|**2026-11-17**|**ST-FateFlow: Continuous Gene-Spatial Reconstruction with Differentiation-Potential Learning from Time-Resolved Spatial Transcriptomics**|Hao Wu Team|[2611.22256](http://arxiv.org/abs/2611.22256)|null|
 |**2026-11-16**|**LynnReal-Hand: Unlocking World Interaction with Hand Control**|Weijie Ma Team|[2611.21479](http://arxiv.org/abs/2611.21479)|null|
 |**2026-11-16**|**Comments on "Deep Fréchet Regression"**|Anru R. Zhang Team|[2611.21454](http://arxiv.org/abs/2611.21454)|null|
 |**2026-11-16**|**Safe Physical Interaction of All-Electric Heavy-Duty Robotic Manipulators via Control Barrier Functions and Variable Impedance Control**|Jouni Mattila Team|[2611.21309](http://arxiv.org/abs/2611.21309)|null|
@@ -803,18 +823,21 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Plenty to FRET About: From Hazard Analysis to Formal Requirements for Robot-Assisted Dressing**|Marie Farrell Team|[2611.22399](http://arxiv.org/abs/2611.22399)|null|
+|**2026-11-17**|**Where Do Human-to-Robot Transfer Gains Come From?**|Zhuo Xu Team|[2611.22302](http://arxiv.org/abs/2611.22302)|null|
+|**2026-11-16**|**From Human Videos to Bimanual Dexterous Manipulation Data: Confidence-Guided RL Refinement of Video Priors**|Wei Zhan Team|[2611.21908](http://arxiv.org/abs/2611.21908)|null|
 |**2026-11-16**|**ROSE: A Shared Cross-Embodiment Facial-Motion Latent Space for Humanoid Robot Expression**|Guanqun Cao Team|[2611.20950](http://arxiv.org/abs/2611.20950)|null|
 |**2026-11-15**|**JEPA4R: Embodied JEPA World Models with 4D Point Planning**|Hao Tang Team|[2611.19771](http://arxiv.org/abs/2611.19771)|**[link](https://github.com/AIGeeksGroup/JEPA4R)**|
 |**2026-11-13**|**When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners**|Matyas Szanto Team|[2611.18491](http://arxiv.org/abs/2611.18491)|**[link](https://github.com/mkhoshnam/Selfplay-PPO-handover)**|
 |**2026-11-13**|**Multimodal Person Concept Model for Person Identification under Varying Observation Conditions**|Yoshinobu Hagiwara Team|[2611.17802](http://arxiv.org/abs/2611.17802)|null|
 |**2026-11-15**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Zhijie Deng Team|[2611.17110](http://arxiv.org/abs/2611.17110)|null|
-|**2026-11-12**|**EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming**|Ding Zhao Team|[2611.16728](http://arxiv.org/abs/2611.16728)|null|
+|**2026-11-17**|**EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming**|Ding Zhao Team|[2611.16728](http://arxiv.org/abs/2611.16728)|null|
 |**2026-11-13**|**VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation**|Lin Shao Team|[2611.16423](http://arxiv.org/abs/2611.16423)|null|
 |**2026-11-12**|**ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder**|Lin Shao Team|[2611.16374](http://arxiv.org/abs/2611.16374)|null|
 |**2026-11-11**|**From a Single RGB Image to Robot Execution: Metric Scene Alignment and Contact-Guided Retargeting**|Wenhao Cui Team|[2611.14981](http://arxiv.org/abs/2611.14981)|null|
@@ -979,5 +1002,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
 
