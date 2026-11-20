@@ -1,4 +1,4 @@
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models**|Dongbin Zhao Team|[2611.24938](http://arxiv.org/abs/2611.24938)|null|
+|**2026-11-18**|**Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation**|Yuke Zhu Team|[2611.24926](http://arxiv.org/abs/2611.24926)|null|
+|**2026-11-18**|**Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance**|Nicolas Obin Team|[2611.24862](http://arxiv.org/abs/2611.24862)|null|
+|**2026-11-18**|**DiWALI: Diffusion Policy Learning in World Models via Latent Action Inference from Human and Robot Play**|Abhinav Valada Team|[2611.24836](http://arxiv.org/abs/2611.24836)|null|
+|**2026-11-18**|**HINT-WAM: Hindsight-Informed Training for World Action Models**|Xinchao Wang Team|[2611.24789](http://arxiv.org/abs/2611.24789)|null|
+|**2026-11-18**|**Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics**|Peijie Zhou Team|[2611.24764](http://arxiv.org/abs/2611.24764)|null|
+|**2026-11-18**|**SHAPE: Discrete Supervision and Parallel Continuous Streams for Learning Dexterous Manipulation from Egocentric Human Data**|Zhijie Deng Team|[2611.24585](http://arxiv.org/abs/2611.24585)|null|
+|**2026-11-18**|**TinyARM-X: A Series of Open-Source, Configurable, and Transparent Torque-Controlled Desktop-Scale Robotic Manipulators**|Jean Chagas Vaz Team|[2611.24554](http://arxiv.org/abs/2611.24554)|null|
+|**2026-11-18**|**Where Should a Diffusion Transformer Meet Its Teacher?**|Ruixuan Li Team|[2611.24380](http://arxiv.org/abs/2611.24380)|null|
+|**2026-11-18**|**Hardware Acceleration of Vision-Language-Action Models with Weight Precision Rising over the Flow Steps**|Marian Verhelst Team|[2611.24234](http://arxiv.org/abs/2611.24234)|null|
+|**2026-11-18**|**ART: Bridging the Embodiment Gap in 3D Human-to-Robot Affordance Transfer**|Yu Kang Team|[2611.24182](http://arxiv.org/abs/2611.24182)|null|
+|**2026-11-18**|**Micrograph B-factor estimation via Wilson statistics**|Amit Singer Team|[2611.24150](http://arxiv.org/abs/2611.24150)|null|
+|**2026-11-18**|**JEPA Dots: Dual-Latent World Model for Language-Guided Robot Control**|Luhui Hu Team|[2611.24062](http://arxiv.org/abs/2611.24062)|null|
+|**2026-11-18**|**Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes**|Yuan Xie Team|[2611.24007](http://arxiv.org/abs/2611.24007)|null|
+|**2026-11-18**|**ReliFlow: Reliability-Calibrated Residual Transport for Combinatorial Single-Cell Perturbation Prediction**|Yun Peng Team|[2611.23999](http://arxiv.org/abs/2611.23999)|null|
+|**2026-11-18**|**3DTouch: A Tactile-aware VLA Model with 3D Geometric Relations for Dexterous Manipulation**|Yanyong Zhang Team|[2611.23961](http://arxiv.org/abs/2611.23961)|null|
+|**2026-11-18**|**LAGR: Language-Aware Grasp Re-Ranking for Task Oriented Grasping**|Aniket Bera Team|[2611.23858](http://arxiv.org/abs/2611.23858)|null|
+|**2026-11-18**|**RePlan-VLA: Progress-Aware Replanning for Long-Horizon Vision-Language-Action Models**|Aniket Bera Team|[2611.23843](http://arxiv.org/abs/2611.23843)|null|
+|**2026-11-18**|**CoT-WAM: Collaborative Training of Vision-Language Models and World-Action Models via Plan Latents**|Minglei Li Team|[2611.23803](http://arxiv.org/abs/2611.23803)|null|
+|**2026-11-18**|**Geometry-bridge flow matching for blind rigid-motion correction in head cone-beam CT**|Seungryong Cho Team|[2611.23788](http://arxiv.org/abs/2611.23788)|null|
 |**2026-11-17**|**TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation**|Wenchao Xu Team|[2611.23143](http://arxiv.org/abs/2611.23143)|null|
 |**2026-11-17**|**Correcting Flows with Marginal Matching**|Aviv Tamar Team|[2611.23134](http://arxiv.org/abs/2611.23134)|null|
 |**2026-11-17**|**Refin3R: Geometry-Guided Refinement for Feed-Forward 3D Reconstruction**|Seungryong Kim Team|[2611.23051](http://arxiv.org/abs/2611.23051)|null|
@@ -823,12 +843,20 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**DiWALI: Diffusion Policy Learning in World Models via Latent Action Inference from Human and Robot Play**|Abhinav Valada Team|[2611.24836](http://arxiv.org/abs/2611.24836)|null|
+|**2026-11-18**|**HandWorldBench: A Unified Benchmark for Hand-Centric World Models**|Zhibo Chen Team|[2611.24731](http://arxiv.org/abs/2611.24731)|null|
+|**2026-11-18**|**SHAPE: Discrete Supervision and Parallel Continuous Streams for Learning Dexterous Manipulation from Egocentric Human Data**|Zhijie Deng Team|[2611.24585](http://arxiv.org/abs/2611.24585)|null|
+|**2026-11-18**|**ART: Bridging the Embodiment Gap in 3D Human-to-Robot Affordance Transfer**|Yu Kang Team|[2611.24182](http://arxiv.org/abs/2611.24182)|null|
+|**2026-11-18**|**Ego2X: Contact-aware Transfer from Egocentric Human Data to Any Robot**|Zhicheng Wang Team|[2611.24138](http://arxiv.org/abs/2611.24138)|null|
+|**2026-11-18**|**3DTouch: A Tactile-aware VLA Model with 3D Geometric Relations for Dexterous Manipulation**|Yanyong Zhang Team|[2611.23961](http://arxiv.org/abs/2611.23961)|null|
+|**2026-11-18**|**HOForce: Motion and Force Reconstruction of Hand-Object Interaction Using a Single-View RGB-D Video**|Feng Xu Team|[2611.23871](http://arxiv.org/abs/2611.23871)|null|
+|**2026-11-18**|**Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need**|Glen Berseth Team|[2611.23676](http://arxiv.org/abs/2611.23676)|null|
 |**2026-11-17**|**Plenty to FRET About: From Hazard Analysis to Formal Requirements for Robot-Assisted Dressing**|Marie Farrell Team|[2611.22399](http://arxiv.org/abs/2611.22399)|null|
 |**2026-11-17**|**Where Do Human-to-Robot Transfer Gains Come From?**|Zhuo Xu Team|[2611.22302](http://arxiv.org/abs/2611.22302)|null|
 |**2026-11-16**|**From Human Videos to Bimanual Dexterous Manipulation Data: Confidence-Guided RL Refinement of Video Priors**|Wei Zhan Team|[2611.21908](http://arxiv.org/abs/2611.21908)|null|
@@ -1002,5 +1030,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
