@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.11.20
+## Updated on 2026.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning**|Mike Zheng Shou Team|[2611.26617](http://arxiv.org/abs/2611.26617)|**[link](https://github.com/showlab/O2LaF)**|
+|**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Ngan Le Team|[2611.26565](http://arxiv.org/abs/2611.26565)|null|
+|**2026-11-19**|**SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention**|Pascal Fua Team|[2611.26493](http://arxiv.org/abs/2611.26493)|null|
+|**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Zhi Wang Team|[2611.26444](http://arxiv.org/abs/2611.26444)|null|
+|**2026-11-19**|**Risk-Controlled Test-Time Adaptation for Vision-Language-Action Models**|Siavash Khajavi Team|[2611.26438](http://arxiv.org/abs/2611.26438)|null|
+|**2026-11-19**|**Flow Matching from Non-Gaussian Sources: A Theory of Efficient Sampling**|Gen Li Team|[2611.26407](http://arxiv.org/abs/2611.26407)|null|
+|**2026-11-19**|**SpecFlow: Flow Matching in the Acceleration Spectrum for Multi-Agent Trajectory Forecasting**|Hai Zhou Team|[2611.26390](http://arxiv.org/abs/2611.26390)|null|
+|**2026-11-19**|**Alignment Drives Reuse: Learning Generalizable Robot-Use Agents from Heterogeneous Experience**|Liyi Zhou Team|[2611.26376](http://arxiv.org/abs/2611.26376)|null|
+|**2026-11-19**|**Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields**|Elizaveta Semenova Team|[2611.26355](http://arxiv.org/abs/2611.26355)|**[link](https://github.com/Cosmonaught/Mambaflownp)**|
+|**2026-11-19**|**OffBeat: Multicoset Sampling for 4D Capture Beyond the Camera Frame Rate**|Po-Chih Kuo Team|[2611.26347](http://arxiv.org/abs/2611.26347)|null|
+|**2026-11-19**|**Reasoning on Call: Efficient Agentic Robot Control for Long-Horizon Robot Manipulation**|Xiaoyuan Zhang Team|[2611.26341](http://arxiv.org/abs/2611.26341)|null|
+|**2026-11-19**|**FirstCross: Convex Single-Photon 3D Reconstruction from Sparse Views**|Po-Chih Kuo Team|[2611.26321](http://arxiv.org/abs/2611.26321)|null|
+|**2026-11-19**|**PhysVAM: Physics-oriented Future Value Action Model for Dynamic Object Manipulation**|Lap-Pui Chau Team|[2611.26105](http://arxiv.org/abs/2611.26105)|null|
+|**2026-11-19**|**UniVEP: Unifying Velocity and Endpoint Prediction for Robot Manipulation**|Renjing Xu Team|[2611.26103](http://arxiv.org/abs/2611.26103)|null|
+|**2026-11-19**|**Variational Trajectory Flow Matching with a Non-Linear Interpolant**|Alexandros Kalousis Team|[2611.26044](http://arxiv.org/abs/2611.26044)|null|
+|**2026-11-19**|**AGSR: Aperture-Guided Super-Resolution for Gaussian Splatting**|Christian Timmerer Team|[2611.25934](http://arxiv.org/abs/2611.25934)|null|
+|**2026-11-19**|**LIFT: Latent Flow Matching for Probabilistic Cell Fate Dynamics with Single Cell Snapshots**|Lei Zhang Team|[2611.25917](http://arxiv.org/abs/2611.25917)|null|
+|**2026-11-19**|**TrajCal: Trajectory-Calibrated Time Schedules for Few-Step Flow Sampling**|Hua Zhang Team|[2611.25847](http://arxiv.org/abs/2611.25847)|null|
+|**2026-11-19**|**CACO: Coverage-Aware Coordinated Optimization for Continuous Generative Retrieval**|Youhuan Li Team|[2611.25738](http://arxiv.org/abs/2611.25738)|null|
+|**2026-11-19**|**TipDex-VTLA: Learning When to Refine Actions with Touch for Dexterous Manipulation**|Yongchao Xu Team|[2611.25683](http://arxiv.org/abs/2611.25683)|null|
 |**2026-11-18**|**Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models**|Dongbin Zhao Team|[2611.24938](http://arxiv.org/abs/2611.24938)|null|
 |**2026-11-18**|**Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation**|Yuke Zhu Team|[2611.24926](http://arxiv.org/abs/2611.24926)|null|
 |**2026-11-18**|**Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance**|Nicolas Obin Team|[2611.24862](http://arxiv.org/abs/2611.24862)|null|
@@ -843,11 +863,12 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embodied Agents**|Xiaogang Wang Team|[2611.26519](http://arxiv.org/abs/2611.26519)|null|
 |**2026-11-18**|**DiWALI: Diffusion Policy Learning in World Models via Latent Action Inference from Human and Robot Play**|Abhinav Valada Team|[2611.24836](http://arxiv.org/abs/2611.24836)|null|
 |**2026-11-18**|**HandWorldBench: A Unified Benchmark for Hand-Centric World Models**|Zhibo Chen Team|[2611.24731](http://arxiv.org/abs/2611.24731)|null|
 |**2026-11-18**|**SHAPE: Discrete Supervision and Parallel Continuous Streams for Learning Dexterous Manipulation from Egocentric Human Data**|Zhijie Deng Team|[2611.24585](http://arxiv.org/abs/2611.24585)|null|
 |**2026-11-18**|**ART: Bridging the Embodiment Gap in 3D Human-to-Robot Affordance Transfer**|Yu Kang Team|[2611.24182](http://arxiv.org/abs/2611.24182)|null|
-|**2026-11-18**|**Ego2X: Contact-aware Transfer from Egocentric Human Data to Any Robot**|Zhicheng Wang Team|[2611.24138](http://arxiv.org/abs/2611.24138)|null|
+|**2026-11-19**|**Ego2X: Contact-aware Transfer from Egocentric Human Data to Any Robot**|Zhicheng Wang Team|[2611.24138](http://arxiv.org/abs/2611.24138)|null|
 |**2026-11-18**|**3DTouch: A Tactile-aware VLA Model with 3D Geometric Relations for Dexterous Manipulation**|Yanyong Zhang Team|[2611.23961](http://arxiv.org/abs/2611.23961)|null|
 |**2026-11-18**|**HOForce: Motion and Force Reconstruction of Hand-Object Interaction Using a Single-View RGB-D Video**|Feng Xu Team|[2611.23871](http://arxiv.org/abs/2611.23871)|null|
 |**2026-11-18**|**Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need**|Glen Berseth Team|[2611.23676](http://arxiv.org/abs/2611.23676)|null|
