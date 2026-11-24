@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Beyond Visual Fidelity: Comparing Categorical and Continuous World Models**|Katja Hofmann Team|[2611.27870](http://arxiv.org/abs/2611.27870)|null|
+|**2026-11-20**|**Diffusing the assumptions: towards realistic LISA stochastic component separation with physics-aware simulation-based inference**|Natalia Korsakova Team|[2611.27848](http://arxiv.org/abs/2611.27848)|null|
+|**2026-11-20**|**VeilGS: Solving Darkness as a Veil of 2D Basis Maps over Retinex 3DGS**|Jun Chen Team|[2611.27719](http://arxiv.org/abs/2611.27719)|null|
+|**2026-11-20**|**Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation**|Yueting Zhuang Team|[2611.27689](http://arxiv.org/abs/2611.27689)|null|
+|**2026-11-20**|**Late-Time Dynamics of Flow Matching: Distance Geometry and Learning**|Enrique Zuazua Team|[2611.27653](http://arxiv.org/abs/2611.27653)|null|
+|**2026-11-20**|**ReCoFlow-MRI: Few-Step Conditional Flow Matching for GNL-Induced Nonlinear MRI Reconstruction**|Shanshan Shan Team|[2611.27590](http://arxiv.org/abs/2611.27590)|null|
+|**2026-11-20**|**Saddle Buckling of a Multicellular Alga Driven by Differential Growth**|Raymond E. Goldstein Team|[2611.27563](http://arxiv.org/abs/2611.27563)|null|
+|**2026-11-20**|**PennyGS: Full Resolution 3DGS Training in Minutes on Consumer GPUs**|Wei Tsang Ooi Team|[2611.27525](http://arxiv.org/abs/2611.27525)|null|
+|**2026-11-20**|**Ego4Gen: Generating Geometry-Grounded Motion Tokens as a World-Action Interface**|Weiyang Lin Team|[2611.27513](http://arxiv.org/abs/2611.27513)|null|
+|**2026-11-20**|**Solar-Conditioned Flow Matching for Multitemporal Aerial Visible-to-Infrared Image Translation**|Zhenfeng Shao Team|[2611.27501](http://arxiv.org/abs/2611.27501)|null|
+|**2026-11-20**|**GenPA: Image Generators as Efficient Robot Policies**|Shengbo Eben Li Team|[2611.27446](http://arxiv.org/abs/2611.27446)|null|
+|**2026-11-20**|**BladeR: Scalable, Shape-Guided 3D Reconstruction of Wind Turbine Blades from UAV Imagery**|Hiep Luong Team|[2611.27407](http://arxiv.org/abs/2611.27407)|null|
+|**2026-11-20**|**ManipScope: A Diagnostic Benchmark for Instruction Following and Generalization in Robotic Manipulation**|Jiahu Qin Team|[2611.27305](http://arxiv.org/abs/2611.27305)|null|
+|**2026-11-20**|**HermiteTwin: Bicubic Hermite Shell Digital Twins for Contact-Rich Deformable Manipulation**|Bo Ren Team|[2611.27282](http://arxiv.org/abs/2611.27282)|null|
+|**2026-11-20**|**Normal-state exponential muon-spin relaxation and its implications for time-reversal symmetry breaking in Sr $_2$ RuO$_4$**|Yoshiteru Maeno Team|[2611.27240](http://arxiv.org/abs/2611.27240)|null|
+|**2026-11-20**|**EAST: Event-Anchored Surface Transport for Event-Based Gaussian Reconstruction**|Yang Cao Team|[2611.27224](http://arxiv.org/abs/2611.27224)|null|
+|**2026-11-20**|**Learning from Incomplete Actions: Interval Motion Supervision for Vision-Language-Action Policies**|Gang Wang Team|[2611.27171](http://arxiv.org/abs/2611.27171)|null|
+|**2026-11-20**|**Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically Plausible Apo-to-Holo Protein Generation**|Juyong Lee Team|[2611.27162](http://arxiv.org/abs/2611.27162)|null|
+|**2026-11-20**|**TrajRealm: A Large-Scale Point Tracking Dataset with Diverse Dynamics**|Junting Dong Team|[2611.27136](http://arxiv.org/abs/2611.27136)|null|
+|**2026-11-20**|**Opto-Electronic Hybrid Reinforcement Learning Based on MZI for Robotic Manipulator Control**|Yue Hao Team|[2611.27129](http://arxiv.org/abs/2611.27129)|null|
 |**2026-11-19**|**One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning**|Mike Zheng Shou Team|[2611.26617](http://arxiv.org/abs/2611.26617)|**[link](https://github.com/showlab/O2LaF)**|
 |**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Ngan Le Team|[2611.26565](http://arxiv.org/abs/2611.26565)|null|
 |**2026-11-19**|**SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention**|Pascal Fua Team|[2611.26493](http://arxiv.org/abs/2611.26493)|null|
@@ -863,6 +883,9 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design**|Lingfeng Tao Team|[2611.27967](http://arxiv.org/abs/2611.27967)|null|
+|**2026-11-20**|**ROSWORLD: When Digital Task Competence Meets Physical Execution**|Yinqiang Zheng Team|[2611.27467](http://arxiv.org/abs/2611.27467)|null|
+|**2026-11-20**|**Latent Jacobian Steer: Eliciting Contact-Rich Out-of-Distribution Behaviors from Pretrained Humanoid Controllers**|Guillaume Adrien Sartoretti Team|[2611.27338](http://arxiv.org/abs/2611.27338)|null|
 |**2026-11-19**|**ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embodied Agents**|Xiaogang Wang Team|[2611.26519](http://arxiv.org/abs/2611.26519)|null|
 |**2026-11-18**|**DiWALI: Diffusion Policy Learning in World Models via Latent Action Inference from Human and Robot Play**|Abhinav Valada Team|[2611.24836](http://arxiv.org/abs/2611.24836)|null|
 |**2026-11-18**|**HandWorldBench: A Unified Benchmark for Hand-Centric World Models**|Zhibo Chen Team|[2611.24731](http://arxiv.org/abs/2611.24731)|null|
