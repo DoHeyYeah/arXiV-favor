@@ -1,4 +1,4 @@
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**VITA-WAM: Manifold-Aligned World-Action Modeling for Real-Time Robot Control**|Junshan Zhang Team|[2611.31195](http://arxiv.org/abs/2611.31195)|null|
+|**2026-11-23**|**EmboEagle: An Efficient Agentic Embodied Framework for Long-horizon Robotic Manipulation**|Wanli Ouyang Team|[2611.31173](http://arxiv.org/abs/2611.31173)|null|
+|**2026-11-23**|**FATCAT: Fault Injection Attacks Targeting Chip-level Alignment**|Lejla Batina Team|[2611.31129](http://arxiv.org/abs/2611.31129)|null|
+|**2026-11-23**|**NoveltyGate: Novelty, Not Error, Decides Which VLA Prefix Tokens to Compute Exactly**|Lemeng Qi Team|[2611.31099](http://arxiv.org/abs/2611.31099)|null|
+|**2026-11-23**|**Real2Worlds2Real: Scaling Self-Improving Agentic Real2Sim2Real for Robot Manipulation**|Ruihai Wu Team|[2611.31098](http://arxiv.org/abs/2611.31098)|null|
+|**2026-11-23**|**Boltz-Flow: Generating High-Quality Robot Action from Boltzmann Machine**|Jianfei Yang Team|[2611.31038](http://arxiv.org/abs/2611.31038)|null|
+|**2026-11-23**|**Foresight Forcing: Learning Spatial Foresight for Robotic Manipulation**|Cewu Lu Team|[2611.30963](http://arxiv.org/abs/2611.30963)|null|
+|**2026-11-23**|**DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation**|Rolandos Alexandros Potamias Team|[2611.30907](http://arxiv.org/abs/2611.30907)|null|
+|**2026-11-23**|**Predicting Rare-Mode Collapse in Recursive Generative Training from Single-Generation Calibration**|Lu Han Team|[2611.30897](http://arxiv.org/abs/2611.30897)|null|
+|**2026-11-23**|**Joint Flow-Matching Posteriors for Overlapping LISA Galactic Binaries**|Giorgio Mentasti Team|[2611.30872](http://arxiv.org/abs/2611.30872)|null|
+|**2026-11-23**|**XFreq: Geometry-Aligned Cross-View Residual Learning for Sparse 3D Ultrasound Reconstruction**|Davood Karimi Team|[2611.30869](http://arxiv.org/abs/2611.30869)|null|
+|**2026-11-23**|**HIVE-Bench: Evaluating Patch-Level Visual Representations for Egocentric Robot Manipulation**|Renjing Xu Team|[2611.30813](http://arxiv.org/abs/2611.30813)|null|
+|**2026-11-23**|**Go Far, Look Less: Active Multi-Room Reconstruction with Persistent Goals and Selective Views**|Gaoang Wang Team|[2611.30802](http://arxiv.org/abs/2611.30802)|null|
+|**2026-11-23**|**BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion**|Huimin Ma Team|[2611.30787](http://arxiv.org/abs/2611.30787)|null|
+|**2026-11-23**|**Object Count Generalization Is an Interface Problem: Warping a Frozen Skill Instead of Retraining It**|Marc Toussaint Team|[2611.30765](http://arxiv.org/abs/2611.30765)|null|
+|**2026-11-23**|**BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models**|S. Okada Team|[2611.30723](http://arxiv.org/abs/2611.30723)|null|
+|**2026-11-23**|**LLM-Guided Compositional Continual Learning for Robot Manipulation with Gated Low-Rank Experts**|Fares Abu-Dakka Team|[2611.30667](http://arxiv.org/abs/2611.30667)|null|
+|**2026-11-23**|**Active Observation for Robust Visual Servoing in Robotic Manipulation**|Weiming Shen Team|[2611.30658](http://arxiv.org/abs/2611.30658)|null|
+|**2026-11-23**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Xingang Pan Team|[2611.30597](http://arxiv.org/abs/2611.30597)|null|
+|**2026-11-23**|**RoboInF: A Benchmark for Instruction Fidelity in Robotic Manipulation**|Wei Shen Team|[2611.30555](http://arxiv.org/abs/2611.30555)|null|
 |**2026-11-20**|**Beyond Visual Fidelity: Comparing Categorical and Continuous World Models**|Katja Hofmann Team|[2611.27870](http://arxiv.org/abs/2611.27870)|null|
 |**2026-11-20**|**Diffusing the assumptions: towards realistic LISA stochastic component separation with physics-aware simulation-based inference**|Natalia Korsakova Team|[2611.27848](http://arxiv.org/abs/2611.27848)|null|
 |**2026-11-20**|**VeilGS: Solving Darkness as a Veil of 2D Basis Maps over Retinex 3DGS**|Jun Chen Team|[2611.27719](http://arxiv.org/abs/2611.27719)|null|
@@ -883,18 +903,25 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Wrist-Camera Video Diffusion as Generalizable Robot Policies**|Zhi Hou Team|[2611.31079](http://arxiv.org/abs/2611.31079)|null|
+|**2026-11-23**|**DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation**|Rolandos Alexandros Potamias Team|[2611.30907](http://arxiv.org/abs/2611.30907)|null|
+|**2026-11-23**|**EgoStudy: How Does Scaling Egocentric Data Affect VLA and WAM Pretraining?**|Jianyu Chen Team|[2611.30490](http://arxiv.org/abs/2611.30490)|null|
+|**2026-11-23**|**CHAMP: Coordinated Humanoid Loco-Manipulation with Whole-Body Motion Priors**|Wei Sui Team|[2611.30449](http://arxiv.org/abs/2611.30449)|null|
+|**2026-11-22**|**FunGrasp-Zero: Field-Conditioned Graph Attention Policy for Zero-Shot Cross-Embodiment Dexterous Functional Grasping**|Wei-Shi Zheng Team|[2611.29195](http://arxiv.org/abs/2611.29195)|null|
+|**2026-11-21**|**Doing More with Less: Complex Manipulation with a Contact-Adaptive Robotic Hand**|Sanghoon Jung Team|[2611.28675](http://arxiv.org/abs/2611.28675)|null|
+|**2026-11-21**|**Lifted Multiple Shooting for Parallel-in-Time Contact-Rich Trajectory Optimization**|Glen Chou Team|[2611.28512](http://arxiv.org/abs/2611.28512)|null|
 |**2026-11-20**|**Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design**|Lingfeng Tao Team|[2611.27967](http://arxiv.org/abs/2611.27967)|null|
 |**2026-11-20**|**ROSWORLD: When Digital Task Competence Meets Physical Execution**|Yinqiang Zheng Team|[2611.27467](http://arxiv.org/abs/2611.27467)|null|
 |**2026-11-20**|**Latent Jacobian Steer: Eliciting Contact-Rich Out-of-Distribution Behaviors from Pretrained Humanoid Controllers**|Guillaume Adrien Sartoretti Team|[2611.27338](http://arxiv.org/abs/2611.27338)|null|
 |**2026-11-19**|**ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embodied Agents**|Xiaogang Wang Team|[2611.26519](http://arxiv.org/abs/2611.26519)|null|
 |**2026-11-18**|**DiWALI: Diffusion Policy Learning in World Models via Latent Action Inference from Human and Robot Play**|Abhinav Valada Team|[2611.24836](http://arxiv.org/abs/2611.24836)|null|
-|**2026-11-18**|**HandWorldBench: A Unified Benchmark for Hand-Centric World Models**|Zhibo Chen Team|[2611.24731](http://arxiv.org/abs/2611.24731)|null|
+|**2026-11-21**|**HandWorldBench: A Unified Benchmark for Hand-Centric World Models**|Zhibo Chen Team|[2611.24731](http://arxiv.org/abs/2611.24731)|null|
 |**2026-11-18**|**SHAPE: Discrete Supervision and Parallel Continuous Streams for Learning Dexterous Manipulation from Egocentric Human Data**|Zhijie Deng Team|[2611.24585](http://arxiv.org/abs/2611.24585)|null|
 |**2026-11-18**|**ART: Bridging the Embodiment Gap in 3D Human-to-Robot Affordance Transfer**|Yu Kang Team|[2611.24182](http://arxiv.org/abs/2611.24182)|null|
 |**2026-11-19**|**Ego2X: Contact-aware Transfer from Egocentric Human Data to Any Robot**|Zhicheng Wang Team|[2611.24138](http://arxiv.org/abs/2611.24138)|null|
@@ -1074,5 +1101,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
