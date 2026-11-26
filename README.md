@@ -1,4 +1,4 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,26 @@
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Ranjay Krishna Team|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
+|**2026-11-24**|**PointX: Multi-View Consistent Intrinsics by Querying Surface Points**|Michael Fischer Team|[2611.33157](http://arxiv.org/abs/2611.33157)|null|
+|**2026-11-24**|**PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents**|Daquan Zhou Team|[2611.33144](http://arxiv.org/abs/2611.33144)|null|
+|**2026-11-24**|**iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction**|Aviral Kumar Team|[2611.33141](http://arxiv.org/abs/2611.33141)|null|
+|**2026-11-24**|**Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action**|Angela Dai Team|[2611.33137](http://arxiv.org/abs/2611.33137)|null|
+|**2026-11-24**|**Scalar perturbations in extremal Reissner-Nordström geometry: new methods at work**|Marco Rossi Team|[2611.33123](http://arxiv.org/abs/2611.33123)|null|
+|**2026-11-24**|**Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies**|Weihao Yu Team|[2611.33010](http://arxiv.org/abs/2611.33010)|**[link](https://github.com/iPPLab/robodojo-mirror)**|
+|**2026-11-24**|**HARI4D: Hand-Articulation Aware 4D Reconstruction of Human-Object Interaction**|Gerard Pons-Moll Team|[2611.32932](http://arxiv.org/abs/2611.32932)|null|
+|**2026-11-24**|**CityRecast: Suppressing Persistent Artifacts in Generative Satellite 3D Reconstruction**|Xian Sun Team|[2611.32863](http://arxiv.org/abs/2611.32863)|null|
+|**2026-11-24**|**SpatialArena: Where Do Geometric Foundation Models Stand?**|Jiankang Deng Team|[2611.32816](http://arxiv.org/abs/2611.32816)|null|
+|**2026-11-24**|**MRBench: Benchmarking Physical Necessity Reasoning in Heterogeneous Multi-Robot Manipulation**|Mike Zheng Shou Team|[2611.32803](http://arxiv.org/abs/2611.32803)|null|
+|**2026-11-24**|**Supply Geometry, Learn Execution: Screw Attention for Zero-Shot Policy Transfer in Robot Manipulation**|Aly Magassouba Team|[2611.32797](http://arxiv.org/abs/2611.32797)|null|
+|**2026-11-24**|**Simulator-as-Proxy World Model for Robot Manipulation**|Guangyi Liu Team|[2611.32786](http://arxiv.org/abs/2611.32786)|**[link](https://github.com/TingtingLiao/SimPWM)**|
+|**2026-11-24**|**AG-WAM: Attention-Guided World Action Model for Accurate and Efficient Robot Manipulation**|Xiao Song Team|[2611.32722](http://arxiv.org/abs/2611.32722)|null|
+|**2026-11-24**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Hesheng Wang Team|[2611.32665](http://arxiv.org/abs/2611.32665)|null|
+|**2026-11-24**|**DexWAC: A Unified World-Actor-Critic Model for Dexterous Robot Manipulation**|Li Yi Team|[2611.32654](http://arxiv.org/abs/2611.32654)|null|
+|**2026-11-24**|**ReFocus: Progress-Guided Adaptive Practice for Long-Horizon Robotic Manipulation Reinforcement Learning**|Yi Yang Team|[2611.32639](http://arxiv.org/abs/2611.32639)|null|
+|**2026-11-24**|**HazeFlux: Few-Step Generative Priors for Real-World Image Dehazing**|Javier Vazquez-Corral Team|[2611.32632](http://arxiv.org/abs/2611.32632)|null|
+|**2026-11-24**|**Completion-Aware Compression for Progressive 3D Gaussian Splatting**|Eun-Seok Ryu Team|[2611.32628](http://arxiv.org/abs/2611.32628)|null|
+|**2026-11-24**|**MXI-MemICL: Towards In-Context Robot Manipulation through Self-Retrieved Interaction Memory**|Chao Yang Team|[2611.32564](http://arxiv.org/abs/2611.32564)|null|
 |**2026-11-23**|**VITA-WAM: Manifold-Aligned World-Action Modeling for Real-Time Robot Control**|Junshan Zhang Team|[2611.31195](http://arxiv.org/abs/2611.31195)|null|
 |**2026-11-23**|**EmboEagle: An Efficient Agentic Embodied Framework for Long-horizon Robotic Manipulation**|Wanli Ouyang Team|[2611.31173](http://arxiv.org/abs/2611.31173)|null|
 |**2026-11-23**|**FATCAT: Fault Injection Attacks Targeting Chip-level Alignment**|Lejla Batina Team|[2611.31129](http://arxiv.org/abs/2611.31129)|null|
@@ -903,12 +923,17 @@
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Huaizu Jiang Team|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|arXiv|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**MemHand: Memory-Enhanced World-Space Hand Motion Reconstruction from Egocentric Videos**|Hesheng Wang Team|[2611.32876](http://arxiv.org/abs/2611.32876)|null|
+|**2026-11-24**|**RoboRecast: Intent-Preserving Demonstration Augmentation via Diagnosis-Driven Optimization**|Xiaowei Zhou Team|[2611.32622](http://arxiv.org/abs/2611.32622)|null|
+|**2026-11-24**|**ViTacLab: Physically Consistent Visuo-Tactile Simulation, Benchmarking, and Representation Learning for Robotic Manipulation**|Ruihai Wu Team|[2611.32476](http://arxiv.org/abs/2611.32476)|null|
+|**2026-11-24**|**Ego2Real: Learning Bimanual Dexterous Manipulation from Egocentric Visuo-Tactile Demonstrations**|Bidan Huang Team|[2611.32101](http://arxiv.org/abs/2611.32101)|null|
+|**2026-11-23**|**Hi3R-VLA: Grounding Semantics and Actions in 3D**|Cordelia Schmid Team|[2611.31535](http://arxiv.org/abs/2611.31535)|null|
 |**2026-11-23**|**Wrist-Camera Video Diffusion as Generalizable Robot Policies**|Zhi Hou Team|[2611.31079](http://arxiv.org/abs/2611.31079)|null|
 |**2026-11-23**|**DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation**|Rolandos Alexandros Potamias Team|[2611.30907](http://arxiv.org/abs/2611.30907)|null|
 |**2026-11-23**|**EgoStudy: How Does Scaling Egocentric Data Affect VLA and WAM Pretraining?**|Jianyu Chen Team|[2611.30490](http://arxiv.org/abs/2611.30490)|null|
@@ -1101,5 +1126,5 @@
 |**2026-09-14**|**WLA $^3$ : World Latent Action Modeling for Semantics, Dynamics, and Kinematics**|Jiawei Li Team|[2609.15870](http://arxiv.org/abs/2609.15870)|null|
 |**2026-09-14**|**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**|Junchi Yan Team|[2609.15726](http://arxiv.org/abs/2609.15726)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
