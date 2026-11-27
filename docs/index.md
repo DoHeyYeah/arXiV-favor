@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.11.26
+## Updated on 2026.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**AnyCam: Anything Can Represent Camera for Video Generation**|Ming-Hsuan Yang Team|[2611.34944](http://arxiv.org/abs/2611.34944)|null|
+|**2026-11-25**|**DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses**|Jia Deng Team|[2611.34936](http://arxiv.org/abs/2611.34936)|null|
+|**2026-11-25**|**DynMF2: Rigid Motion Factorization by Expectation-Maximization for Monocular 4D Reconstruction and Motion Segmentation**|Kostas Daniilidis Team|[2611.34931](http://arxiv.org/abs/2611.34931)|null|
+|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yilun Du Team|[2611.34884](http://arxiv.org/abs/2611.34884)|null|
+|**2026-11-25**|**WorldExpand: Building Coherent 3D Worlds via Sparse Joint Panoramic Expansion**|Chunchao Guo Team|[2611.34810](http://arxiv.org/abs/2611.34810)|null|
+|**2026-11-25**|**SOLVE: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator**|Shengjin Wang Team|[2611.34750](http://arxiv.org/abs/2611.34750)|null|
+|**2026-11-25**|**Nav4Manip: From Navigation to Dexterous Mobile Manipulation through Co-Evolution**|He Wang Team|[2611.34655](http://arxiv.org/abs/2611.34655)|null|
+|**2026-11-25**|**M $^{2}$ AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation**|Hao Wang Team|[2611.34560](http://arxiv.org/abs/2611.34560)|null|
+|**2026-11-25**|**Dynamic Task Update Benchmark (DTU-Bench): Evaluating Runtime Task Adaptation in Robotic Manipulation**|Leimin Tian Team|[2611.34538](http://arxiv.org/abs/2611.34538)|null|
+|**2026-11-25**|**Who Is Ego? Scaling Cross-View Camera Wearer Identification and Segmentation beyond Humans**|Yuqian Fu Team|[2611.34489](http://arxiv.org/abs/2611.34489)|null|
+|**2026-11-25**|**Can Visual World Models See Force?**|Nassir Navab Team|[2611.34422](http://arxiv.org/abs/2611.34422)|null|
+|**2026-11-25**|**One Patch, Many Policies: Object-Associated Physical Patch Attacks on Robotic Manipulation**|Yi Yu Team|[2611.34360](http://arxiv.org/abs/2611.34360)|null|
+|**2026-11-25**|**BOT-Scale: A Traceable Evaluation Methodology for Robotic Manipulation**|Zheng-Jun Zha Team|[2611.34297](http://arxiv.org/abs/2611.34297)|null|
+|**2026-11-25**|**CamAct: Learning Robotic Manipulation from In-the-Wild Videos via Camera Motion**|Weinan Zhang Team|[2611.34257](http://arxiv.org/abs/2611.34257)|null|
+|**2026-11-25**|**Loop4D: Embodied World Modeling with 4D VAEs and Looped Diffusion Transformers**|Hao Zhao Team|[2611.34199](http://arxiv.org/abs/2611.34199)|null|
+|**2026-11-25**|**OceanFix: Reference-Guided Diffusion for Sparse-View Underwater 3D Reconstruction**|Yu Pan Team|[2611.34155](http://arxiv.org/abs/2611.34155)|null|
+|**2026-11-25**|**Ground Your Steps: Optimizing Sampling Schedules in Flow Matching Robot Policies**|Hu Su Team|[2611.34148](http://arxiv.org/abs/2611.34148)|null|
+|**2026-11-25**|**WAtcher: Watching Ahead for Safe Robotic Manipulation with Efficient World-Action Models**|Ziwei Wang Team|[2611.34124](http://arxiv.org/abs/2611.34124)|null|
+|**2026-11-25**|**CoTacWAM: Joint Modeling of Vision and Touch for Robotic Manipulation**|Yong Li Team|[2611.34117](http://arxiv.org/abs/2611.34117)|null|
+|**2026-11-25**|**AlignPre: Skill-Aligned Post-Training for Latent-Free Generative Precipitation Nowcasting**|Xutao Li Team|[2611.34101](http://arxiv.org/abs/2611.34101)|null|
 |**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Ranjay Krishna Team|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
 |**2026-11-24**|**PointX: Multi-View Consistent Intrinsics by Querying Surface Points**|Michael Fischer Team|[2611.33157](http://arxiv.org/abs/2611.33157)|null|
 |**2026-11-24**|**PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents**|Daquan Zhou Team|[2611.33144](http://arxiv.org/abs/2611.33144)|null|
@@ -923,6 +943,11 @@ layout: default
 
 | Publish Date | Title | Authors | arXiv | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Who Is Ego? Scaling Cross-View Camera Wearer Identification and Segmentation beyond Humans**|Yuqian Fu Team|[2611.34489](http://arxiv.org/abs/2611.34489)|null|
+|**2026-11-25**|**Co-World Model for Human-Video-to-Robot Transfer via Co-Constructed Shared Latent Dynamics**|Miao Li Team|[2611.34302](http://arxiv.org/abs/2611.34302)|null|
+|**2026-11-25**|**X-World: Transferring Video Priors to Cross-Embodiment Robot Control**|Li Zhang Team|[2611.33914](http://arxiv.org/abs/2611.33914)|null|
+|**2026-11-25**|**Lab2Sim: Agentic Generation of Interactive Laboratory Equipment from Operation Videos**|Zhaoxin Fan Team|[2611.33705](http://arxiv.org/abs/2611.33705)|null|
+|**2026-11-25**|**DexEngine: Scaling Human Demonstrations into Physically Executable Whole-Robot Data**|Minsu Cho Team|[2611.33579](http://arxiv.org/abs/2611.33579)|**[link](https://github.com/wongyun-yu/DexEngine)**|
 |**2026-11-24**|**MemHand: Memory-Enhanced World-Space Hand Motion Reconstruction from Egocentric Videos**|Hesheng Wang Team|[2611.32876](http://arxiv.org/abs/2611.32876)|null|
 |**2026-11-24**|**RoboRecast: Intent-Preserving Demonstration Augmentation via Diagnosis-Driven Optimization**|Xiaowei Zhou Team|[2611.32622](http://arxiv.org/abs/2611.32622)|null|
 |**2026-11-24**|**ViTacLab: Physically Consistent Visuo-Tactile Simulation, Benchmarking, and Representation Learning for Robotic Manipulation**|Ruihai Wu Team|[2611.32476](http://arxiv.org/abs/2611.32476)|null|
